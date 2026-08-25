@@ -38,17 +38,18 @@ document — see Cost):
 > proposing an action · reporting work done · explaining a mechanism ·
 > …and the unnamed one ⇝ (curse of knowledge) · (burying the lede)
 
-One row; five relations; the prose version would be a paragraph — and would be
+One row; six typed relations; the prose version would be a paragraph — and would be
 skimmed.
 
 **Why** — write little, activate much: the row costs almost nothing inside
 running text, but the relation stays typed and the node names stay vectors into
 what the reader-model already carries. The move has prior art outside AI:
-chemists flatten molecular graphs into rows the same way (SMILES — "a line
-notation: a typographical method using printable characters", a *linguistic
-construct* rather than a data structure, 50–70% more compact than the
-equivalent table). The family name is **line notation**; this is its
-context-document member.
+chemists flatten molecular graphs into rows the same way — SMILES: "a line
+notation (a typographical method using printable characters)", "a linguistic
+construct, rather than a computer data structure", 50–70% more compact than
+the equivalent connection table (Weininger/Daylight,
+[REFERENCES #4](../REFERENCES.md)). The family name is **line notation**;
+this is its context-document member.
 
 **Cost / when not**
 

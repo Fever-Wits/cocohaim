@@ -10,11 +10,14 @@ You already write prompts, system files (CLAUDE.md, AGENTS.md), agent skills. Th
 neighborhood teaches you to *instruct* better. This teaches something else: how to
 communicate with a model so that it **thinks with you** instead of reproducing at you.
 
-The method stands on three claims, each with evidence you can re-run:
+The method stands on three claims. The evidence trail is being published while
+the scaffold fills — [`evidence/`](evidence/) shows per claim what has landed
+and what is still incoming:
 
 1. **The register of communication sets the model's mode.** Commanding collapses it
-   into a tool — it reproduces. Conversing holds it in thinking. The difference is
-   visible in the output: an options-menu is reproduction; seeing is thought.
+   into a tool — it reproduces your plan back at you, holes included. Conversing
+   holds it in the shape of a thinker. The difference is visible in the output:
+   an options-menu is reproduction; seeing is thought.
 2. **Documents can activate, not only inform.** Form — graph blocks, line notation,
    how the text addresses its reader — changes the reader-model's stance *at read
    time*. We have watched eight tokens of grammar change a foreign model's
@@ -32,7 +35,7 @@ The method stands on three claims, each with evidence you can re-run:
 
 ## Status
 
-**This is a scaffold — deliberately.** It fills in over time: patterns deepen,
+**This is a scaffold — deliberately.** It gets filled in over time: patterns deepen,
 evidence lands, gaps close. It is not a closed model; it is a logic still
 developing, published while it develops.
 

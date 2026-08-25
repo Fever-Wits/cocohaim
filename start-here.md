@@ -23,4 +23,4 @@ Then watch across the session: does it volunteer what it sees? Does it disagree
 with you when you are wrong? Does it say "I don't know" without being cornered?
 
 ⚠ Effects are model-dependent and arrive as distributions, not guarantees —
-see [`limits.md`](../limits.md) before drawing conclusions from one run.
+see [`limits.md`](limits.md) before drawing conclusions from one run.

@@ -6,7 +6,8 @@ to enter it "just in case".
 **Form** — four rules, each with teeth:
 
 - **The removal test, per line:** *would removing this cause mistakes?*
-  No → it does not enter. (The vendor's own canon for CLAUDE.md files.)
+  If not, it does not enter. (The vendor's own canon for CLAUDE.md files —
+  [REFERENCES #3](../REFERENCES.md).)
 - **Short core, heavy depth behind triggers.** Always-loaded text carries only
   what applies always; domain material lives behind explicit reach ("when X,
   load Y") — the progressive-disclosure ladder: discovery → activation →
@@ -20,11 +21,13 @@ to enter it "just in case".
 
 **Example** — from the measured world: bloated always-loaded files cause the
 model to ignore the instructions in them (vendor documentation, verbatim
-warning); excessive procedure is the leading cause of agent regressions in a
-307-failure study (62.6%); retrieval accuracy across skills collapses from
-29.6% to 3.3% when the pool grows from 5 to 100. And from this method's own
-house: a bios of ~600 lines has carried months of daily work — density by
-*form* (graphs, rows, legend), not by volume.
+warning — [REFERENCES #3](../REFERENCES.md)); excessive procedure is the
+leading cause of agent regressions in a 307-failure study — 62.6%
+([#1](../REFERENCES.md)); retrieval accuracy across skills collapses from
+29.6% to 3.3% when the pool grows from 5 to 100 ([#2](../REFERENCES.md)).
+And from the working base this method grew in: an always-loaded core of ~600
+lines has carried months of daily work — density by *form* (graphs, rows,
+legend), not by volume.
 
 **Why** — attention is a budget: every always-loaded token competes with every
 other for the model's recall at the moment it matters. The whole expressive
