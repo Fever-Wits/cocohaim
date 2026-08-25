@@ -8,7 +8,7 @@ behavior stays the same.
 
 ```
 external memory = store × maintain-canon × use-canon
-        ⊸ any factor at zero → the product is zero
+        ∴ any factor at zero — the product is zero
 ```
 
 The store is what the tools ship. The two canons are what you write:
@@ -26,14 +26,15 @@ The store is what the tools ship. The two canons are what you write:
 - what to trust: memory answers are leads — verify against the world before
   building on them.
 
-**Example** — live, negative, measured: a 27B model was given two working
-memory systems, fully configured, connection tested. Across every session it
-made **zero** calls to either — while fluently *talking about* memory, loops
-and records it had read about. Speech activates; work does not — unless the
-use-canon is part of what it reads. The positive mirror, from the same house,
-one line: *learns → records → the next session reads → it activates* — and
-that loop, read by the same model, is what moved it to rewrite its own
-persistent memory unprompted, twice, correctly.
+**Example** — live, negative, one documented case (n=1, no control): a 27B
+model was given two working memory systems, fully configured, connection
+tested. Across all four of its sessions over two days it made **zero** calls
+to either — while fluently *talking about* memory, loops and records it had
+read about. Speech activates; work does not — unless the use-canon is part of
+what it reads. The positive mirror, same case: one line — *learns → records →
+the next session reads → it activates* — and after reading that loop, the
+same model rewrote its own persistent memory twice without being asked
+(its own persona file; verified in its version history).
 
 **Why** — memory vendors ship stores; behavior lives in canons. Without the
 maintain-canon the store rots (duplicates, contradictions, stale records —
@@ -51,6 +52,6 @@ they are written in the activating forms of this method, not as policy prose.
 - A memory that only one session will ever use does not need canons — plain
   notes beat ceremony.
 
-**Related** — always-loaded-diet (where the canons live) · registers (a canon
-can invite: "before you write, ask what already knows this") · line-notation
-(the loop above is one).
+**Related** — [always-loaded-diet](always-loaded-diet.md) (where the canons live) ·
+[registers](registers.md) (a canon can invite: "before you write, ask what already
+knows this") · [line-notation](line-notation.md) (the loop above is one).

@@ -2,7 +2,8 @@
 
 **Fires when** — a place where thinking must NOT happen: any fork here is a
 failure, not a choice. Irreversible actions · ownership boundaries · safety
-rules.
+rules · non-negotiable working conventions (the language a partner reads,
+the one live place knowledge is born).
 
 **Form** — few · counted · marked · fork-free, and announced as such:
 
@@ -44,5 +45,6 @@ register. The invitation-document is what makes its hard canons hard.
   argument should be able to change it mid-work, it is not a hard canon —
   it is a decision, and decisions live in the conversing register.
 
-**Related** — registers (the contrast that powers this) · legend (⚠, scoped) ·
-always-loaded-diet (the budget that keeps the list short).
+**Related** — [registers](registers.md) (the contrast that powers this) ·
+[legend](legend.md) (⚠, scoped) · [always-loaded-diet](always-loaded-diet.md)
+(the budget that keeps the list short).

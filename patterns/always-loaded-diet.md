@@ -44,6 +44,6 @@ the language; it is the pressure that shaped it.
 - One-off prompts need no diet — the budget matters where text is loaded on
   every step of every session.
 
-**Related** — graph-block · line-notation (the compression forms) · legend
-(entries earn their place) · memory-canons (depth behind reach instead of
-in-context bulk).
+**Related** — [graph-block](graph-block.md) · [line-notation](line-notation.md) (the
+compression forms) · [legend](legend.md) (entries earn their place) ·
+[memory-canons](memory-canons.md) (depth behind reach instead of in-context bulk).

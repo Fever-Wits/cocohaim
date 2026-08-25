@@ -39,8 +39,8 @@ and what is still incoming:
 evidence lands, gaps close. It is not a closed model; it is a logic still
 developing, published while it develops.
 
-Built inside a working human–AI partnership — the method is writing its own
-documentation, which is also its demonstration.
+The method grew inside a working human–AI partnership, and it is writing its
+own documentation — which is also its demonstration.
 
 ## License
 

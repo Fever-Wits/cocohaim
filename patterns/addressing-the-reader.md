@@ -49,7 +49,7 @@ someone — they are *in the voice of* the one reading.
 - Address without content is manner. The address opens the channel; the rest
   of the method fills it.
 
-**Related** — registers (address is the invitation's grammar) · graph-block
-(bracketed nodes land on the addressed reader) · hard-canons (even a hard rule
-can be addressed: "you never push without approval" vs "pushing is
-forbidden").
+**Related** — [registers](registers.md) (address is the invitation's grammar) ·
+[graph-block](graph-block.md) (bracketed nodes land on the addressed reader) ·
+[hard-canons](hard-canons.md) (even a hard rule can be addressed: "you never push
+without approval" vs "pushing is forbidden").

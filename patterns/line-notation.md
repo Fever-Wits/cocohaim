@@ -67,5 +67,6 @@ this is its context-document member.
   meanings in sibling documents is a measured internal failure mode — the
   vocabulary must be versioned once, not re-invented per file.
 
-**Related** — graph-block (the same graph, one dimension up) · legend (what
-trains the reader) · always-loaded-diet (compactness is the point of the row).
+**Related** — [graph-block](graph-block.md) (the same graph, one dimension up) ·
+[legend](legend.md) (what trains the reader) · [always-loaded-diet](always-loaded-diet.md)
+(compactness is the point of the row).

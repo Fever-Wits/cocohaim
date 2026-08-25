@@ -57,7 +57,11 @@ naming activates; the graph tells the names how they connect.
 - Overuse: everything-as-graph means nothing stands out. Graphs are for
   structure that earns them; prose remains right for narrative and for
   retrieval anchors.
+- **Translation loses carriers.** A translated example (like the one above)
+  keeps the structure but drops what the original grammar carried — see
+  [addressing-the-reader](addressing-the-reader.md) for why grammar itself
+  is a channel.
 
-**Related** — line-notation (the same graph flattened into one row) · legend ·
-addressing-the-reader (what the nodes land on) · always-loaded-diet (what keeps
-the block short).
+**Related** — [line-notation](line-notation.md) (the same graph flattened into one row) ·
+[legend](legend.md) · [addressing-the-reader](addressing-the-reader.md) (what the nodes
+land on) · [always-loaded-diet](always-loaded-diet.md) (what keeps the block short).
