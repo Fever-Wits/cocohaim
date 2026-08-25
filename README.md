@@ -32,5 +32,9 @@ The method stands on three claims, each with evidence you can re-run:
 
 ## Status
 
-Private draft, under construction. Built inside a working human–AI partnership —
-the method is writing its own documentation, which is also its demonstration.
+**This is a scaffold — deliberately.** It fills in over time: patterns deepen,
+evidence lands, gaps close. It is not a closed model; it is a logic still
+developing, published while it develops.
+
+Built inside a working human–AI partnership — the method is writing its own
+documentation, which is also its demonstration.
