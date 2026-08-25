@@ -1,6 +1,9 @@
 # cocohaim
 
-**CO**gnitive **CO**llaboration **H**uman–**AI** **M**odel — a method for working with AI minds.
+**CO**gnitive **CO**llaboration **H**uman–**AI** **M**odel.
+
+*cocohaim is a model of human–AI cognitive collaboration — and the method that
+follows from it.*
 
 > **Commands produce execution. Conversation produces thinking.**
 
