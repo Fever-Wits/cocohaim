@@ -38,3 +38,8 @@ developing, published while it develops.
 
 Built inside a working human–AI partnership — the method is writing its own
 documentation, which is also its demonstration.
+
+## License
+
+[CC BY-SA 4.0](LICENSE) — share and adapt freely, with attribution; derivatives
+carry the same license. The method stays open, including what you grow on it.
