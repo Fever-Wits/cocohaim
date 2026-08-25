@@ -19,7 +19,7 @@ pattern fits on one screen:
 | Pattern | Status |
 |---|---|
 | [graph-block](graph-block.md) | draft |
-| line-notation | planned |
+| [line-notation](line-notation.md) | draft |
 | legend | planned |
 | registers (invitation vs command) | planned |
 | addressing-the-reader | planned |
