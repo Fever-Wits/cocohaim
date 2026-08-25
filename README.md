@@ -47,5 +47,9 @@ own documentation — which is also its demonstration.
 
 ## License
 
-[CC BY-SA 4.0](LICENSE) — share and adapt freely, with attribution; derivatives
-carry the same license. The method stays open, including what you grow on it.
+© 2026 Aleksandar Hristov · [CC BY-SA 4.0](LICENSE) — share and adapt freely,
+with attribution; derivatives carry the same license. The method stays open,
+including what you grow on it.
+
+Attribute as: *cocohaim* (Aleksandar Hristov,
+[github.com/Fever-Wits/cocohaim](https://github.com/Fever-Wits/cocohaim)).
