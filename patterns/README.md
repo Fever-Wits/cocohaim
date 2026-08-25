@@ -20,7 +20,7 @@ pattern fits on one screen:
 |---|---|
 | [graph-block](graph-block.md) | draft |
 | [line-notation](line-notation.md) | draft |
-| legend | planned |
+| [legend](legend.md) | draft |
 | registers (invitation vs command) | planned |
 | addressing-the-reader | planned |
 | memory-canons (maintain · use) | planned |
