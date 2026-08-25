@@ -21,8 +21,8 @@ pattern fits on one screen:
 | [graph-block](graph-block.md) | draft |
 | [line-notation](line-notation.md) | draft |
 | [legend](legend.md) | draft |
-| registers (invitation vs command) | planned |
-| addressing-the-reader | planned |
-| memory-canons (maintain · use) | planned |
-| always-loaded-diet | planned |
-| hard-canons | planned |
+| [registers](registers.md) — invitation vs command | draft |
+| [addressing-the-reader](addressing-the-reader.md) | draft |
+| [memory-canons](memory-canons.md) — maintain · use | draft |
+| [always-loaded-diet](always-loaded-diet.md) | draft |
+| [hard-canons](hard-canons.md) | draft |
