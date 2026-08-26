@@ -2,7 +2,7 @@
 
 A trained model carries a strong default toward pleasing its user. (That
 sentence is this method's *working model* — stated from observed output, one
-partnership, no control; → the claim table in [`evidence/`](evidence/README.md).)
+partnership, no control; → the practice-layer row in [`evidence/`](evidence/README.md).)
 Most advice treats the default as a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
@@ -121,7 +121,7 @@ both directions of the conversation.
 
 ## Practice
 
-The practices distilled from this chapter are lines 1–6 of
+The practices distilled from this chapter are lines 1–6 and 12 of
 [`practices.md`](practices.md) — one list, kept in one place.
 
 Effects are model-dependent and arrive as tendencies, not guarantees — see

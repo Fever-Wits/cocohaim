@@ -7,12 +7,12 @@ across runs and models, not as single flattering numbers.
 
 ## Claim → status
 
-| Claim (from the README) | Status today |
+| Claim | Status today |
 |---|---|
 | 1. Register sets the mode (command → reproduction · conversation → thinking) | **working hypothesis** — observed repeatedly in one working partnership (n=1 setting, no control); a controlled comparison is designed but not yet run |
 | 2. Documents activate at read time (form changes stance) | **incoming** — a documented before/after on a foreign 27B model exists in the working archive and is being adapted for publication here, with its confounds |
 | 3. Memory lives only with maintain + use canons | **partial, negative direction** — the "configured, never called" failure is documented in the same before/after; the positive direction is working practice, not yet a controlled result |
-| 4. Aiming the default (need · team · ownership — [collaboration.md](../collaboration.md)) | **working hypothesis** — one partnership, no control; the reframing moves are cheap to test |
+| *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)). Not a fourth claim: the ground beneath the three | **working hypothesis** — one partnership, no control; the reframing moves are cheap to test |
 
 Nothing in this directory is deliverable *yet* — this table is the honest state,
 kept current as material lands.
