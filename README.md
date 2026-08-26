@@ -43,7 +43,8 @@ In the order the layers stack:
 Reference: [`GLOSSARY.md`](GLOSSARY.md) — the terms the chapters lean on ·
 [`REFERENCES.md`](REFERENCES.md) — every measured claim's source.
 Uppercase files are repository-level references; lowercase files are the
-chapters.
+chapters. `tools/check_links.py` verifies every relative link and anchor —
+run it before a commit that moves or renames anything.
 
 ## Status
 
