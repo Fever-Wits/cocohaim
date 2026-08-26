@@ -43,9 +43,12 @@ Each line is a pointer; the *why* and the *cost* live where it points.
 9. Keep the hard rules few, counted and marked — and command only there. → [hard-canons](patterns/hard-canons.md)
 10. Keep a two-column table of the words that don't land. → [collaboration](collaboration.md)
 
+The full, growing list — with a line of *why* for each → [`practices.md`](practices.md)
+
 ## How to read this
 
 - Try one thing first → [`start-here.md`](start-here.md)
+- The guidelines, growing → [`practices.md`](practices.md)
 - The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
 - The catalog of expressive means → [`patterns/`](patterns/)
 - What we measured, and how to re-run it → [`evidence/`](evidence/)
