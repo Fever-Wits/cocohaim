@@ -40,7 +40,7 @@ Each line is a pointer; the *why* and the *cost* live where it points.
 6. Define the edges before you use them. → [legend](patterns/legend.md)
 7. Keep the always-loaded core short; put depth behind reach. → [always-loaded-diet](patterns/always-loaded-diet.md)
 8. Make the memory the model's own — and hand it both canons. → [memory-canons](patterns/memory-canons.md)
-9. Few hard rules, counted and marked — and command only there. → [hard-canons](patterns/hard-canons.md)
+9. Keep the hard rules few, counted and marked — and command only there. → [hard-canons](patterns/hard-canons.md)
 10. Keep a two-column table of the words that don't land. → [collaboration](collaboration.md)
 
 ## How to read this

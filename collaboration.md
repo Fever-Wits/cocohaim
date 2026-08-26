@@ -87,8 +87,9 @@ including the model's attention, which now watches for the forbidden thing.
 A positive line names the target. *"Forbidden: X"* becomes *"We do X this
 way: …"* — three moves in one sentence: the positive form points at the
 behavior; *we* carries the team frame; *this way* describes a practice, not
-a rule. In this partnership, lists of prohibitions produced a self-monitoring
-model; described practices produced the practice. Prohibitions keep their one
+a rule. In this partnership (n=1, no control), lists of prohibitions produced
+a self-monitoring model — the constricted shape described above, seen from
+its mechanism; described practices produced the practice. Prohibitions keep their one
 right place — the few, counted hard rules (→ [hard-canons](patterns/hard-canons.md)).
 
 ## Words are not neutral carriers
