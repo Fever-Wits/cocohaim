@@ -31,6 +31,7 @@ and what is still incoming:
 ## How to read this
 
 - Try one thing first → [`start-here.md`](start-here.md)
+- The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
 - The catalog of expressive means → [`patterns/`](patterns/)
 - What we measured, and how to re-run it → [`evidence/`](evidence/)
 - What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)

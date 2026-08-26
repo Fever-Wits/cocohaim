@@ -22,7 +22,7 @@ Read this before quoting the rest.
   text competes with itself — bloated context files get ignored, emphasis
   everywhere is emphasis nowhere, excessive procedure is the leading measured
   cause of agent regressions ([REFERENCES #1, #3](REFERENCES.md)). The method's
-  answer is a diet, not more instructions (→ patterns/always-loaded-diet.md).
+  answer is a diet, not more instructions (→ [always-loaded-diet](patterns/always-loaded-diet.md)).
 - **When this is not for you:** one-shot tasks with fully specified outputs;
   pipelines where reproduction *is* the goal; contexts where you cannot afford
   variance. Commanding is not a sin — it is a different tool, for different work.

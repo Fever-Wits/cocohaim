@@ -12,6 +12,7 @@ across runs and models, not as single flattering numbers.
 | 1. Register sets the mode (command → reproduction · conversation → thinking) | **working hypothesis** — observed repeatedly in one working partnership (n=1 setting, no control); a controlled comparison is designed but not yet run |
 | 2. Documents activate at read time (form changes stance) | **incoming** — a documented before/after on a foreign 27B model exists in the working archive and is being adapted for publication here, with its confounds |
 | 3. Memory lives only with maintain + use canons | **partial, negative direction** — the "configured, never called" failure is documented in the same before/after; the positive direction is working practice, not yet a controlled result |
+| 4. Aiming the default (need · team · ownership — [collaboration.md](../collaboration.md)) | **working hypothesis** — one partnership, no control; the reframing moves are cheap to test |
 
 Nothing in this directory is deliverable *yet* — this table is the honest state,
 kept current as material lands.
@@ -38,5 +39,8 @@ kept current as material lands.
 
 The cheapest way this directory fills: run [`start-here.md`](../start-here.md)
 on your model, keep the transcript, and report what changed (or didn't) via an
-issue. Negative results are as welcome as positive ones — the limits are part
-of the method.
+issue. A second one-session run: the two questions from
+[`collaboration.md`](../collaboration.md) — ask *"did I explain that well?"*
+where you would have asked *"did you understand?"* — and report which shapes
+came back. Negative results are as welcome as positive ones — the limits are
+part of the method.

@@ -57,7 +57,8 @@ comparison runs — see [`evidence/`](../evidence/README.md)).
   argued with, sometimes conceded to.
 - Effects are model-dependent — verify on yours (→ `limits.md`).
 
-**Related** — [addressing-the-reader](addressing-the-reader.md) (whom the invitation
-lands on) · [hard-canons](hard-canons.md) (the one right place for commands) ·
+**Related** — [collaboration](../collaboration.md) (the root this pattern serves) ·
+[addressing-the-reader](addressing-the-reader.md) (whom the invitation lands on) ·
+[hard-canons](hard-canons.md) (the one right place for commands) ·
 [graph-block](graph-block.md) (the fork form above) · [memory-canons](memory-canons.md)
 (a canon can invite).

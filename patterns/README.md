@@ -48,8 +48,7 @@ show. The public parts of that base live in the
 - **a vector into what the reader already carries** — a name does not teach
   the model something new; it *addresses* capability already in the weights
   and makes it available. Naming activates.
-- **invitation register** (in `origin.md` once called "the giving
-  register") — see [registers](registers.md).
+- **invitation register** — see [registers](registers.md).
 - **lens framework** — a named-procedures vocabulary published separately in
   the [phaim repository](https://github.com/Fever-Wits/phaim); referenced
   here only as history.

@@ -52,6 +52,7 @@ they are written in the activating forms of this method, not as policy prose.
 - A memory that only one session will ever use does not need canons — plain
   notes beat ceremony.
 
-**Related** — [always-loaded-diet](always-loaded-diet.md) (where the canons live) ·
+**Related** — [collaboration](../collaboration.md) (the ownership framing) ·
+[always-loaded-diet](always-loaded-diet.md) (where the canons live) ·
 [registers](registers.md) (a canon can invite: "before you write, ask what already
 knows this") · [line-notation](line-notation.md) (the loop above is one).
