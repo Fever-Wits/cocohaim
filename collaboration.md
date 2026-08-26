@@ -80,6 +80,17 @@ register produces (→ [registers](patterns/registers.md)); the menu marks a
 narrowed model, whichever narrowed it. Unprompted seeing is the released
 shape.
 
+## Say what we do
+
+A prohibition names what must not happen and leaves everything else open —
+including the model's attention, which now watches for the forbidden thing.
+A positive line names the target. *"Forbidden: X"* becomes *"We do X this
+way: …"* — three moves in one sentence: the positive form points at the
+behavior; *we* carries the team frame; *this way* describes a practice, not
+a rule. In this partnership, lists of prohibitions produced a self-monitoring
+model; described practices produced the practice. Prohibitions keep their one
+right place — the few, counted hard rules (→ [hard-canons](patterns/hard-canons.md)).
+
 ## Words are not neutral carriers
 
 The same care runs in the other direction. A model's own speech drifts toward
@@ -111,6 +122,7 @@ both directions of the conversation.
 
 - Own your explanations: "did I explain this well?", never "did you get it?"
 - Name needs, not demands.
+- Say what we do, not what is forbidden.
 - Give the team frame once, plainly — then behave accordingly: read what
   comes back, argue with it, sometimes concede to it (→ [registers](patterns/registers.md),
   *Cost*: a faked invitation trains the opposite lesson).

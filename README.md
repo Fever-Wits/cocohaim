@@ -28,6 +28,21 @@ and what is still incoming:
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
 
+## The practice, in ten lines
+
+Each line is a pointer; the *why* and the *cost* live where it points.
+
+1. Own your explanations — *"did I explain that well?"*, never *"did you get it?"* → [collaboration](collaboration.md)
+2. Name needs, not demands. → [collaboration](collaboration.md)
+3. Give the team frame once — then act inside it. → [collaboration](collaboration.md) · [registers](patterns/registers.md)
+4. Say what we do, not what is forbidden — *"we do X this way"* over *"X is forbidden."* → [collaboration](collaboration.md#say-what-we-do)
+5. Address the reader; don't describe the assistant. → [addressing-the-reader](patterns/addressing-the-reader.md)
+6. Define the edges before you use them. → [legend](patterns/legend.md)
+7. Keep the always-loaded core short; put depth behind reach. → [always-loaded-diet](patterns/always-loaded-diet.md)
+8. Make the memory the model's own — and hand it both canons. → [memory-canons](patterns/memory-canons.md)
+9. Few hard rules, counted and marked — and command only there. → [hard-canons](patterns/hard-canons.md)
+10. Keep a two-column table of the words that don't land. → [collaboration](collaboration.md)
+
 ## How to read this
 
 - Try one thing first → [`start-here.md`](start-here.md)
