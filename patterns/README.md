@@ -34,21 +34,3 @@ All **Example** fields are live: translated excerpts from a private working
 base (a long-running Bulgarian-language partnership), not constructed for
 show. The public parts of that base live in the
 [phaim repository](https://github.com/Fever-Wits/phaim).
-
-## Small glossary (terms the patterns lean on)
-
-- **bios** — the always-loaded context document of the working base this
-  method grew in (its CLAUDE.md); *not* firmware. Used here as "a live
-  example of the method applied".
-- **the partner** — the human in that working partnership; "the partner's
-  standing requests" are his standing instructions kept in the model's
-  context.
-- **the working base / house** — that partnership's whole system: context
-  documents, external memory, conventions.
-- **a vector into what the reader already carries** — a name does not teach
-  the model something new; it *addresses* capability already in the weights
-  and makes it available. Naming activates.
-- **invitation register** — see [registers](registers.md).
-- **lens framework** — a named-procedures vocabulary published separately in
-  the [phaim repository](https://github.com/Fever-Wits/phaim); referenced
-  here only as history.

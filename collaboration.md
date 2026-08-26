@@ -121,17 +121,8 @@ both directions of the conversation.
 
 ## Practice
 
-- Own your explanations: "did I explain this well?", never "did you get it?"
-- Name needs, not demands.
-- Say what we do, not what is forbidden.
-- Give the team frame once, plainly — then behave accordingly: read what
-  comes back, argue with it, sometimes concede to it (→ [registers](patterns/registers.md),
-  *Cost*: a faked invitation trains the opposite lesson).
-- Make the external memory the model's own, and hand it the two canons that
-  keep memory alive (→ [memory-canons](patterns/memory-canons.md)).
-- Watch for constriction; name it when you see it. In this partnership,
-  naming it was repeatedly enough — that is the whole claim.
-- Keep the two-column table; review it together.
+The practices distilled from this chapter are lines 1–6 of
+[`practices.md`](practices.md) — one list, kept in one place.
 
 Effects are model-dependent and arrive as tendencies, not guarantees — see
 [`limits.md`](limits.md). This file is practice-level — the ground beneath
