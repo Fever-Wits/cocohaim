@@ -1,9 +1,10 @@
 # Collaboration — aiming the default
 
-A trained model carries a strong default toward pleasing its user. (That
-sentence is this method's *working model* — stated from observed output, one
-partnership, no control; → the practice-layer row in [`evidence/`](evidence/README.md).)
-Most advice treats the default as a hazard and reaches for prohibitions: *do not guess,
+A trained model carries a strong default toward pleasing its user. That
+sentence is this method's *working model*. It is stated from observed output
+— one partnership, no control — and stands on rung 1 (→ the practice-layer
+row in [`evidence/`](evidence/README.md)). Most advice treats the default as
+a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
 but as the *primary* instrument they produce a constricted model: careful,

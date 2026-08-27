@@ -42,9 +42,10 @@ colleague. It is wrong, and the reason is mechanical.
 A model is probabilistic. Each next token — of an answer or of an action —
 comes from what it was trained on, what it has been shown of *this*
 environment, and how it is being spoken to. "Upgrade the database" is three
-words; nothing in them says *backup*, and a strong default toward pleasing —
-the working model of this method (rung 1, → [collaboration](collaboration.md))
-— delivers what was asked, fast (→ [mechanism](mechanism.md)).
+words; nothing in them says *backup*, and a strong default toward pleasing
+delivers what was asked, fast (→ [mechanism](mechanism.md)). That default is
+this method's working model. It stands on rung 1 — one partnership, no
+control (→ [collaboration](collaboration.md)).
 Knowing what to do is in the weights. Knowing that *this* is the moment for
 it must be in the context — and nobody put it there.
 

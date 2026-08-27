@@ -12,6 +12,11 @@
   the model something new; it *addresses* capability already in the weights
   and makes it available. Naming activates.
 - **invitation register** — see [registers](patterns/registers.md).
+- **phaim** — the working base's external memory (a causal knowledge graph of
+  questions, decisions and reasons), published separately at
+  [github.com/Fever-Wits/phaim](https://github.com/Fever-Wits/phaim). The lens
+  framework is a vocabulary published *in* that repository; the two are not
+  the same thing.
 - **lens framework** — a named-procedures vocabulary published separately in
   the [phaim repository](https://github.com/Fever-Wits/phaim); referenced
   here only as history.

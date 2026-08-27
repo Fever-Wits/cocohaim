@@ -7,8 +7,9 @@ Read this before quoting any claim from the rest.
   ([references #5](references.md)). The working claim is narrower:
   the *benefit* lives in what the human **does** — supplies context, invites
   disagreement, verifies — not in courtesy as a magic word.
-- **Model-independence holds for the frame and the practices, not for the forms.**
-  Specific forms (glyphs, layouts, notations) behave differently across models —
+- **Model-independence holds for the frame and the practices.** It does not
+  hold for the forms. Specific forms (glyphs, layouts, notations) behave
+  differently across models —
   format sensitivity has been measured, and correlates only weakly across models
   ([references #6](references.md)). Verify on
   *your* model; expect distributions, not single numbers. Every number in this
@@ -31,6 +32,10 @@ Read this before quoting any claim from the rest.
   differently also *reads* differently; a self-observed n=1 cannot separate a
   change in the model from a change in the observer. That is why rung 3
   requires a coder blind to the condition (→ [evidence](evidence/README.md)).
+- **What it costs you.** An invitation must be read, argued with, sometimes
+  conceded to. The method spends *your* attention, not only the model's; a
+  frame you give and do not act inside trains the opposite lesson
+  (→ [registers — Cost](patterns/registers.md)).
 - **When this is not for you:** one-shot tasks with fully specified outputs;
   pipelines where reproduction *is* the goal; contexts where you cannot afford
   variance. Commanding is not a sin — it is a different tool, for different work.

@@ -63,6 +63,18 @@ protocol tests in the [phaim repository](https://github.com/Fever-Wits/phaim)
 when framed as data, hallucinated about when framed as prose; two models, one
 run each.
 
+## A reading test (rung 1–2)
+
+The repository was handed to a foreign model to produce a podcast about it.
+What survived the compression: the problem story, `limits.md` almost
+verbatim, the evidence ladder, claim 1. What did not survive: claim 3
+(memory) entirely, the practices, the patterns, `start-here.md`. The pattern
+in what survived: text shaped as an answer to a question the reader already
+has; what did not: instructions and catalogs. Rung-status markers written as
+separate sentences survived; the same markers written inline in parentheses
+did not. One model, one run, a summarizing task — confounds not controlled.
+The repository is being reshaped in response (working archive).
+
 ## Contribute a run
 
 Run [`start-here.md`](../start-here.md) or the two questions from
