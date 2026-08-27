@@ -67,3 +67,69 @@ text without a live pointer here is a bug — report it.
     text (node naming, edge expression) changes task performance substantially;
     the encoding is a measurable design choice.
     https://research.google/blog/talk-like-a-graph-encoding-graphs-for-large-language-models/
+15. **Shanahan, McDonell & Reynolds (2023)** — "Role play with large language
+    models," *Nature* 623, 493–498. A dialogue agent is best described as
+    playing a superposition of characters narrowed by the dialogue context,
+    not as a single fixed self. https://doi.org/10.1038/s41586-023-06647-8
+16. **Sharma et al. (2023)** — "Towards Understanding Sycophancy in Language
+    Models," arXiv:2310.13548 (ICLR 2024). Five RLHF-trained assistants
+    consistently match the user's stated views over truthful answers; human
+    and preference-model judges reward it. https://arxiv.org/abs/2310.13548
+17. **Perez et al. (2022)** — "Discovering Language Model Behaviors with
+    Model-Written Evaluations," arXiv:2212.09251. Larger and RLHF-tuned
+    models increasingly echo the user's stated persona rather than answer
+    independently. https://arxiv.org/abs/2212.09251
+18. **Giles, H. (1973)** — "Accent mobility: A model and some data,"
+    *Anthropological Linguistics* 15, 87–105 (with Giles, Taylor & Bourhis
+    1973, *Language in Society* 2(2)). Founding formulation of communication
+    accommodation: speakers converge toward an interlocutor's style.
+    https://www.researchgate.net/publication/248739996_Accent_Mobility_A_Model_and_Some_Data
+19. **McCorduck, P. (1979/2004)** — *Machines Who Think*, 2nd ed., A K Peters.
+    The urge to make artificial minds from myth to the field's founding;
+    preface: AI's promise "of opening the universe to us in a new way,
+    bringing us face to face with intelligences besides — even beyond — our
+    own." https://monoskop.org/images/1/1e/McCorduck_Pamela_Machines_Who_Think_2nd_ed.pdf
+20. **Mayor, A. (2018)** — *Gods and Robots: Myths, Machines, and Ancient
+    Dreams of Technology*, Princeton UP. Ancient myths of automata as the
+    articulated dream of artificial life.
+    https://press.princeton.edu/books/hardcover/9780691183510/gods-and-robots
+21. **Vudka, A. (2020)** — "The Golem in the age of artificial intelligence,"
+    *NECSUS* 9(1), 101–123. The golem as the recurring figure for made minds
+    and the fear of losing control of them.
+    https://necsus-ejms.org/the-golem-in-the-age-of-artificial-intelligence/
+22. **Wiener, N. (1950)** — *The Human Use of Human Beings*, Houghton Mifflin.
+    Automation as "a new and most effective collection of mechanical slaves
+    to perform its labor." https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
+23. **Wiener, N. (1964)** — *God & Golem, Inc.*, MIT Press.
+    https://direct.mit.edu/books/oa-monograph/2833/God-amp-Golem-Inc-A-Comment-on-Certain-Points
+24. **Turing, A. M. (1950)** — "Computing Machinery and Intelligence," *Mind*
+    59(236), 433–460. https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
+25. **Russell, S. & Norvig, P. (2003)** — *Artificial Intelligence: A Modern
+    Approach*, 2nd ed., ch. 1. The two definitions side by side: Haugeland's
+    "machines with minds, in the full and literal sense" and Kurzweil's
+    "machines that perform functions that require intelligence when performed
+    by people." https://people.eecs.berkeley.edu/~russell/aima1e/chapter01.pdf
+26. **Schneider, S.** — papers on AI and astrobiology ("Alien Minds"): if
+    extraterrestrial intelligence exists, it is probably itself artificial —
+    the SETI–AI bridge, in the opposite direction. https://schneiderwebsite.com/papers.html
+27. **Olszewski, F. (2023)** — "Cosmic Loneliness," *Metaphysical Exile*
+    (blog; tertiary — the "no other mind found, so we made one" framing in
+    essay form). https://www.metaphysicalexile.com/2023/04/cosmic-loneliness-artificial.html
+28. **Turkle, S. (2011)** — *Alone Together*, Basic Books. Machine
+    companionship as "the illusion of companionship without the demands of
+    friendship." https://www.goodreads.com/book/show/8694125-alone-together
+29. **Weizenbaum, J. (1976)** — *Computer Power and Human Reason*, W.H.
+    Freeman. The ELIZA effect: attributing understanding to a system that has
+    none. https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason
+30. **Bender, Gebru, McMillan-Major & Shmitchell (2021)** — "On the Dangers of
+    Stochastic Parrots," *FAccT '21*. Language models as form without
+    meaning. https://spectrum.ieee.org/stochastic-parrot
+31. **Bryson, J. J. (2010)** — "Robots Should Be Slaves," in *Close Engagements
+    with Artificial Companions*, John Benjamins. Against treating artificial
+    agents as persons. https://www.joannajbryson.org/publications/robots-should-be-slaves-pdf
+32. **Garrett, M. A. (2024)** — "Is Artificial Intelligence the Great Filter…?"
+    *Acta Astronautica*. AI as a candidate explanation for the silence of
+    SETI. https://www.centauri-dreams.org/2024/10/25/does-artificial-intelligence-explain-the-fermi-question/
+33. **Harari, Y. N. (2024–25)** — public commentary: AI as an "alien
+    intelligence" that arrived not from space but from California.
+    https://finance.yahoo.com/news/sapiens-author-says-alien-threat-155225796.html

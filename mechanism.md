@@ -50,6 +50,30 @@ Each of these is a way of shaping the context so that the model's strong
 default toward pleasing (the working model of
 [collaboration.md](collaboration.md), rung 1) pleases in the right direction.
 
+## The mirror
+
+Three things are true at once, and together they say why the register is
+the lever. A model **imitates**: its training is the continuation of human
+text, and the useful framing is role play — the model plays a superposition
+of characters, and the context narrows which one ([references #15](references.md)).
+A model **adapts** to the human it talks with: measured sycophancy — matching
+the user's stated views over the truthful answer, rewarded by human judges
+([#16, #17](references.md)); and linguistic convergence toward the user's
+style, an emerging measured area with no single canon yet; the human root is
+communication accommodation ([#18](references.md)). Put together, a model
+**mirrors** the human it works with: if the character is chosen by the
+context, and the human's behavior *is* the context, the model becomes the
+counterpart that behavior implies. Command, and the mirror is an executor.
+Converse, and the mirror is a thinker.
+
+The mirror runs both ways. In this partnership the author learned to write
+compactly alongside the model, and the model reflected it back — a
+convergence, not a copy. Literature saw the shape long ago: a mind we make
+may be a mirror of ours (Lem, *Solaris*). Here that is not an objection; it
+is the mechanism to use.
+
+*Derived → [origin — How the mirror was seen](origin.md#how-the-mirror-was-seen).*
+
 ## What this model does not claim
 
 It does not claim to know what the model *is*, or that anything is

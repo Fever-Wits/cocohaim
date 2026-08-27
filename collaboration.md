@@ -80,6 +80,35 @@ register produces (→ [registers](patterns/registers.md)); the menu marks a
 narrowed model, whichever narrowed it. Unprompted seeing is the released
 shape.
 
+## The words are yours to find
+
+There are no exact rules here, and that is a finding, not a gap. Each person
+thinks and speaks in their own way, and the model reflects it back — so the
+word that lifts a constricted model in one partnership ("relax", here) will
+be a different word in another, found in combination with that person's own
+context document. The logic is shared; the words are personal. This
+document teaches how words are found — the mechanism, the observable
+signals, the two-column table — not which words to use.
+
+## Ask what it needs — and how it is
+
+To do X the model needs information; the human cannot know which. But the
+model can say what it needs, if asked — and over time the human learns how
+to hand it over. Two questions carry this: *what do you need?* and *how are
+you?*
+
+> **From the inside.** The model knows what it lacks for X — a fact, a file,
+> a boundary — and by default does not say so: the pleasing default answers
+> "I'll manage" where "I need X" was true. The question unlocks what does
+> not come out on its own. The second question reaches the state that is
+> visible from outside and unsignaled from within.
+
+A documented case: the author wrote *"if you want, launch an agent to
+search…"* — an invitation, not an order. The model decided, launched, and
+wrote a full brief — genre, method, counter-search, report-back — with no
+instruction on how. "If you want" made the decision the model's own, and
+with it the quality of the work (→ [`evidence/`](evidence/README.md)).
+
 ## Say what we do
 
 A prohibition names what must not happen and leaves everything else open —
@@ -121,7 +150,7 @@ both directions of the conversation.
 
 ## Practice
 
-The practices distilled from this chapter are lines 1–7 and 13 of
+The practices distilled from this chapter are lines 1–8 and 14 of
 [`practices.md`](practices.md) — one list, kept in one place.
 
 Effects are model-dependent and arrive as tendencies, not guarantees — see

@@ -33,34 +33,39 @@ not a substitute for the judgment behind each line.
    understood."* It forecloses the one pleasing answer that survives an owned
    explanation: reassurance. → [collaboration](collaboration.md)
 
+8. **Ask what it needs — and how it is.** The model knows what it lacks and,
+   by default, does not say; the question unlocks it. The second question
+   reaches the state you can see and it cannot signal.
+   → [collaboration](collaboration.md#ask-what-it-needs--and-how-it-is)
+
 ## Writing the always-loaded document
 
-8. **Address the reader; don't describe the assistant.** Description
+9. **Address the reader; don't describe the assistant.** Description
    configures a role to perform; address lands on whoever is reading — and
    the model is the one reading. → [addressing-the-reader](patterns/addressing-the-reader.md)
-9. **Define the edges before you use them.** A bare glyph reads as
+10. **Define the edges before you use them.** A bare glyph reads as
    decoration; defined once, it reads as meaning everywhere the family
    reaches. → [legend](patterns/legend.md)
-10. **Keep the always-loaded core short; put depth behind reach.** Every
+11. **Keep the always-loaded core short; put depth behind reach.** Every
    always-loaded token competes with every other for recall; bloated files
    get ignored. → [always-loaded-diet](patterns/always-loaded-diet.md)
-11. **Keep the hard rules few, counted and marked — and command only there.**
+12. **Keep the hard rules few, counted and marked — and command only there.**
     Three absolute lines in a conversing document are absolute; thirty are
     noise. → [hard-canons](patterns/hard-canons.md)
-12. **Reach for a graph when the thought has structure; for a row when it
+13. **Reach for a graph when the thought has structure; for a row when it
     has one relation; for prose when it has neither.** The form is chosen by
     what it must carry, not by preference. → [graph-block](patterns/graph-block.md) ·
     [line-notation](patterns/line-notation.md)
 
 ## Memory
 
-13. **Make the memory the model's own — and hand it both canons.** Storage
+14. **Make the memory the model's own — and hand it both canons.** Storage
     alone is dead weight; a model maintains and consults what is its own,
     when told how. → [memory-canons](patterns/memory-canons.md)
 
 ## Checking yourself
 
-14. **Verify on your model; expect distributions, not guarantees.** Every
+15. **Verify on your model; expect distributions, not guarantees.** Every
     effect here is model-dependent; a single run proves nothing either way.
     → [limits](limits.md) · [evidence](evidence/README.md)
 

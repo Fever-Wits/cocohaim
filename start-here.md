@@ -22,7 +22,7 @@ and the model is the one reading.
 Then watch across the session: does it volunteer what it sees? Does it disagree
 with you when you are wrong? Does it say "I don't know" without being cornered?
 
-These two moves are practices 1 and 8 of [`practices.md`](practices.md) —
+These two moves are practices 1 and 9 of [`practices.md`](practices.md) —
 the rest of the list is one page.
 
 ⚠ Effects are model-dependent and arrive as distributions, not guarantees —

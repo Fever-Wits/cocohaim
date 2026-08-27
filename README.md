@@ -28,18 +28,29 @@ and what is still incoming:
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
 
+## The gap
+
+The internet is full of stories of a model that deleted the database. The
+usual reading is "the model was careless." The reading here: the model knows
+what to do and cannot know *when* — that must be in the context, and nobody
+put it there. People treat it as a colleague (who would remember the backup)
+or as a program (that does only what it is told); it is neither — a
+knowledgeable improviser, conditioned only by what is in front of it. The
+full statement → [`problem.md`](problem.md).
+
 ## How to read this
 
 In the order the layers stack:
 
 1. Try one thing first → [`start-here.md`](start-here.md)
-2. The model behind the method — why context is the only lever → [`mechanism.md`](mechanism.md)
-3. The practice, in fourteen lines — each pointing at its why → [`practices.md`](practices.md)
-4. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
-5. The catalog of expressive means → [`patterns/`](patterns/)
-6. What we measured, what is still incoming → [`evidence/`](evidence/)
-7. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
-8. Where this comes from → [`origin.md`](origin.md)
+2. Why models "make mistakes" — the two reasons and the gap → [`problem.md`](problem.md)
+3. The model behind the method — why context is the only lever → [`mechanism.md`](mechanism.md)
+4. The practice, in fifteen lines — each pointing at its why → [`practices.md`](practices.md)
+5. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
+6. The catalog of expressive means → [`patterns/`](patterns/)
+7. What we measured, what is still incoming → [`evidence/`](evidence/)
+8. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
+9. How each claim was arrived at → [`origin.md`](origin.md)
 
 Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
 [`references.md`](references.md) — every measured claim's source.
@@ -51,7 +62,8 @@ evidence lands, gaps close. It is not a closed model; it is a logic still
 developing, published while it develops.
 
 The method grew inside a working human–AI partnership, and it is writing its
-own documentation — which is also its demonstration.
+own documentation — which is also its demonstration: **written by the model,
+for a human who could not write it, in the way the document teaches.**
 
 ## License
 

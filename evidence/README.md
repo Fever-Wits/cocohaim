@@ -48,6 +48,13 @@ transcript came from, or by two readers with agreement reported.
 | 3. Memory lives only with maintain + use canons | **2, negative direction** — in the same case, two memory systems were configured and never called across four sessions; the positive direction is working practice (rung 1) | rung 3: with vs without the use-canon in context, count of memory calls per session |
 | *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)) | **1** — one partnership, no control | rung 3: the two questions ("did I explain that well?" vs "did you understand?"), N runs, coded for mirror-back vs reassurance vs bare "yes" |
 
+A documented case inside this repository, rung 2: the author wrote *"if you
+want, launch an agent to search…"* (invitation) and the model decided,
+launched, and wrote a full brief — genre, method, counter-search, report-back
+— with no step-by-step instruction; the exchange is recorded verbatim in the
+working archive. Rung-3 candidate: the same research task given as an order
+vs as an invitation to fresh agents, brief quality coded by rubric.
+
 Related documented cases outside this repository, rung 2: the encoded-capsule
 protocol tests in the [phaim repository](https://github.com/Fever-Wits/phaim)
 (LENS-AS-PROTOCOL files) — the same graph content accepted by Grok and Gemini
