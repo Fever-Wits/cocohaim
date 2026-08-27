@@ -18,8 +18,8 @@ what to do and cannot know *when* — that must be in the context, and nobody
 put it there. People treat it as a colleague (who would remember the backup)
 or as a program (that does only what it is told); it is neither — a
 knowledgeable improviser: its knowledge in the weights, its situation only
-what is in front of it. The
-full statement → [`problem.md`](problem.md).
+what is in front of it. To see why the gap exists, look at the two reasons
+we built these minds at all.
 
 ## The problem — why models "make mistakes"
 
