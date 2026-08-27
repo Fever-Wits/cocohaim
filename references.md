@@ -57,3 +57,13 @@ text without a live pointer here is a bug — report it.
     *J. of Personality and Social Psychology* 75(2), 332–346: people
     overestimate how visible their internal states are to observers.
     https://pubmed.ncbi.nlm.nih.gov/9731312/
+13. **Collins, Wong, Tenenbaum & Fan (2026)** — "Meaningful Long-Term Thought
+    Partnerships of Minds and Machines," *Current Directions in Psychological
+    Science*. Long-term thought partnership requires modeling the other,
+    adaptive communication including *specialized vocabularies*, and value
+    beyond task productivity. https://journals.sagepub.com/doi/full/10.1177/09637214251412712
+14. **Fatemi, Halcrow & Perozzi (2024)** — "Talk like a Graph: Encoding
+    Graphs for Large Language Models," ICLR 2024. How a graph is encoded as
+    text (node naming, edge expression) changes task performance substantially;
+    the encoding is a measurable design choice.
+    https://research.google/blog/talk-like-a-graph-encoding-graphs-for-large-language-models/

@@ -33,12 +33,13 @@ and what is still incoming:
 In the order the layers stack:
 
 1. Try one thing first → [`start-here.md`](start-here.md)
-2. The practice, in fourteen lines — each pointing at its why → [`practices.md`](practices.md)
-3. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
-4. The catalog of expressive means → [`patterns/`](patterns/)
-5. What we measured, what is still incoming → [`evidence/`](evidence/)
-6. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
-7. Where this comes from → [`origin.md`](origin.md)
+2. The model behind the method — why context is the only lever → [`mechanism.md`](mechanism.md)
+3. The practice, in fourteen lines — each pointing at its why → [`practices.md`](practices.md)
+4. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
+5. The catalog of expressive means → [`patterns/`](patterns/)
+6. What we measured, what is still incoming → [`evidence/`](evidence/)
+7. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
+8. Where this comes from → [`origin.md`](origin.md)
 
 Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
 [`references.md`](references.md) — every measured claim's source.
