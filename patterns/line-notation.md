@@ -48,7 +48,7 @@ chemists flatten molecular graphs into rows the same way — SMILES: "a line
 notation (a typographical method using printable characters)", "a linguistic
 construct, rather than a computer data structure", 50–70% more compact than
 the equivalent connection table (Weininger/Daylight,
-[REFERENCES #4](../REFERENCES.md)). The family name is **line notation**;
+[REFERENCES #4](../references.md)). The family name is **line notation**;
 this is its context-document member.
 
 **Cost / when not**

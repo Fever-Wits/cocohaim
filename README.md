@@ -40,11 +40,8 @@ In the order the layers stack:
 6. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
 7. Where this comes from → [`origin.md`](origin.md)
 
-Reference: [`GLOSSARY.md`](GLOSSARY.md) — the terms the chapters lean on ·
-[`REFERENCES.md`](REFERENCES.md) — every measured claim's source.
-Uppercase files are repository-level references; lowercase files are the
-chapters. `tools/check_links.py` verifies every relative link and anchor —
-run it before a commit that moves or renames anything.
+Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
+[`references.md`](references.md) — every measured claim's source.
 
 ## Status
 

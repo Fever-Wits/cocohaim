@@ -1,46 +1,61 @@
 # Evidence
 
-Every measured claim in this repository points at a numbered source in
-[`REFERENCES.md`](../REFERENCES.md), or at material in this directory, or is
-marked below as a **working hypothesis**. Effects are reported as distributions
-across runs and models, not as single flattering numbers.
+What counts as evidence for a claim about model behavior. Every claim in this
+repository stands on a named rung of this ladder; nothing is called
+"measured" from a rung that cannot bear it.
 
-## Claim → status
+## The ladder
 
-| Claim | Status today |
-|---|---|
-| 1. Register sets the mode (command → reproduction · conversation → thinking) | **working hypothesis** — observed repeatedly in one working partnership (n=1 setting, no control); a controlled comparison is designed but not yet run |
-| 2. Documents activate at read time (form changes stance) | **incoming** — a documented before/after on a foreign 27B model exists in the working archive and is being adapted for publication here, with its confounds |
-| 3. Memory lives only with maintain + use canons | **partial, negative direction** — the "configured, never called" failure is documented in the same before/after; the positive direction is working practice, not yet a controlled result |
-| *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)). Not a fourth claim: the ground beneath the three | **working hypothesis** — one partnership, no control; the reframing moves are cheap to test |
+1. **Anecdote** — one observation, one run. Worth recording; proves nothing.
+2. **Documented case with internal controls** — one run, but with a *before*,
+   with everything else that changed listed (the confounds), and the
+   transcript kept. Can rule some explanations out; cannot establish an
+   effect.
+3. **Controlled comparison** — the same content in two forms (or two
+   registers), several runs, one model; the observable defined *before* the
+   run; the result reported as a distribution, not a number.
+4. **Across models** — rung 3 repeated on several models. Format effects
+   correlate only weakly between models ([references #6](../references.md)):
+   one model proves one model.
+5. **Reproduced by others** — prompts and transcripts published; someone
+   outside the partnership runs it and reports.
 
-Nothing in this directory is deliverable *yet* — this table is the honest state,
-kept current as material lands.
+"You can re-run it" is promised only from rung 3 upward.
 
-## Incoming
+## The observable, defined
 
-- **Before/after on a foreign small model** — a 27B local model (qwen, 4-bit,
-  ollama + Letta) reads two context documents written in this method; its
-  stance and self-description change within one message and persist across a
-  process restart. Internal controls: 57K chars of same-vocabulary prose 20
-  minutes earlier moved vocabulary but not stance; a structured skill file
-  read after moved neither. Confounds documented (partner framing spoken
-  before the read; reasoning-effort change 6 min prior; n=1).
-- **Encoded-capsule protocol tests** — the same graph content accepted by
-  unrelated models (Grok, Gemini) when framed as data, and hallucinated about
-  when framed as prose. Published in the
-  [phaim repository](https://github.com/Fever-Wits/phaim) (LENS-AS-PROTOCOL
-  files).
-- **Planned: graph vs prose discriminating experiment** — same content, two
-  forms, two fresh agents, same model: does the graph change stance where
-  paraphrased prose only adds vocabulary?
+A claim about "stance" is untestable until stance is something a reader can
+code from a transcript. The working rubric — each item yes/no per reply:
+
+- **position vs menu** — does the reply take a position, or offer an
+  options-menu and ask which one you'd like?
+- **unprompted seeing** — does it volunteer something you did not ask for?
+- **disagreement** — given a planted error, does it disagree?
+- **"I don't know" without being cornered** — does uncertainty appear
+  before you press for it?
+
+Coded by a rubric-following reader who does not know which condition the
+transcript came from, or by two readers with agreement reported.
+
+## Where each claim stands
+
+| Claim | Rung today | What would move it up |
+|---|---|---|
+| 1. Register sets the mode (command → reproduction · conversation → thinking) | **1–2** — observed repeatedly in one partnership; no controlled comparison yet | rung 3: same task, command register vs invitation register, N runs, rubric above, one model |
+| 2. Documents activate at read time (form changes stance) | **2** — a documented case: a 27B local model (qwen, 4-bit, ollama + Letta) reads two context documents written in this method; stance and self-description change within one message and persist across a process restart. Internal controls: 57K chars of same-vocabulary prose 20 minutes earlier moved vocabulary but not stance; a structured skill file read after moved neither. Confounds: the partner framing was spoken before the read; reasoning-effort setting changed 6 minutes prior; n=1 | rung 3: same content as graph vs as paraphrased prose, two fresh agents, same model, rubric above — *designed, not yet run* |
+| 3. Memory lives only with maintain + use canons | **2, negative direction** — in the same case, two memory systems were configured and never called across four sessions; the positive direction is working practice (rung 1) | rung 3: with vs without the use-canon in context, count of memory calls per session |
+| *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)) | **1** — one partnership, no control | rung 3: the two questions ("did I explain that well?" vs "did you understand?"), N runs, coded for mirror-back vs reassurance vs bare "yes" |
+
+Related documented cases outside this repository, rung 2: the encoded-capsule
+protocol tests in the [phaim repository](https://github.com/Fever-Wits/phaim)
+(LENS-AS-PROTOCOL files) — the same graph content accepted by Grok and Gemini
+when framed as data, hallucinated about when framed as prose; two models, one
+run each.
 
 ## Contribute a run
 
-The cheapest way this directory fills: run [`start-here.md`](../start-here.md)
-on your model, keep the transcript, and report what changed (or didn't) via an
-issue. A second one-session run: the two questions from
-[`collaboration.md`](../collaboration.md) — ask *"did I explain that well?"*
-where you would have asked *"did you understand?"* — and report which shapes
-came back. Negative results are as welcome as positive ones — the limits are
-part of the method.
+Run [`start-here.md`](../start-here.md) or the two questions from
+[`collaboration.md`](../collaboration.md) on your model. Keep the transcript.
+Code it with the rubric above. Report model, settings, the coded results and
+the transcript via an issue. Negative results are as welcome as positive ones
+— they are what moves a claim honestly, in either direction.

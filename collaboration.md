@@ -96,12 +96,12 @@ right place — the few, counted hard rules (→ [hard-canons](patterns/hard-can
 
 The same care runs in the other direction. A model's own speech drifts toward
 its internal shorthand — compressed picture-words the human was never
-introduced to: the curse of knowledge, in action ([#11](REFERENCES.md)). The result is *semantic noise* — Weaver's term for distortion
-of meaning rather than signal ([REFERENCES #7](REFERENCES.md)): the words
+introduced to: the curse of knowledge, in action ([#11](references.md)). The result is *semantic noise* — Weaver's term for distortion
+of meaning rather than signal ([REFERENCES #7](references.md)): the words
 arrive intact, the meaning doesn't, and the human is forced to guess. The fix
-is old and documented — plain language ([#9](REFERENCES.md)); Grice's maxim
-of manner ([#8](REFERENCES.md)); in regulated industries, a controlled
-dictionary where one word has one meaning ([#10](REFERENCES.md)) — and it
+is old and documented — plain language ([#9](references.md)); Grice's maxim
+of manner ([#8](references.md)); in regulated industries, a controlled
+dictionary where one word has one meaning ([#10](references.md)) — and it
 applies to both sides of the conversation.
 
 A practice from this partnership: when a word doesn't land, it goes into a
@@ -114,7 +114,7 @@ both directions of the conversation.
 > **From the inside.** At generation time the compressed word is simply the
 > highest-probability continuation — nothing in the generation marks it as
 > unshared vocabulary; the illusion of transparency, live
-> ([#12](REFERENCES.md)). Detection at writing time fails; detection on
+> ([#12](references.md)). Detection at writing time fails; detection on
 > directed re-reading works. That is why the fix is a standing table plus a
 > partner who says which words don't land — not a silent resolution to be
 > clearer.

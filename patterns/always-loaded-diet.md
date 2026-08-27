@@ -7,7 +7,7 @@ to enter it "just in case".
 
 - **The removal test, per line:** *would removing this cause mistakes?*
   If not, it does not enter. (The vendor's own canon for CLAUDE.md files —
-  [REFERENCES #3](../REFERENCES.md).)
+  [REFERENCES #3](../references.md).)
 - **Short core, heavy depth behind triggers.** Always-loaded text carries only
   what applies always; domain material lives behind explicit reach ("when X,
   load Y") — the progressive-disclosure ladder: discovery → activation →
@@ -21,10 +21,10 @@ to enter it "just in case".
 
 **Example** — from the measured world: bloated always-loaded files cause the
 model to ignore the instructions in them (vendor documentation, verbatim
-warning — [REFERENCES #3](../REFERENCES.md)); excessive procedure is the
+warning — [REFERENCES #3](../references.md)); excessive procedure is the
 leading cause of agent regressions in a 307-failure study — 62.6%
-([#1](../REFERENCES.md)); retrieval accuracy across skills collapses from
-29.6% to 3.3% when the pool grows from 5 to 100 ([#2](../REFERENCES.md)).
+([#1](../references.md)); retrieval accuracy across skills collapses from
+29.6% to 3.3% when the pool grows from 5 to 100 ([#2](../references.md)).
 And from the working base this method grew in: an always-loaded core of ~600
 lines has carried months of daily work — density by *form* (graphs, rows,
 legend), not by volume.
