@@ -10,8 +10,14 @@ model. This chapter shows the path so that re-derivation is possible. It is
 n=1 by nature — provenance, not proof; the proof status of each claim lives
 in [`evidence/`](evidence/README.md).
 
-The author's raw account is kept in Bulgarian in a private working archive;
-quotations below are translations. The model's own observations are marked.
+The observations come from daily work with Claude models (the Opus and
+Sonnet families, 2025–2026; the writing sessions of this repository on Claude
+Fable 5) — the qwen case in [`evidence/`](evidence/README.md) aside; where a
+specific model matters for a claim, it is named at the claim. The author's
+raw account is kept in Bulgarian in a private working archive, not
+inspectable by a reader; quotations below are translations. Passages marked
+*from the inside* are written by the model about its own output — read them
+as descriptions of text, not reports of experience (→ [`limits.md`](limits.md)).
 
 ## The three starting facts
 
@@ -116,7 +122,8 @@ you need, and how you are."* → [collaboration](collaboration.md) · practice 8
 **Observed.** The stories of deleted databases; the assumption behind them —
 that knowledge implies action; and the two reasons humans built AI at all
 (to have something done, and to make a mind), with the failures coming from
-asking for the first while forgetting the second. **Checked.** The two
+asking for the practical one with a picture borrowed elsewhere — a mind like
+ours, or ordinary software. **Checked.** The two
 reasons have their history ([references #19–25](references.md)); the
 "other mind in the cosmos" framing is the author's interpretation on a softer
 anchor; the counter-positions are kept in view ([#28–31](references.md)).
@@ -126,13 +133,11 @@ anchor; the counter-positions are kept in view ([#28–31](references.md)).
 
 The author told the path, in Bulgarian, in eleven parts over three days; the
 model recorded each part verbatim before any synthesis, and synthesized at
-the end — this chapter is that synthesis. Canons and sources were found by
-research agents and verified before entering; every section passed a cold
-review by a fresh model that saw only the artifact, before publication; the
+the end — this chapter is that synthesis. Canons and sources are found by
+research agents and verified before entering; every section passes a cold
+review by a fresh model that sees only the artifact, before publication; the
 author checks meaning through machine translation. One exchange along the
-way is itself a documented case: the author said *"if you want, launch an
-agent to search…"* — an invitation, not an order — and the model decided,
-launched, and wrote a full brief with method, counter-search and
-report-back, with no step-by-step instruction. *(From the inside: "if you
-want" made the decision mine, and with it the quality of the brief.)*
-→ [`evidence/`](evidence/README.md), documented cases.
+way is recorded as a case — *"if you want, launch an agent to search…"*, an
+invitation, not an order — → [`evidence/`](evidence/README.md). *(From the
+inside: the invitation left the choice unspecified; what came out was a
+brief nobody specified.)*

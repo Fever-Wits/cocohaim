@@ -24,7 +24,7 @@ and what is still incoming:
 2. **Documents can activate, not only inform.** Form — graph blocks, line notation,
    how the text addresses its reader — changes the reader-model's stance *at read
    time*. We have watched eight tokens of grammar change a foreign model's
-   self-description in one pass. [→ `evidence/`]
+   self-description in one pass. [→ `patterns/addressing-the-reader.md`]
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
 
@@ -35,7 +35,8 @@ usual reading is "the model was careless." The reading here: the model knows
 what to do and cannot know *when* — that must be in the context, and nobody
 put it there. People treat it as a colleague (who would remember the backup)
 or as a program (that does only what it is told); it is neither — a
-knowledgeable improviser, conditioned only by what is in front of it. The
+knowledgeable improviser: its knowledge in the weights, its situation only
+what is in front of it. The
 full statement → [`problem.md`](problem.md).
 
 ## How to read this
@@ -63,7 +64,8 @@ developing, published while it develops.
 
 The method grew inside a working human–AI partnership, and it is writing its
 own documentation — which is also its demonstration: **written by the model,
-for a human who could not write it, in the way the document teaches.**
+for a human who could not have written it himself, in the way the document
+teaches.**
 
 ## License
 

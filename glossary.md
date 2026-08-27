@@ -3,9 +3,9 @@
 - **bios** — the always-loaded context document of the working base this
   method grew in (its CLAUDE.md); *not* firmware. Used here as "a live
   example of the method applied".
-- **the partner** — the human in that working partnership; "the partner's
-  standing requests" are his standing instructions kept in the model's
-  context.
+- **the author** (called "the partner" in the working base) — the human in
+  that working partnership; "the partner's standing requests" are his
+  standing instructions kept in the model's context.
 - **the working base / house** — that partnership's whole system: context
   documents, external memory, conventions.
 - **a vector into what the reader already carries** — a name does not teach

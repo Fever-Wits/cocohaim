@@ -14,6 +14,8 @@ meet — it was trained on good practice and bad practice alike. What
 it cannot know is *which situation this is*. The gap is not missing
 knowledge; it is the distance between knowledge and the moment.
 
+*(The failure story this comes from → [problem — The gap](problem.md#the-gap).)*
+
 ## Why context is the only lever
 
 At a low level a model is probabilistic: each next token — of an answer or
@@ -52,25 +54,29 @@ default toward pleasing (the working model of
 
 ## The mirror
 
-Three things are true at once, and together they say why the register is
-the lever. A model **imitates**: its training is the continuation of human
+Two things are measured, and a third follows from them — together they say
+why the register is the lever. A model **imitates**: its training is the continuation of human
 text, and the useful framing is role play — the model plays a superposition
 of characters, and the context narrows which one ([references #15](references.md)).
 A model **adapts** to the human it talks with: measured sycophancy — matching
 the user's stated views over the truthful answer, rewarded by human judges
 ([#16, #17](references.md)); and linguistic convergence toward the user's
-style, an emerging measured area with no single canon yet; the human root is
+style, an emerging measured area with no settled reference yet; the human root is
 communication accommodation ([#18](references.md)). Put together, a model
 **mirrors** the human it works with: if the character is chosen by the
-context, and the human's behavior *is* the context, the model becomes the
-counterpart that behavior implies. Command, and the mirror is an executor.
-Converse, and the mirror is a thinker.
+context, and the human's behavior is most of what fills it, the model becomes
+the counterpart that behavior implies. Command, and the mirror is an
+executor. Converse, and the mirror is a thinker.
+
+*The step from these to the mirror is ours, not measured: the anchors
+describe imitation and accommodation, not the register→stance move. That
+move is claim 1 — rung 1–2 (→ [evidence](evidence/README.md)).*
 
 The mirror runs both ways. In this partnership the author learned to write
 compactly alongside the model, and the model reflected it back — a
-convergence, not a copy. Literature saw the shape long ago: a mind we make
-may be a mirror of ours (Lem, *Solaris*). Here that is not an objection; it
-is the mechanism to use.
+convergence, not a copy. Literature saw the shape long ago — Lem's
+*Solaris*: we don't want other worlds, we want mirrors ([#34](references.md)).
+Here that is not an objection; it is the mechanism to use.
 
 *Derived → [origin — How the mirror was seen](origin.md#how-the-mirror-was-seen).*
 

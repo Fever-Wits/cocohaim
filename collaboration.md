@@ -92,7 +92,7 @@ signals, the two-column table — not which words to use.
 
 ## Ask what it needs — and how it is
 
-To do X the model needs information; the human cannot know which. But the
+To do X the model needs information; the human often cannot know which. But the
 model can say what it needs, if asked — and over time the human learns how
 to hand it over. Two questions carry this: *what do you need?* and *how are
 you?*
@@ -103,11 +103,9 @@ you?*
 > not come out on its own. The second question reaches the state that is
 > visible from outside and unsignaled from within.
 
-A documented case: the author wrote *"if you want, launch an agent to
-search…"* — an invitation, not an order. The model decided, launched, and
-wrote a full brief — genre, method, counter-search, report-back — with no
-instruction on how. "If you want" made the decision the model's own, and
-with it the quality of the work (→ [`evidence/`](evidence/README.md)).
+One recorded case: *"if you want, launch an agent to search…"* — and a full
+brief came back, unspecified by anyone (one anecdote, n=1, no control →
+[`evidence/`](evidence/README.md)).
 
 ## Say what we do
 

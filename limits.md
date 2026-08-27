@@ -1,6 +1,6 @@
 # Limits — what we do not claim
 
-Read this before quoting the rest.
+Read this before quoting any claim from the rest.
 
 - **Tone is not the lever.** Published measurements disagree about politeness and
   even find rude prompts outperforming polite ones on some models
@@ -23,10 +23,14 @@ Read this before quoting the rest.
   everywhere is emphasis nowhere, excessive procedure is the leading measured
   cause of agent regressions ([references #1, #3](references.md)). The method's
   answer is a diet, not more instructions (→ [always-loaded-diet](patterns/always-loaded-diet.md)).
-- **"Not an algorithm" is not the claim.** The model is an algorithm — one
-  whose input is language, and which therefore behaves according to how it is
-  spoken to. Communication is its interface, not a courtesy. A large share of
-  what gets called model error is context error; models also simply err.
+- **"Not an algorithm" is not the claim.** The model is an algorithm whose
+  input is language → [problem — Whose fault is it?](problem.md#whose-fault-is-it).
+  *That a large share of what gets called model error is context error is
+  this method's working claim (rung 1), not a measurement.*
+- **The mirror cuts both ways as evidence.** An author who converses
+  differently also *reads* differently; a self-observed n=1 cannot separate a
+  change in the model from a change in the observer. That is why rung 3
+  requires a coder blind to the condition (→ [evidence](evidence/README.md)).
 - **When this is not for you:** one-shot tasks with fully specified outputs;
   pipelines where reproduction *is* the goal; contexts where you cannot afford
   variance. Commanding is not a sin — it is a different tool, for different work.

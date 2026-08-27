@@ -35,7 +35,7 @@ not a substitute for the judgment behind each line.
 
 8. **Ask what it needs — and how it is.** The model knows what it lacks and,
    by default, does not say; the question unlocks it. The second question
-   reaches the state you can see and it cannot signal.
+   asks for what the output does not report unless asked.
    → [collaboration](collaboration.md#ask-what-it-needs--and-how-it-is)
 
 ## Writing the always-loaded document

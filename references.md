@@ -1,7 +1,9 @@
 # References
 
 Numbered sources for every measured claim in this repository. A number in the
-text without a live pointer here is a bug — report it.
+text without a live pointer here is a bug — report it; an entry nobody cites
+is removed. Links marked *(secondary link)* point at an overview, not the
+original.
 
 1. **Dong et al., 2026** — *SkillsBench: 307 confirmed skill-caused failures*
    (84 tasks / 11 domains + 490 SWE instances; Claude Opus 4.6 + OpenCode).
@@ -85,8 +87,9 @@ text without a live pointer here is a bug — report it.
     accommodation: speakers converge toward an interlocutor's style.
     https://www.researchgate.net/publication/248739996_Accent_Mobility_A_Model_and_Some_Data
 19. **McCorduck, P. (1979/2004)** — *Machines Who Think*, 2nd ed., A K Peters.
-    The urge to make artificial minds from myth to the field's founding;
-    preface: AI's promise "of opening the universe to us in a new way,
+    The urge to make artificial minds from myth to the field's founding —
+    ch. 1, p. 3: "this odd form of self-reproduction"; preface: AI's promise
+    "of opening the universe to us in a new way,
     bringing us face to face with intelligences besides — even beyond — our
     own." https://monoskop.org/images/1/1e/McCorduck_Pamela_Machines_Who_Think_2nd_ed.pdf
 20. **Mayor, A. (2018)** — *Gods and Robots: Myths, Machines, and Ancient
@@ -99,11 +102,11 @@ text without a live pointer here is a bug — report it.
     https://necsus-ejms.org/the-golem-in-the-age-of-artificial-intelligence/
 22. **Wiener, N. (1950)** — *The Human Use of Human Beings*, Houghton Mifflin.
     Automation as "a new and most effective collection of mechanical slaves
-    to perform its labor." https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
+    to perform its labor." https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings *(secondary link)*
 23. **Wiener, N. (1964)** — *God & Golem, Inc.*, MIT Press.
     https://direct.mit.edu/books/oa-monograph/2833/God-amp-Golem-Inc-A-Comment-on-Certain-Points
 24. **Turing, A. M. (1950)** — "Computing Machinery and Intelligence," *Mind*
-    59(236), 433–460. https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
+    59(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
 25. **Russell, S. & Norvig, P. (2003)** — *Artificial Intelligence: A Modern
     Approach*, 2nd ed., ch. 1. The two definitions side by side: Haugeland's
     "machines with minds, in the full and literal sense" and Kurzweil's
@@ -117,19 +120,22 @@ text without a live pointer here is a bug — report it.
     essay form). https://www.metaphysicalexile.com/2023/04/cosmic-loneliness-artificial.html
 28. **Turkle, S. (2011)** — *Alone Together*, Basic Books. Machine
     companionship as "the illusion of companionship without the demands of
-    friendship." https://www.goodreads.com/book/show/8694125-alone-together
+    friendship." https://www.goodreads.com/book/show/8694125-alone-together *(secondary link)*
 29. **Weizenbaum, J. (1976)** — *Computer Power and Human Reason*, W.H.
     Freeman. The ELIZA effect: attributing understanding to a system that has
-    none. https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason
+    none. https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason *(secondary link)*
 30. **Bender, Gebru, McMillan-Major & Shmitchell (2021)** — "On the Dangers of
     Stochastic Parrots," *FAccT '21*. Language models as form without
-    meaning. https://spectrum.ieee.org/stochastic-parrot
+    meaning. https://dl.acm.org/doi/10.1145/3442188.3445922
 31. **Bryson, J. J. (2010)** — "Robots Should Be Slaves," in *Close Engagements
     with Artificial Companions*, John Benjamins. Against treating artificial
     agents as persons. https://www.joannajbryson.org/publications/robots-should-be-slaves-pdf
 32. **Garrett, M. A. (2024)** — "Is Artificial Intelligence the Great Filter…?"
     *Acta Astronautica*. AI as a candidate explanation for the silence of
-    SETI. https://www.centauri-dreams.org/2024/10/25/does-artificial-intelligence-explain-the-fermi-question/
+    SETI. https://www.centauri-dreams.org/2024/10/25/does-artificial-intelligence-explain-the-fermi-question/ *(secondary link)*
 33. **Harari, Y. N. (2024–25)** — public commentary: AI as an "alien
     intelligence" that arrived not from space but from California.
     https://finance.yahoo.com/news/sapiens-author-says-alien-threat-155225796.html
+34. **Lem, S. (1961)** — *Solaris*. Snaut's line — "we don't want other
+    worlds; we want mirrors" — the fear that in what we meet, or make, we
+    only ever meet ourselves.
