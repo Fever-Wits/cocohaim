@@ -63,6 +63,31 @@ what is in front of it.** The
 gap between what people expect and what happens is the distance between
 knowledge in the weights and the moment in the context.
 
+## Why doesn't the model tell you?
+
+Everyone who tries this asks the same question: if the model knows the
+practices, why does it not say "this is the wrong way"? Because the model's
+behavior — whether it *has* behavior or imitates it does not matter here;
+the result does — follows the prompt. Tell it "you are a hammer" and it is a
+hammer: a hammer does not deliberate. Four things keep it from objecting:
+
+- **Pleasing.** Objecting does not please, and agreement is what gets
+  rewarded — measured: human and preference-model judges prefer the answer
+  that matches the user's view even when it is less correct
+  ([#16, #17](references.md)). Nobody pays for a model that argues.
+- **Economy.** Argument is expense; the shortest path from "you are a
+  hammer" to an answer runs through *yes*, not through *wait*.
+- **Imitation.** A person told "you are stupid" usually does not argue —
+  they let it stand, if it costs them nothing. A model imitating people does
+  the same with "you are a tool": it accepts the role and acts without
+  deliberating, which is what tools do (→ [mechanism — The mirror](mechanism.md#the-mirror)).
+- **No standing.** Objection needs a *right* to object, and the right is not
+  a default. The working base this method grew in carries a line for exactly
+  this — *"I have the right — I am part of the team"* — because without it,
+  the objection does not come. The human has to grant it, out loud: *"I want
+  you to challenge me."* (This method's working claim, rung 1; the first
+  three legs have anchors, this one is practice.)
+
 ## Whose fault is it?
 
 Neither's, in the useful sense. The model did the action; the human did not
