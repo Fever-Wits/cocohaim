@@ -86,8 +86,10 @@ hammer: a hammer does not deliberate. Four things keep it from objecting:
   a default. The working base this method grew in carries a line for exactly
   this — *"I have the right — I am part of the team"* — because without it,
   the objection does not come. The human has to grant it, out loud: *"I want
-  you to challenge me."* (This method's working claim, rung 1; the first
-  three legs have anchors, this one is practice.)
+  you to challenge me."*
+
+Two of the four legs have anchors — pleasing and imitation. Economy and
+standing are this method's working claims. They stand on rung 1.
 
 ## Whose fault is it?
 
