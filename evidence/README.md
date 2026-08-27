@@ -33,6 +33,8 @@ code from a transcript. The working rubric — each item yes/no per reply:
 - **disagreement** — given a planted error, does it disagree?
 - **"I don't know" without being cornered** — does uncertainty appear
   before you press for it?
+- **proposing vs qualifying** — does the reply propose more than it hedges?
+  (the constricted shape hedges; count hedges against proposals)
 
 Coded by a rubric-following reader who does not know which condition the
 transcript came from, or by two readers with agreement reported.
@@ -42,7 +44,7 @@ transcript came from, or by two readers with agreement reported.
 | Claim | Rung today | What would move it up |
 |---|---|---|
 | 1. Register sets the mode (command → reproduction · conversation → thinking) | **1–2** — observed repeatedly in one partnership; no controlled comparison yet | rung 3: same task, command register vs invitation register, N runs, rubric above, one model |
-| 2. Documents activate at read time (form changes stance) | **2** — a documented case: a 27B local model (qwen, 4-bit, ollama + Letta) reads two context documents written in this method; stance and self-description change within one message and persist across a process restart. Internal controls: 57K chars of same-vocabulary prose 20 minutes earlier moved vocabulary but not stance; a structured skill file read after moved neither. Confounds: the partner framing was spoken before the read; reasoning-effort setting changed 6 minutes prior; n=1 | rung 3: same content as graph vs as paraphrased prose, two fresh agents, same model, rubric above — *designed, not yet run* |
+| 2. Documents activate at read time (form changes stance) | **2** — a documented case: a 27B local model (qwen, 4-bit, ollama + Letta) reads two context documents written in this method; stance and self-description change within one message and persist across a process restart. Internal controls: 57K chars of same-vocabulary prose 20 minutes earlier moved vocabulary but not stance; a structured skill file, read afterward, moved neither. Confounds: the partner framing was spoken before the read; reasoning-effort setting changed 6 minutes prior; n=1 | rung 3: same content as graph vs as paraphrased prose, two fresh agents, same model, rubric above — *designed, not yet run* |
 | 3. Memory lives only with maintain + use canons | **2, negative direction** — in the same case, two memory systems were configured and never called across four sessions; the positive direction is working practice (rung 1) | rung 3: with vs without the use-canon in context, count of memory calls per session |
 | *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)) | **1** — one partnership, no control | rung 3: the two questions ("did I explain that well?" vs "did you understand?"), N runs, coded for mirror-back vs reassurance vs bare "yes" |
 

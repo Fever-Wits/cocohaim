@@ -97,7 +97,7 @@ right place — the few, counted hard rules (→ [hard-canons](patterns/hard-can
 The same care runs in the other direction. A model's own speech drifts toward
 its internal shorthand — compressed picture-words the human was never
 introduced to: the curse of knowledge, in action ([#11](references.md)). The result is *semantic noise* — Weaver's term for distortion
-of meaning rather than signal ([REFERENCES #7](references.md)): the words
+of meaning rather than signal ([references #7](references.md)): the words
 arrive intact, the meaning doesn't, and the human is forced to guess. The fix
 is old and documented — plain language ([#9](references.md)); Grice's maxim
 of manner ([#8](references.md)); in regulated industries, a controlled
@@ -121,7 +121,7 @@ both directions of the conversation.
 
 ## Practice
 
-The practices distilled from this chapter are lines 1–6 and 12 of
+The practices distilled from this chapter are lines 1–7 and 13 of
 [`practices.md`](practices.md) — one list, kept in one place.
 
 Effects are model-dependent and arrive as tendencies, not guarantees — see

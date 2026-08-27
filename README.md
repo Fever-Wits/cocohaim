@@ -33,7 +33,7 @@ and what is still incoming:
 In the order the layers stack:
 
 1. Try one thing first → [`start-here.md`](start-here.md)
-2. The practice, in thirteen lines — each pointing at its why → [`practices.md`](practices.md)
+2. The practice, in fourteen lines — each pointing at its why → [`practices.md`](practices.md)
 3. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
 4. The catalog of expressive means → [`patterns/`](patterns/)
 5. What we measured, what is still incoming → [`evidence/`](evidence/)
