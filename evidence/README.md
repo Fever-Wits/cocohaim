@@ -63,7 +63,7 @@ protocol tests in the [phaim repository](https://github.com/Fever-Wits/phaim)
 when framed as data, hallucinated about when framed as prose; two models, one
 run each.
 
-## A reading test (rung 1–2)
+## A reading test (rung 1; confounds not controlled)
 
 The repository was handed to a foreign model to produce a podcast about it.
 What survived the compression: the problem story, `limits.md` almost

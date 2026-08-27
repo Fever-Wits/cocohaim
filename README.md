@@ -24,7 +24,12 @@ and what is still incoming:
 2. **Documents can activate, not only inform.** Form — graph blocks, line notation,
    how the text addresses its reader — changes the reader-model's stance *at read
    time*. We have watched eight tokens of grammar change a foreign model's
-   self-description in one pass. [→ `patterns/addressing-the-reader.md`]
+   self-description in one pass — the feminine verb forms a Bulgarian context
+   document uses for its own voice, about eight tokens in six hundred lines;
+   the first thing a 27B model said after reading it cold: *"'you, the
+   reader' pulled me in directly: I am the one reading this. Not the
+   object."* One documented case, rung 2 (→ [`evidence/`](evidence/README.md);
+   the pattern → [addressing-the-reader](patterns/addressing-the-reader.md)).
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
 
@@ -36,8 +41,8 @@ what to do and cannot know *when* — that must be in the context, and nobody
 put it there. People treat it as a colleague (who would remember the backup)
 or as a program (that does only what it is told); it is neither — a
 knowledgeable improviser: its knowledge in the weights, its situation only
-what is in front of it. The
-full statement → [`problem.md`](problem.md).
+what is in front of it. To see why the gap exists, look at the two reasons
+we built these minds at all — the full statement → [`problem.md`](problem.md).
 
 ## How to read this
 
