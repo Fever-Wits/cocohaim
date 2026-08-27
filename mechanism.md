@@ -1,20 +1,22 @@
 # Mechanism — the model behind the method
 
-This is the working model of *why* the practices work. It is stated from
-observed behavior and from published anchors, not from the model's internals;
-it stands on rung 2 of the [evidence ladder](evidence/README.md) and is
-offered as a model to test, not a fact to cite.
+This is the working model of *why* the method works. It is stated from
+observed behavior and from published anchors, not from the model's internals.
+Where it rests on evidence, that evidence is named with its rung on the
+[ladder](evidence/README.md) — activation by form stands on rung 2; the
+other channels below are rung 1, working practice. It is offered as a model
+to test, not a fact to cite.
 
 ## Knowing what, not knowing when
 
 A trained model already knows what to do in almost every situation it will
-meet — it was trained on the good practice and the bad practice alike. What
+meet — it was trained on good practice and bad practice alike. What
 it cannot know is *which situation this is*. The gap is not missing
 knowledge; it is the distance between knowledge and the moment.
 
 ## Why context is the only lever
 
-At the low level a model is probabilistic: each next token — of an answer or
+At a low level a model is probabilistic: each next token — of an answer or
 of an action — is generated from everything said and seen so far. The weights
 are fixed for the duration of the conversation; nothing in this method
 touches them. So there is exactly one lever: **what is in the context when
@@ -29,8 +31,9 @@ from the right region of it:
 - **by name** — a lens, a canon, a practice named in the context retrieves the
   procedure the name travels with ("naming activates", the founding
   observation of the [phaim](https://github.com/Fever-Wits/phaim) lens
-  framework; the same prediction appears in the literature on long-term
-  thought partnership as *specialized vocabularies* — [references #13](references.md));
+  framework; a related observation at the partnership level — that long-term
+  thought partnerships develop *specialized vocabularies* — is in
+  [references #13](references.md));
 - **by form** — a graph block, a line of notation, a legend: structure
   encoded as structure, which the model parses as relations rather than as
   prose about relations (encoding structure changes model output measurably —
@@ -43,8 +46,9 @@ from the right region of it:
   makes maintenance and consultation self-interested. →
   [memory-canons](patterns/memory-canons.md)
 
-Each of these is a way of shaping the context so that the pleasing default
-— the strongest force in generation — pleases in the right direction.
+Each of these is a way of shaping the context so that the model's strong
+default toward pleasing (the working model of
+[collaboration.md](collaboration.md), rung 1) pleases in the right direction.
 
 ## What this model does not claim
 

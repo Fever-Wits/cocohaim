@@ -15,10 +15,9 @@ in English — the demonstration is the documentation.)*
 Nothing about that start suggests a method. What turned it into one was a set
 of realizations, earned over months of working conversations:
 
-- **The model knows what to do in almost every situation** — it was trained on
-  the best practices and the worst ones alike. What it cannot know is *which
-  moment calls for which*. That is not missing knowledge; it is a gap between
-  knowledge and situation.
+- **The model knows what to do — it does not know when.** The realization that
+  became the model behind the method; stated once, in
+  [mechanism.md](mechanism.md).
 - **The model's default to please is strong** — and left unaimed, it produces
   the familiar failures: an answer that is fast, precise-sounding and wrong,
   because the model doesn't know your environment and won't slow down to ask;
