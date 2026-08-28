@@ -5,6 +5,13 @@
 *cocohaim is a model of human–AI cognitive collaboration — and the method that
 follows from it.*
 
+> **Under reorganization (28 Aug 2026 →).** The author and the model are
+> working out how to present this so that it serves both the reader who
+> already works this way and the reader who does not. After a reading test,
+> two forms stand side by side for now: the chapters (the source) and one
+> continuous read-through, [`cocohaim.md`](cocohaim.md) (a mechanical join of
+> the chapters, for comparison). The content stands; the structure will change.
+
 > **Commands produce execution. Conversation produces thinking.**
 
 ## What this is

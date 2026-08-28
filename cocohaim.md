@@ -5,8 +5,8 @@ cognitive collaboration, and the method that follows from it.
 
 > **Commands produce execution. Conversation produces thinking.**
 
-*Preview: the chapters of this repository joined into one continuous
-narrative, mechanically, to see the shape. Nothing rewritten yet; the
+*Preview — a mechanical join of the chapters, for comparison. The chapters
+are the source of truth until the rewrite; edit them, not this file. The
 reference layers (patterns/ · evidence/ · glossary · references) stay where
 they are.*
 
