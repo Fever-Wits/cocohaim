@@ -139,3 +139,13 @@ original.
 34. **Lem, S. (1961)** — *Solaris*. Snaut's line — "we don't want other
     worlds; we want mirrors" — the fear that in what we meet, or make, we
     only ever meet ourselves.
+35. **COPE (2023)** — *Authorship and AI tools*, COPE position statement,
+    Committee on Publication Ethics (reviewed 13 Feb 2023). "AI tools cannot
+    be listed as an author"; as non-legal entities they cannot manage copyright
+    and licence agreements; use must be disclosed — which tool, and how; the
+    authors remain fully responsible for every part.
+    https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools
+36. **CRediT (2022)** — *Contributor Roles Taxonomy*, ANSI/NISO Z39.104-2022.
+    Fourteen named roles; the ones decision 0008 leans on:
+    Conceptualization · Validation · Writing – original draft · Writing –
+    review & editing. https://credit.niso.org/contributor-roles-defined/

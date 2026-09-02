@@ -26,7 +26,7 @@ naming the uncomfortable as wanted (*"especially when it's uncomfortable"*) ·
 an explicit license for the unnamed (*"and whatever I have not thought to
 ask — that too"*).
 
-**Example** — live, translated from a working bios (the partner's standing
+**Example** — live, translated from a working bios (the author's standing
 requests, written in first person and kept in the model's context):
 
 > I want you to tell me everything you see — especially when it is

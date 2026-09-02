@@ -14,8 +14,8 @@ the one outside reading test was carried by the story; and what is unique
 here is the road, not the end-point.
 
 **Decision:** the top floor is one artifact — the story, first person plural,
-where "we" is the partnership (a human and a model; the authorship line on
-the entry page says who). The mechanism and the collaboration chapters
+where "we" is the partnership (a human and a model; the authorship note on
+the [entry page](../README.md#status) says who). The mechanism and the collaboration chapters
 become sections inside it; the origin chapter dissolves into it. One worked
 example — the documented case in [evidence](../evidence/README.md) — runs
 through the story and through every pattern. Practices stay in the reference

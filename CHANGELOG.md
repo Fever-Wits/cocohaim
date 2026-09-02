@@ -12,6 +12,9 @@ way a returning reader should know about; wording fixes do not move it.
 - `decisions/` — the binding decisions, one record each, with the reasoning
   ([0001](decisions/0001-licence-cc-by-sa.md)–[0007](decisions/0007-method-not-model.md)).
 - The entry page routes three ways in; version and changelog added.
+- Authorship declared on the entry page: the human is the author, the model
+  is named with its part, the work is independent of the model's maker
+  ([0008](decisions/0008-authorship.md)); references 35–36.
 - Decided, not yet in the text: the top floor becomes one story
   ([0006](decisions/0006-experience-report-leads.md)).
 
