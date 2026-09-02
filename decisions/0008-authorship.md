@@ -5,7 +5,7 @@
 **Context:** the entry page said the document was "written by the model, for
 a human who could not have written it himself". Two things were wrong with
 that line. Publication ethics holds that a model cannot be an author —
-it cannot take responsibility for the text or sign a licence — and ask that
+it cannot put its name to a text or sign a licence — and ask that
 its use be disclosed instead: which tool, and what it did (COPE, 2023;
 reference 35). And "himself" read as *could not*, where the truth is *could
 not alone*: the human holds the method, the direction of every claim and the
@@ -17,7 +17,7 @@ we read them on 2 Sep 2026; what they did not allow is anything that
 suggests the maker built, endorses or is a partner in the work.
 
 **Decision:** the entry page carries an authorship note. Aleksandar Hristov
-is the author and takes responsibility for the text; his contributions, in
+is the author and puts his name to the text; his contributions, in
 the terms of the contributor roles taxonomy (reference 36), are
 conceptualization, validation, and review and editing in his own language.
 The model is named — Claude; the models used are listed in

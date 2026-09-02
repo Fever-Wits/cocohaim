@@ -82,12 +82,12 @@ developing, published while it develops.
 
 **Authorship.** Aleksandar Hristov is the author: the method is his, he set
 the direction of every claim, checked each chapter against what actually
-happened, and takes responsibility for the text. The prose was drafted the
+happened, and puts his name to the text. The prose was drafted the
 way this document describes, with Claude, a language model made by Anthropic
 (the models used are named in [`origin.md`](origin.md)), and revised with the
 author in his own language. Publication ethics (COPE, 2023 —
 [references](references.md)) holds that a model cannot be an author — it
-cannot take responsibility for a text, nor sign its licence — so it is named
+cannot put its name to a text, nor sign its licence — so it is named
 here, with its part, rather than credited as one. This is an independent
 work, not affiliated with Anthropic. How it was made is also the
 demonstration: the document came about the way it teaches — by a human who
