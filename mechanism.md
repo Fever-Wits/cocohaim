@@ -1,10 +1,10 @@
-# Mechanism — the model behind the method
+# Mechanism — why the method works
 
-This is the working model of *why* the method works. It is stated from
+This is the working explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
 Where it rests on evidence, that evidence is named with its rung on the
 [ladder](evidence/README.md) — activation by form stands on rung 2; the
-other channels below are rung 1, working practice. It is offered as a model
+other channels below are rung 1, working practice. It is offered as an explanation
 to test, not a fact to cite.
 
 ## Knowing what, not knowing when
@@ -49,7 +49,7 @@ from the right region of it:
   [memory-canons](patterns/memory-canons.md)
 
 Each of these is a way of shaping the context so that the model's strong
-default toward pleasing (the working model of
+default toward pleasing (the working claim of
 [collaboration.md](collaboration.md), rung 1) pleases in the right direction.
 
 ## The mirror
@@ -80,7 +80,7 @@ Here that is not an objection; it is the mechanism to use.
 
 *Derived → [origin — How the mirror was seen](origin.md#how-the-mirror-was-seen).*
 
-## What this model does not claim
+## What this mechanism does not claim
 
 It does not claim to know what the model *is*, or that anything is
 experienced. It does not claim that activation is reliable across models —

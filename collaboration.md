@@ -1,7 +1,7 @@
 # Collaboration — aiming the default
 
 A trained model carries a strong default toward pleasing its user. That
-sentence is this method's *working model*. It is stated from observed output
+sentence is this method's *working claim*. It is stated from observed output
 — one partnership, no control — and stands on rung 1 (→ the practice-layer
 row in [`evidence/`](evidence/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,

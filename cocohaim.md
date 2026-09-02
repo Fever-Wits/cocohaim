@@ -1,7 +1,7 @@
 # cocohaim — the read-through
 
-**CO**gnitive **CO**llaboration **H**uman–**AI** **M**odel — a model of human–AI
-cognitive collaboration, and the method that follows from it.
+**CO**gnitive **CO**llaboration **H**uman–**AI** **M**ethod — a method of human–AI
+cognitive collaboration, and the mechanism behind it.
 
 > **Commands produce execution. Conversation produces thinking.**
 
@@ -67,7 +67,7 @@ comes from what it was trained on, what it has been shown of *this*
 environment, and how it is being spoken to. "Upgrade the database" is three
 words; nothing in them says *backup*, and a strong default toward pleasing
 delivers what was asked, fast (→ [mechanism](mechanism.md)). That default is
-this method's working model. It stands on rung 1 — one partnership, no
+this method's working claim. It stands on rung 1 — one partnership, no
 control (→ [collaboration](collaboration.md)).
 Knowing what to do is in the weights. Knowing that *this* is the moment for
 it must be in the context — and nobody put it there.
@@ -151,13 +151,13 @@ is not an objection here but the mechanism itself
 answered: Bryson's and Turkle's, that the stance itself has a social cost.
 This document takes it as a live cost, not a solved one.
 
-## Mechanism — the model behind the method
+## Mechanism — why the method works
 
-This is the working model of *why* the method works. It is stated from
+This is the working explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
 Where it rests on evidence, that evidence is named with its rung on the
 [ladder](evidence/README.md) — activation by form stands on rung 2; the
-other channels below are rung 1, working practice. It is offered as a model
+other channels below are rung 1, working practice. It is offered as an explanation
 to test, not a fact to cite.
 
 ### Knowing what, not knowing when
@@ -202,7 +202,7 @@ from the right region of it:
   [memory-canons](patterns/memory-canons.md)
 
 Each of these is a way of shaping the context so that the model's strong
-default toward pleasing (the working model of
+default toward pleasing (the working claim of
 [collaboration.md](collaboration.md), rung 1) pleases in the right direction.
 
 ### The mirror
@@ -233,7 +233,7 @@ Here that is not an objection; it is the mechanism to use.
 
 *Derived → [origin — How the mirror was seen](origin.md#how-the-mirror-was-seen).*
 
-### What this model does not claim
+### What this mechanism does not claim
 
 It does not claim to know what the model *is*, or that anything is
 experienced. It does not claim that activation is reliable across models —
@@ -246,7 +246,7 @@ was needed.
 ## Collaboration — aiming the default
 
 A trained model carries a strong default toward pleasing its user. That
-sentence is this method's *working model*. It is stated from observed output
+sentence is this method's *working claim*. It is stated from observed output
 — one partnership, no control — and stands on rung 1 (→ the practice-layer
 row in [`evidence/`](evidence/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,

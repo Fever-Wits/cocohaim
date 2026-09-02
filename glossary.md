@@ -1,5 +1,9 @@
 # Glossary — the terms the chapters lean on
 
+- **the method** — *cocohaim* itself: the way of working these chapters
+  document — the **M** of the name. Distinct from *model*, which throughout
+  means the language model (the machine), and from *mechanism*, the working
+  explanation of why the method works (→ [mechanism.md](mechanism.md)).
 - **bios** — the always-loaded context document of the working base this
   method grew in (its CLAUDE.md); *not* firmware. Used here as "a live
   example of the method applied".

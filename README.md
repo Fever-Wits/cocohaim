@@ -1,9 +1,9 @@
 # cocohaim
 
-**CO**gnitive **CO**llaboration **H**uman–**AI** **M**odel.
+**CO**gnitive **CO**llaboration **H**uman–**AI** **M**ethod.
 
-*cocohaim is a model of human–AI cognitive collaboration — and the method that
-follows from it.*
+*cocohaim is a method of human–AI cognitive collaboration — and the mechanism
+behind it.*
 
 > **Under reorganization (28 Aug 2026 →).** The author and the model are
 > working out how to present this so that it serves both the reader who
@@ -51,27 +51,33 @@ knowledgeable improviser: its knowledge in the weights, its situation only
 what is in front of it. To see why the gap exists, look at the two reasons
 we built these minds at all — the full statement → [`problem.md`](problem.md).
 
-## How to read this
+## Three ways in
 
-In the order the layers stack:
-
-1. Try one thing first → [`start-here.md`](start-here.md)
-2. Why models "make mistakes" — the two reasons and the gap → [`problem.md`](problem.md)
-3. The model behind the method — why context is the only lever → [`mechanism.md`](mechanism.md)
-4. The practice, in fifteen lines — each pointing at its why → [`practices.md`](practices.md)
-5. The human side — aiming the default instead of fencing it → [`collaboration.md`](collaboration.md)
-6. The catalog of expressive means → [`patterns/`](patterns/)
-7. What we measured, what is still incoming → [`evidence/`](evidence/)
-8. What we do **not** claim, and when this is not for you → [`limits.md`](limits.md)
-9. How each claim was arrived at → [`origin.md`](origin.md)
+- **Try one practice today** → [`start-here.md`](start-here.md) — one thing
+  to change in your next conversation, and what to watch for.
+- **Take one part** → [`patterns/`](patterns/) — the catalog of expressive
+  means, each pattern self-contained; or the guidelines alone, fifteen lines
+  each pointing at its why → [`practices.md`](practices.md).
+- **Take all** → [`cocohaim.md`](cocohaim.md), one read-through; or the
+  chapters in the order the layers stack: [`problem`](problem.md) (the two
+  reasons and the gap) → [`mechanism`](mechanism.md) (why context is the only
+  lever) → [`practices`](practices.md) → [`collaboration`](collaboration.md)
+  (aiming the default instead of fencing it) → [`patterns/`](patterns/) →
+  [`evidence/`](evidence/) (what we measured, what is still incoming) →
+  [`limits`](limits.md) (what we do **not** claim, and when this is not for
+  you) → [`origin`](origin.md) (how each claim was arrived at).
 
 Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
-[`references.md`](references.md) — every measured claim's source.
+[`references.md`](references.md) — every measured claim's source ·
+[`decisions/`](decisions/) — the binding decisions, each with its reasoning.
 
 ## Status
 
+**Version 0.3 · 2 Sep 2026 · draft** — [changelog](CHANGELOG.md); the status
+words are defined in [decisions](decisions/README.md).
+
 **This is a scaffold — deliberately.** It gets filled in over time: patterns deepen,
-evidence lands, gaps close. It is not a closed model; it is a logic still
+evidence lands, gaps close. It is not a closed method; it is a logic still
 developing, published while it develops.
 
 The method grew inside a working human–AI partnership, and it is writing its
