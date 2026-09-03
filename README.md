@@ -20,10 +20,7 @@ Then the shelves:
 - [references.md](references.md) — the outside sources.
 
 [decisions/](decisions/) and the [changelog](CHANGELOG.md) are the record of
-this repository, not the method. The older chapters (`problem`, `mechanism`,
-`practices`, `collaboration`, `limits`, `origin`, `start-here`, `glossary`)
-are being folded into the read-through; until that is done, they stand as
-they were.
+this repository, not the method.
 
 ## Status
 
@@ -36,9 +33,9 @@ grows.
 Aleksandar Hristov is the author: the method is his; he set the direction of
 every claim, checked each piece against what actually happened, and puts his
 name to the text. The words were drafted the way the text describes — with
-Claude, a language model made by Anthropic (the models used are named in
-[`origin.md`](origin.md)) — and gone over with the author in his own
-language. Publication ethics (COPE, 2023 — [references](references.md))
+Claude, a language model made by Anthropic: the Opus and Sonnet families
+through 2025–2026, and Claude Fable 5 in the sessions where this text was
+written — and gone over with the author in his own language. Publication ethics (COPE, 2023 — [references](references.md))
 holds that a model cannot be an author — it cannot put its name to a text,
 nor sign its licence — so it is named here, with its part, rather than
 credited as one. This is an independent work, not affiliated with Anthropic.

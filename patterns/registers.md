@@ -57,9 +57,10 @@ back, where the command did not (the numbers → [`tests/`](../tests/README.md))
   model that seeing is unwanted — worse than an honest command.
 - An invitation costs length and costs *you*: what it returns must be read,
   argued with, sometimes conceded to.
-- Effects are model-dependent — verify on yours (→ `limits.md`).
+- Effects are model-dependent — verify on yours.
 
-**Related** — [collaboration](../collaboration.md) (the root this pattern serves) ·
+**Related** — [cocohaim.md, "How you speak"](../cocohaim.md#how-you-speak) (the
+root this pattern serves) ·
 [addressing-the-reader](addressing-the-reader.md) (whom the invitation lands on) ·
 [hard-canons](hard-canons.md) (the one right place for commands) ·
 [graph-block](graph-block.md) (the fork form above) · [memory-canons](memory-canons.md)

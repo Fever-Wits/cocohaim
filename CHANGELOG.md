@@ -31,10 +31,10 @@ way a returning reader should know about; wording fixes do not move it.
 
 ## 0.2 — 27–28 Aug 2026
 
-- The chapters: [problem](problem.md) (the two reasons, the gap, the
-  counter-positions) · [mechanism](mechanism.md) (knowing what, not when;
-  the mirror) · [collaboration](collaboration.md) · [limits](limits.md) ·
-  [origin](origin.md) as the derivation record.
+- The chapters: `problem` (the two reasons, the gap, the
+  counter-positions) · `mechanism` (knowing what, not when;
+  the mirror) · `collaboration` · `limits` ·
+  `origin` as the derivation record.
 - [evidence](tests/README.md): the ladder of rungs; each claim on its
   rung, stated in its own sentence; the documented case; the outside
   reading test recorded.
@@ -48,8 +48,8 @@ way a returning reader should know about; wording fixes do not move it.
 - Public. Licence CC BY-SA 4.0 ([0001](decisions/0001-licence-cc-by-sa.md)).
 - Eight patterns in draft, one template; legend v1
   ([0005](decisions/0005-legend-v1-load-bearing.md)).
-- [practices](practices.md): the guidelines list, positive form, each line
+- `practices`: the guidelines list, positive form, each line
   with its cost ([0003](decisions/0003-no-pointer-no-entry.md)).
 - [references](references.md) 1–12, every number cited
-  ([0004](decisions/0004-uncited-source-removed.md)); [glossary](glossary.md);
+  ([0004](decisions/0004-uncited-source-removed.md)); `glossary`;
   the evidence seed.

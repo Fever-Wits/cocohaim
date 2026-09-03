@@ -18,6 +18,7 @@ is renamed; sentences that contrasted "the model and the method" are
 rewritten as "the method and the mechanism behind it"; the name stays as it
 is — only its last letter changes what it stands for.
 
-*Where it shows:* the first line of [README](../README.md) ·
-[glossary](../glossary.md) · the heading "What this mechanism does not claim"
-in [mechanism.md](../mechanism.md).
+*Where it shows:* the first line of [README](../README.md). It also showed
+in `glossary.md` and under the heading "What this mechanism does not claim"
+in `mechanism.md`, until both were folded into
+[cocohaim.md](../cocohaim.md) in September 2026.

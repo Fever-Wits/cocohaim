@@ -16,5 +16,6 @@ is not added, and an existing one without a pointer is a bug.
 asked for the pointer before the wording; the cost of a practice is visible
 next to the practice, not in a separate caveat section.
 
-*Where it shows:* the footer of [practices.md](../practices.md) ("Adding a
-line") · the head of [references.md](../references.md).
+*Where it shows:* the head of [references.md](../references.md). It also
+showed in the footer of `practices.md` ("Adding a line") until that chapter
+was folded into [cocohaim.md](../cocohaim.md) in September 2026.
