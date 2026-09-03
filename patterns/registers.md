@@ -41,10 +41,12 @@ And the mirror rule, from the same house, addressed to the model as *writer*:
 **Why** — the register sets the mode. A command collapses the reader-model
 into the shape of an executor: it reproduces, competently, including your
 mistakes. An invitation holds it in the shape of a thinker: it sees, it
-volunteers, it disagrees. Observed repeatedly in one working partnership —
-the same model that answers a command with an options-menu answers an
-invitation with a position (a working hypothesis until the controlled
-comparison runs — see [`evidence/`](../evidence/README.md)).
+volunteers, it disagrees. Observed repeatedly in one working partnership,
+then compared under control: the same plan, the same holes planted, sent
+twelve times to three sizes of one model family — six as a command, six as a
+request. Both registers found the holes at the same rate; the request
+questioned the premise, named its own blind spot and handed the decision
+back, where the command did not (the numbers → [`evidence/`](../evidence/README.md)).
 
 **Cost / when not**
 

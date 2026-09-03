@@ -7,8 +7,8 @@ something to check. Because the logic here is shared but the words are
 personal (→ [collaboration](collaboration.md)), a reader cannot copy these
 claims; they have to re-derive them with their own words and their own
 model. This chapter shows the path so that re-derivation is possible. It is
-n=1 by nature — provenance, not proof; the proof status of each claim lives
-in [`evidence/`](evidence/README.md).
+one path, told as it happened — provenance; what each claim was checked
+against lives in [`evidence/`](evidence/README.md).
 
 The observations come from daily work with Claude models (the Opus and
 Sonnet families, 2025–2026; the writing sessions of this repository on Claude

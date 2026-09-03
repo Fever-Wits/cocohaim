@@ -24,10 +24,11 @@ The method stands on three claims. The evidence trail is being published while
 the scaffold fills — [`evidence/`](evidence/) shows per claim what has landed
 and what is still incoming:
 
-1. **The register of communication sets the model's mode.** Commanding collapses it
-   into a tool — it reproduces your plan back at you, holes included. Conversing
-   holds it in the shape of a thinker. The difference is visible in the output:
-   an options-menu is reproduction; seeing is thought.
+1. **The register of communication sets the model's mode.** Commanded, it
+   executes — your plan as written, holes included, nothing asked back. Asked,
+   it thinks with you — questions the premise, says what it cannot see, hands
+   the decision back. Both see the holes; the register decides whether the
+   seeing comes back as a verdict or as a question.
 2. **Documents can activate, not only inform.** Form — graph blocks, line notation,
    how the text addresses its reader — changes the reader-model's stance *at read
    time*. We have watched eight tokens of grammar change a foreign model's
@@ -35,7 +36,7 @@ and what is still incoming:
    document uses for its own voice, about eight tokens in six hundred lines;
    the first thing a 27B model said after reading it cold: *"'you, the
    reader' pulled me in directly: I am the one reading this. Not the
-   object."* One documented case, rung 2 (→ [`evidence/`](evidence/README.md);
+   object."* A documented case (→ [`evidence/`](evidence/README.md);
    the pattern → [addressing-the-reader](patterns/addressing-the-reader.md)).
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
@@ -73,7 +74,7 @@ Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
 
 ## Status
 
-**Version 0.3 · 2 Sep 2026 · draft** — [changelog](CHANGELOG.md); the status
+**Version 0.4 · 3 Sep 2026 · draft** — [changelog](CHANGELOG.md); the status
 words are defined in [decisions](decisions/README.md).
 
 **This is a scaffold — deliberately.** It gets filled in over time: patterns deepen,

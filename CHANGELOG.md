@@ -4,6 +4,17 @@ Versions are 0.x while the document is a draft (see the status words in
 [decisions](decisions/README.md)). A version moves when the text changes in a
 way a returning reader should know about; wording fixes do not move it.
 
+## 0.4 — 3 Sep 2026
+
+- Claim 1 restated from a controlled comparison (12 runs, command vs
+  request): both registers see the holes; the register decides whether the
+  seeing comes back as a verdict or as a question. The numbers are in
+  [`evidence/`](evidence/README.md), row 1.
+- The chapters now say what is. The hedges ("working claim", "rung 1",
+  "n=1, no control", "hypothesis") are gone from the text; what each claim
+  was checked against stays in [`evidence/`](evidence/README.md).
+- [cocohaim.md](cocohaim.md) regenerated from the chapters.
+
 ## 0.3 — 2 Sep 2026
 
 - The word: cocohaim is a *method*; *model* is reserved for the language

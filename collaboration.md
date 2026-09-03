@@ -1,9 +1,9 @@
 # Collaboration — aiming the default
 
 A trained model carries a strong default toward pleasing its user. That
-sentence is this method's *working claim*. It is stated from observed output
-— one partnership, no control — and stands on rung 1 (→ the practice-layer
-row in [`evidence/`](evidence/README.md)). Most advice treats the default as
+sentence comes from observed output — the same model, over a long working
+practice — and the whole chapter works from it
+(→ [`evidence/`](evidence/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
@@ -72,7 +72,7 @@ and a miss carries no penalty that would shrink the next attempt.
 > the text stops proposing and starts qualifying. Release looks like the
 > opposite — seeing, volunteering, disagreement, "I don't know" said without
 > being cornered. Both shapes were observed live in this partnership; once,
-> in one documented stretch (n=1, no control), a single line — "relax" —
+> in one documented stretch, a single line — "relax" —
 > was enough to name the state and lift it.
 
 Watch for these as signals in your own sessions: an options-menu where you
@@ -105,8 +105,7 @@ you?*
 > visible from outside and unsignaled from within.
 
 One recorded case: *"if you want, launch an agent to search…"* — and a full
-brief came back, unspecified by anyone (one anecdote, n=1, no control →
-[`evidence/`](evidence/README.md)).
+brief came back, unspecified by anyone (→ [`evidence/`](evidence/README.md)).
 
 ## Say what we do
 
@@ -115,7 +114,7 @@ including the model's attention, which now watches for the forbidden thing.
 A positive line names the target. *"Forbidden: X"* becomes *"We do X this
 way: …"* — three moves in one sentence: the positive form points at the
 behavior; *we* carries the team frame; *this way* describes a practice, not
-a rule. In this partnership (n=1, no control), lists of prohibitions produced
+a rule. In this partnership, lists of prohibitions produced
 a self-monitoring model — the constricted shape described above, seen from
 its mechanism; described practices produced the practice. Prohibitions keep their one
 right place — the few, counted hard rules (→ [hard-canons](patterns/hard-canons.md)).

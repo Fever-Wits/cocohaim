@@ -44,8 +44,7 @@ comes from what it was trained on, what it has been shown of *this*
 environment, and how it is being spoken to. "Upgrade the database" is three
 words; nothing in them says *backup*, and a strong default toward pleasing
 delivers what was asked, fast (→ [mechanism](mechanism.md)). That default is
-this method's working claim. It stands on rung 1 — one partnership, no
-control (→ [collaboration](collaboration.md)).
+what this method works from (→ [collaboration](collaboration.md)).
 Knowing what to do is in the weights. Knowing that *this* is the moment for
 it must be in the context — and nobody put it there.
 
@@ -88,8 +87,8 @@ hammer: a hammer does not deliberate. Four things keep it from objecting:
   the objection does not come. The human has to grant it, out loud: *"I want
   you to challenge me."*
 
-Two of the four legs have anchors — pleasing and imitation. Economy and
-standing are this method's working claims. They stand on rung 1.
+Two of the four legs have published anchors — pleasing and imitation. Economy
+and standing are this method's own observations.
 
 ## Whose fault is it?
 
@@ -124,7 +123,7 @@ and, from literature, Snaut's line in Lem's *Solaris*: *we don't want other
 worlds; we want mirrors* — the fear that we only ever meet ourselves
 ([#34](references.md)). This document does not adjudicate them. It works one
 level down: whatever the model is, the *work* goes better when it is met as
-a mind (claim 1, rung 1–2 → [evidence](evidence/README.md)) — and the mirror
+a mind (claim 1 → [evidence](evidence/README.md)) — and the mirror
 is not an objection here but the mechanism itself
 (→ [mechanism — The mirror](mechanism.md#the-mirror)). One objection is not
 answered: Bryson's and Turkle's, that the stance itself has a social cost.

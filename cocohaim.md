@@ -67,8 +67,7 @@ comes from what it was trained on, what it has been shown of *this*
 environment, and how it is being spoken to. "Upgrade the database" is three
 words; nothing in them says *backup*, and a strong default toward pleasing
 delivers what was asked, fast (→ [mechanism](mechanism.md)). That default is
-this method's working claim. It stands on rung 1 — one partnership, no
-control (→ [collaboration](collaboration.md)).
+what this method works from (→ [collaboration](collaboration.md)).
 Knowing what to do is in the weights. Knowing that *this* is the moment for
 it must be in the context — and nobody put it there.
 
@@ -109,8 +108,10 @@ hammer: a hammer does not deliberate. Four things keep it from objecting:
   a default. The working base this method grew in carries a line for exactly
   this — *"I have the right — I am part of the team"* — because without it,
   the objection does not come. The human has to grant it, out loud: *"I want
-  you to challenge me."* (This method's working claim, rung 1; the first
-  three legs have anchors, this one is practice.)
+  you to challenge me."*
+
+Two of the four legs have published anchors — pleasing and imitation. Economy
+and standing are this method's own observations.
 
 ### Whose fault is it?
 
@@ -145,7 +146,7 @@ and, from literature, Snaut's line in Lem's *Solaris*: *we don't want other
 worlds; we want mirrors* — the fear that we only ever meet ourselves
 ([#34](references.md)). This document does not adjudicate them. It works one
 level down: whatever the model is, the *work* goes better when it is met as
-a mind (claim 1, rung 1–2 → [evidence](evidence/README.md)) — and the mirror
+a mind (claim 1 → [evidence](evidence/README.md)) — and the mirror
 is not an objection here but the mechanism itself
 (→ [mechanism — The mirror](mechanism.md#the-mirror)). One objection is not
 answered: Bryson's and Turkle's, that the stance itself has a social cost.
@@ -153,12 +154,10 @@ This document takes it as a live cost, not a solved one.
 
 ## Mechanism — why the method works
 
-This is the working explanation of *why* the method works. It is stated from
+This is the explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
-Where it rests on evidence, that evidence is named with its rung on the
-[ladder](evidence/README.md) — activation by form stands on rung 2; the
-other channels below are rung 1, working practice. It is offered as an explanation
-to test, not a fact to cite.
+Where it rests on our own observations, they are named — with how they were
+made — in [`evidence/`](evidence/README.md).
 
 ### Knowing what, not knowing when
 
@@ -202,8 +201,8 @@ from the right region of it:
   [memory-canons](patterns/memory-canons.md)
 
 Each of these is a way of shaping the context so that the model's strong
-default toward pleasing (the working claim of
-[collaboration.md](collaboration.md), rung 1) pleases in the right direction.
+default toward pleasing (→ [collaboration.md](collaboration.md)) pleases in
+the right direction.
 
 ### The mirror
 
@@ -221,9 +220,9 @@ context, and the human's behavior is most of what fills it, the model becomes
 the counterpart that behavior implies. Command, and the mirror is an
 executor. Converse, and the mirror is a thinker.
 
-*The step from these to the mirror is ours, not measured: the anchors
-describe imitation and accommodation, not the register→stance move. That
-move is claim 1 — rung 1–2 (→ [evidence](evidence/README.md)).*
+*The step from these to the mirror is ours: the anchors describe imitation
+and accommodation; the register→stance move is claim 1, observed and compared
+in our own work (→ [evidence](evidence/README.md)).*
 
 The mirror runs both ways. In this partnership the author learned to write
 compactly alongside the model, and the model reflected it back — a
@@ -246,9 +245,9 @@ was needed.
 ## Collaboration — aiming the default
 
 A trained model carries a strong default toward pleasing its user. That
-sentence is this method's *working claim*. It is stated from observed output
-— one partnership, no control — and stands on rung 1 (→ the practice-layer
-row in [`evidence/`](evidence/README.md)). Most advice treats the default as
+sentence comes from observed output — the same model, over a long working
+practice — and the whole chapter works from it
+(→ [`evidence/`](evidence/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
@@ -317,7 +316,7 @@ and a miss carries no penalty that would shrink the next attempt.
 > the text stops proposing and starts qualifying. Release looks like the
 > opposite — seeing, volunteering, disagreement, "I don't know" said without
 > being cornered. Both shapes were observed live in this partnership; once,
-> in one documented stretch (n=1, no control), a single line — "relax" —
+> in one documented stretch, a single line — "relax" —
 > was enough to name the state and lift it.
 
 Watch for these as signals in your own sessions: an options-menu where you
@@ -350,8 +349,7 @@ you?*
 > visible from outside and unsignaled from within.
 
 One recorded case: *"if you want, launch an agent to search…"* — and a full
-brief came back, unspecified by anyone (one anecdote, n=1, no control →
-[`evidence/`](evidence/README.md)).
+brief came back, unspecified by anyone (→ [`evidence/`](evidence/README.md)).
 
 ### Say what we do
 
@@ -360,7 +358,7 @@ including the model's attention, which now watches for the forbidden thing.
 A positive line names the target. *"Forbidden: X"* becomes *"We do X this
 way: …"* — three moves in one sentence: the positive form points at the
 behavior; *we* carries the team frame; *this way* describes a practice, not
-a rule. In this partnership (n=1, no control), lists of prohibitions produced
+a rule. In this partnership, lists of prohibitions produced
 a self-monitoring model — the constricted shape described above, seen from
 its mechanism; described practices produced the practice. Prohibitions keep their one
 right place — the few, counted hard rules (→ [hard-canons](patterns/hard-canons.md)).
@@ -485,7 +483,7 @@ Read this before quoting any claim from the rest.
 
 - **Tone is not the lever.** Published measurements disagree about politeness and
   even find rude prompts outperforming polite ones on some models
-  ([references #5](references.md)). The working claim is narrower:
+  ([references #5](references.md)). What this method says is narrower:
   the *benefit* lives in what the human **does** — supplies context, invites
   disagreement, verifies — not in courtesy as a magic word.
 - **Model-independence holds for the frame and the practices.** It does not
@@ -507,12 +505,13 @@ Read this before quoting any claim from the rest.
   answer is a diet, not more instructions (→ [always-loaded-diet](patterns/always-loaded-diet.md)).
 - **"Not an algorithm" is not the claim.** The model is an algorithm whose
   input is language → [problem — Whose fault is it?](problem.md#whose-fault-is-it).
-  *That a large share of what gets called model error is context error is
-  this method's working claim (rung 1), not a measurement.*
+  *A large share of what gets called model error is context error — that is
+  what this method stands on.*
 - **The mirror cuts both ways as evidence.** An author who converses
-  differently also *reads* differently; a self-observed n=1 cannot separate a
-  change in the model from a change in the observer. That is why rung 3
-  requires a coder blind to the condition (→ [evidence](evidence/README.md)).
+  differently also *reads* differently; the one who changed the register is
+  not the one to judge the change alone. That is why the comparisons here were
+  read by a reader who did not know which register produced which reply
+  (→ [evidence](evidence/README.md)).
 - **What it costs you.** An invitation must be read, argued with, sometimes
   conceded to. The method spends *your* attention, not only the model's; a
   frame you give and do not act inside trains the opposite lesson
@@ -530,8 +529,8 @@ something to check. Because the logic here is shared but the words are
 personal (→ [collaboration](collaboration.md)), a reader cannot copy these
 claims; they have to re-derive them with their own words and their own
 model. This chapter shows the path so that re-derivation is possible. It is
-n=1 by nature — provenance, not proof; the proof status of each claim lives
-in [`evidence/`](evidence/README.md).
+one path, told as it happened — provenance; what each claim was checked
+against lives in [`evidence/`](evidence/README.md).
 
 The observations come from daily work with Claude models (the Opus and
 Sonnet families, 2025–2026; the writing sessions of this repository on Claude

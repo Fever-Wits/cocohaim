@@ -26,7 +26,7 @@ The store is what the tools ship. The two canons are what you write:
 - what to trust: memory answers are leads — verify against the world before
   building on them.
 
-**Example** — live, negative, one documented case (n=1, no control; the same case as claim 2 in [evidence](../evidence/README.md)): a 27B
+**Example** — live, negative, one documented case (the same case as claim 2 in [evidence](../evidence/README.md)): a 27B
 model was given two working memory systems, fully configured, connection
 tested. Across all four of its sessions over two days it made **zero** calls
 to either — while fluently *talking about* memory, loops and records it had

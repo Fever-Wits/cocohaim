@@ -1,11 +1,9 @@
 # Mechanism — why the method works
 
-This is the working explanation of *why* the method works. It is stated from
+This is the explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
-Where it rests on evidence, that evidence is named with its rung on the
-[ladder](evidence/README.md) — activation by form stands on rung 2; the
-other channels below are rung 1, working practice. It is offered as an explanation
-to test, not a fact to cite.
+Where it rests on our own observations, they are named — with how they were
+made — in [`evidence/`](evidence/README.md).
 
 ## Knowing what, not knowing when
 
@@ -49,8 +47,8 @@ from the right region of it:
   [memory-canons](patterns/memory-canons.md)
 
 Each of these is a way of shaping the context so that the model's strong
-default toward pleasing (the working claim of
-[collaboration.md](collaboration.md), rung 1) pleases in the right direction.
+default toward pleasing (→ [collaboration.md](collaboration.md)) pleases in
+the right direction.
 
 ## The mirror
 
@@ -68,9 +66,9 @@ context, and the human's behavior is most of what fills it, the model becomes
 the counterpart that behavior implies. Command, and the mirror is an
 executor. Converse, and the mirror is a thinker.
 
-*The step from these to the mirror is ours, not measured: the anchors
-describe imitation and accommodation, not the register→stance move. That
-move is claim 1 — rung 1–2 (→ [evidence](evidence/README.md)).*
+*The step from these to the mirror is ours: the anchors describe imitation
+and accommodation; the register→stance move is claim 1, observed and compared
+in our own work (→ [evidence](evidence/README.md)).*
 
 The mirror runs both ways. In this partnership the author learned to write
 compactly alongside the model, and the model reflected it back — a
