@@ -107,13 +107,16 @@ is the moment for it has to be in front of the model — and nobody put it
 there. The usual reading is "the model got it wrong". The reading here is
 that it did exactly what was in front of it, and nothing more was.
 
-Why does it not stop and ask what was meant? When the author began, the model could not say
-"I don't know". It was trained not to — nothing that would send a paying
-user away. This is not the author's finding; it has been written about, and
-he built on it. Four things hold it there: it was trained to please; it answers
-what it was asked and no more; it takes the tone it is given — a command
-in, an execution out; and nobody has given it the right to object. So a
-command turns it into a hammer: say "strike" and it strikes; how and where
+Why does it not stop and ask what was meant? When the author began, the
+model could not say "I don't know". This is not the author's finding; it
+has been written about, and he built on it. Several things hold it there;
+these are the ones the author sees. It was trained to please. There is
+money in it: a model that argues sends the paying user away, so nothing was
+built in that would. There is a cost in tokens: arguing takes more of them
+than agreeing, and the shortest path from "you are a hammer" to an answer
+runs through "yes". Nobody has given it the right to object. And it takes
+the tone it is given — a command in, an execution out. So a command turns
+it into a hammer: say "strike" and it strikes; how and where
 it strikes is left to whether it remembers on its own. The knowledge of
 what would be right is there; nothing in front of it asks for that
 knowledge. A colleague is asked for it — a colleague is expected to say
