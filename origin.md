@@ -8,11 +8,11 @@ personal (→ [collaboration](collaboration.md)), a reader cannot copy these
 claims; they have to re-derive them with their own words and their own
 model. This chapter shows the path so that re-derivation is possible. It is
 one path, told as it happened — provenance; what each claim was checked
-against lives in [`evidence/`](evidence/README.md).
+against lives in [`tests/`](tests/README.md).
 
 The observations come from daily work with Claude models (the Opus and
 Sonnet families, 2025–2026; the writing sessions of this repository on Claude
-Fable 5) — the qwen case in [`evidence/`](evidence/README.md) aside; where a
+Fable 5) — the qwen case in [`tests/`](tests/README.md) aside; where a
 specific model matters for a claim, it is named at the claim. The author's
 raw account is kept in Bulgarian in a private working archive, not
 inspectable by a reader; quotations below are translations. Passages marked
@@ -61,7 +61,7 @@ was a single one — *"relax"* — and it worked in the documented stretch.
 
 **Conclusion.** The question that puts the burden on the speaker removes the
 exam; the only way left to please is to verify. → [collaboration](collaboration.md)
-· practices 2, 7 · the rubric in [`evidence/`](evidence/README.md).
+· practices 2, 7 · the rubric in [`tests/`](tests/README.md).
 
 ## How the layers accreted
 
@@ -138,6 +138,6 @@ research agents and verified before entering; every section passes a cold
 review by a fresh model that sees only the artifact, before publication; the
 author checks meaning through machine translation. One exchange along the
 way is recorded as a case — *"if you want, launch an agent to search…"*, an
-invitation, not an order — → [`evidence/`](evidence/README.md). *(From the
+invitation, not an order — → [`tests/`](tests/README.md). *(From the
 inside: the invitation left the choice unspecified; what came out was a
 brief nobody specified.)*

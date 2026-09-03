@@ -21,7 +21,7 @@ neighborhood teaches you to *instruct* better. This teaches something else: how 
 communicate with a model so that it **thinks with you** instead of reproducing at you.
 
 The method stands on three claims. The evidence trail is being published while
-the scaffold fills — [`evidence/`](evidence/) shows per claim what has landed
+the scaffold fills — [`tests/`](tests/) shows per claim what has landed
 and what is still incoming:
 
 1. **The register of communication sets the model's mode.** Commanded, it
@@ -36,7 +36,7 @@ and what is still incoming:
    document uses for its own voice, about eight tokens in six hundred lines;
    the first thing a 27B model said after reading it cold: *"'you, the
    reader' pulled me in directly: I am the one reading this. Not the
-   object."* A documented case (→ [`evidence/`](evidence/README.md);
+   object."* A documented case (→ [`tests/`](tests/README.md);
    the pattern → [addressing-the-reader](patterns/addressing-the-reader.md)).
 3. **External memory lives only with two canons:** how it is *maintained* and how it
    is *used*. Storage without them is dead weight — configured, never called.
@@ -64,7 +64,7 @@ we built these minds at all — the full statement → [`problem.md`](problem.md
   reasons and the gap) → [`mechanism`](mechanism.md) (why context is the only
   lever) → [`practices`](practices.md) → [`collaboration`](collaboration.md)
   (aiming the default instead of fencing it) → [`patterns/`](patterns/) →
-  [`evidence/`](evidence/) (what we measured, what is still incoming) →
+  [`tests/`](tests/) (what we measured, what is still incoming) →
   [`limits`](limits.md) (what we do **not** claim, and when this is not for
   you) → [`origin`](origin.md) (how each claim was arrived at).
 

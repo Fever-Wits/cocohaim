@@ -67,7 +67,7 @@ not a substitute for the judgment behind each line.
 
 15. **Verify on your model; expect distributions, not guarantees.** Every
     effect here is model-dependent; a single run proves nothing either way.
-    → [limits](limits.md) · [evidence](evidence/README.md)
+    → [limits](limits.md) · [evidence](tests/README.md)
 
 ---
 

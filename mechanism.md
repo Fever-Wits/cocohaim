@@ -3,7 +3,7 @@
 This is the explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
 Where it rests on our own observations, they are named — with how they were
-made — in [`evidence/`](evidence/README.md).
+made — in [`tests/`](tests/README.md).
 
 ## Knowing what, not knowing when
 
@@ -68,7 +68,7 @@ executor. Converse, and the mirror is a thinker.
 
 *The step from these to the mirror is ours: the anchors describe imitation
 and accommodation; the register→stance move is claim 1, observed and compared
-in our own work (→ [evidence](evidence/README.md)).*
+in our own work (→ [evidence](tests/README.md)).*
 
 The mirror runs both ways. In this partnership the author learned to write
 compactly alongside the model, and the model reflected it back — a

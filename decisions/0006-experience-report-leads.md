@@ -17,7 +17,7 @@ here is the road, not the end-point.
 where "we" is the partnership (a human and a model; the authorship note on
 the [entry page](../README.md#status) says who). The mechanism and the collaboration chapters
 become sections inside it; the origin chapter dissolves into it. One worked
-example — the documented case in [evidence](../evidence/README.md) — runs
+example — the documented case in [evidence](../tests/README.md) — runs
 through the story and through every pattern. Practices stay in the reference
 floor and appear in the story where they were found.
 

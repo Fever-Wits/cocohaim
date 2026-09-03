@@ -7,7 +7,7 @@ cognitive collaboration, and the mechanism behind it.
 
 *Preview — a mechanical join of the chapters, for comparison. The chapters
 are the source of truth until the rewrite; edit them, not this file. The
-reference layers (patterns/ · evidence/ · glossary · references) stay where
+reference layers (patterns/ · tests/ · glossary · references) stay where
 they are.*
 
 ## The gap
@@ -146,7 +146,7 @@ and, from literature, Snaut's line in Lem's *Solaris*: *we don't want other
 worlds; we want mirrors* — the fear that we only ever meet ourselves
 ([#34](references.md)). This document does not adjudicate them. It works one
 level down: whatever the model is, the *work* goes better when it is met as
-a mind (claim 1 → [evidence](evidence/README.md)) — and the mirror
+a mind (claim 1 → [evidence](tests/README.md)) — and the mirror
 is not an objection here but the mechanism itself
 (→ [mechanism — The mirror](mechanism.md#the-mirror)). One objection is not
 answered: Bryson's and Turkle's, that the stance itself has a social cost.
@@ -157,7 +157,7 @@ This document takes it as a live cost, not a solved one.
 This is the explanation of *why* the method works. It is stated from
 observed behavior and from published anchors, not from the model's internals.
 Where it rests on our own observations, they are named — with how they were
-made — in [`evidence/`](evidence/README.md).
+made — in [`tests/`](tests/README.md).
 
 ### Knowing what, not knowing when
 
@@ -222,7 +222,7 @@ executor. Converse, and the mirror is a thinker.
 
 *The step from these to the mirror is ours: the anchors describe imitation
 and accommodation; the register→stance move is claim 1, observed and compared
-in our own work (→ [evidence](evidence/README.md)).*
+in our own work (→ [evidence](tests/README.md)).*
 
 The mirror runs both ways. In this partnership the author learned to write
 compactly alongside the model, and the model reflected it back — a
@@ -247,7 +247,7 @@ was needed.
 A trained model carries a strong default toward pleasing its user. That
 sentence comes from observed output — the same model, over a long working
 practice — and the whole chapter works from it
-(→ [`evidence/`](evidence/README.md)). Most advice treats the default as
+(→ [`tests/`](tests/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
@@ -349,7 +349,7 @@ you?*
 > visible from outside and unsignaled from within.
 
 One recorded case: *"if you want, launch an agent to search…"* — and a full
-brief came back, unspecified by anyone (→ [`evidence/`](evidence/README.md)).
+brief came back, unspecified by anyone (→ [`tests/`](tests/README.md)).
 
 ### Say what we do
 
@@ -470,7 +470,7 @@ not a substitute for the judgment behind each line.
 
 15. **Verify on your model; expect distributions, not guarantees.** Every
     effect here is model-dependent; a single run proves nothing either way.
-    → [limits](limits.md) · [evidence](evidence/README.md)
+    → [limits](limits.md) · [evidence](tests/README.md)
 
 ---
 
@@ -511,7 +511,7 @@ Read this before quoting any claim from the rest.
   differently also *reads* differently; the one who changed the register is
   not the one to judge the change alone. That is why the comparisons here were
   read by a reader who did not know which register produced which reply
-  (→ [evidence](evidence/README.md)).
+  (→ [evidence](tests/README.md)).
 - **What it costs you.** An invitation must be read, argued with, sometimes
   conceded to. The method spends *your* attention, not only the model's; a
   frame you give and do not act inside trains the opposite lesson
@@ -530,11 +530,11 @@ personal (→ [collaboration](collaboration.md)), a reader cannot copy these
 claims; they have to re-derive them with their own words and their own
 model. This chapter shows the path so that re-derivation is possible. It is
 one path, told as it happened — provenance; what each claim was checked
-against lives in [`evidence/`](evidence/README.md).
+against lives in [`tests/`](tests/README.md).
 
 The observations come from daily work with Claude models (the Opus and
 Sonnet families, 2025–2026; the writing sessions of this repository on Claude
-Fable 5) — the qwen case in [`evidence/`](evidence/README.md) aside; where a
+Fable 5) — the qwen case in [`tests/`](tests/README.md) aside; where a
 specific model matters for a claim, it is named at the claim. The author's
 raw account is kept in Bulgarian in a private working archive, not
 inspectable by a reader; quotations below are translations. Passages marked
@@ -583,7 +583,7 @@ was a single one — *"relax"* — and it worked in the documented stretch.
 
 **Conclusion.** The question that puts the burden on the speaker removes the
 exam; the only way left to please is to verify. → [collaboration](collaboration.md)
-· practices 2, 7 · the rubric in [`evidence/`](evidence/README.md).
+· practices 2, 7 · the rubric in [`tests/`](tests/README.md).
 
 ### How the layers accreted
 
@@ -660,6 +660,6 @@ research agents and verified before entering; every section passes a cold
 review by a fresh model that sees only the artifact, before publication; the
 author checks meaning through machine translation. One exchange along the
 way is recorded as a case — *"if you want, launch an agent to search…"*, an
-invitation, not an order — → [`evidence/`](evidence/README.md). *(From the
+invitation, not an order — → [`tests/`](tests/README.md). *(From the
 inside: the invitation left the choice unspecified; what came out was a
 brief nobody specified.)*

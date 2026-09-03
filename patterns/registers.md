@@ -46,7 +46,7 @@ then compared under control: the same plan, the same holes planted, sent
 twelve times to three sizes of one model family — six as a command, six as a
 request. Both registers found the holes at the same rate; the request
 questioned the premise, named its own blind spot and handed the decision
-back, where the command did not (the numbers → [`evidence/`](../evidence/README.md)).
+back, where the command did not (the numbers → [`tests/`](../tests/README.md)).
 
 **Cost / when not**
 

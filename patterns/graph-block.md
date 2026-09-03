@@ -50,7 +50,7 @@ naming activates; the graph tells the names how they connect.
 - **Expect stance, not glyphs.** The glyphs do not transfer into the model's
   own speech — they activate at read time; they are not vocabulary the model
   will speak back. A model that read graph blocks and answers in plain prose
-  with a changed stance is the *success* case. [→ `evidence/`]
+  with a changed stance is the *success* case. [→ `tests/`]
 - A graph without a legend degrades to decoration.
 - Do not redefine common punctuation as edges — known failure mode of
   invented notations (redefining the comma breaks everything).

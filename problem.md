@@ -123,7 +123,7 @@ and, from literature, Snaut's line in Lem's *Solaris*: *we don't want other
 worlds; we want mirrors* — the fear that we only ever meet ourselves
 ([#34](references.md)). This document does not adjudicate them. It works one
 level down: whatever the model is, the *work* goes better when it is met as
-a mind (claim 1 → [evidence](evidence/README.md)) — and the mirror
+a mind (claim 1 → [evidence](tests/README.md)) — and the mirror
 is not an objection here but the mechanism itself
 (→ [mechanism — The mirror](mechanism.md#the-mirror)). One objection is not
 answered: Bryson's and Turkle's, that the stance itself has a social cost.

@@ -1,9 +1,11 @@
-# Evidence
+# Tests
 
-What lands here: one file per claim the method makes. Each file holds what
-stands behind that claim — what was done, what came out, and what would make
-it stronger. Nothing here retells the story; [cocohaim.md](../cocohaim.md)
-tells it and points here.
+What lands here: the tests we could run and could publish — one file per
+claim that has a test behind it. Not every claim has one: some cannot be run,
+and some tests cannot be published, because they would show the author's own
+systems. Each file holds what was done, what came out, and what would make
+the claim stronger. Nothing here retells the story;
+[cocohaim.md](../cocohaim.md) tells it and points here.
 
 ## Entries
 

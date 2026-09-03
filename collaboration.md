@@ -3,7 +3,7 @@
 A trained model carries a strong default toward pleasing its user. That
 sentence comes from observed output — the same model, over a long working
 practice — and the whole chapter works from it
-(→ [`evidence/`](evidence/README.md)). Most advice treats the default as
+(→ [`tests/`](tests/README.md)). Most advice treats the default as
 a hazard and reaches for prohibitions: *do not guess,
 never assume, don't touch what wasn't asked.* Prohibitions have their place —
 a short, counted list of them (→ [hard-canons](patterns/hard-canons.md)) —
@@ -105,7 +105,7 @@ you?*
 > visible from outside and unsignaled from within.
 
 One recorded case: *"if you want, launch an agent to search…"* — and a full
-brief came back, unspecified by anyone (→ [`evidence/`](evidence/README.md)).
+brief came back, unspecified by anyone (→ [`tests/`](tests/README.md)).
 
 ## Say what we do
 

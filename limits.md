@@ -32,7 +32,7 @@ Read this before quoting any claim from the rest.
   differently also *reads* differently; the one who changed the register is
   not the one to judge the change alone. That is why the comparisons here were
   read by a reader who did not know which register produced which reply
-  (→ [evidence](evidence/README.md)).
+  (→ [evidence](tests/README.md)).
 - **What it costs you.** An invitation must be read, argued with, sometimes
   conceded to. The method spends *your* attention, not only the model's; a
   frame you give and do not act inside trains the opposite lesson
