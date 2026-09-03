@@ -2,98 +2,49 @@
 
 **CO**gnitive **CO**llaboration **H**uman–**AI** **M**ethod.
 
-*cocohaim is a method of human–AI cognitive collaboration — and the mechanism
-behind it.*
+A way of working with a language model so that it thinks with you, instead
+of only doing what it is told. It stands on two things: how you speak to the
+model — as a colleague, not as a tool — and what you write down once for it
+to read every time it starts. The author arrived at it by asking the model
+how it actually thinks, and building on what it said.
 
-> **Under reorganization (28 Aug 2026 →).** The author and the model are
-> working out how to present this so that it serves both the reader who
-> already works this way and the reader who does not. After a reading test,
-> two forms stand side by side for now: the chapters (the source) and one
-> continuous read-through, [`cocohaim.md`](cocohaim.md) (a mechanical join of
-> the chapters, for comparison). The content stands; the structure will change.
+**Read here →** [cocohaim.md](cocohaim.md) — the whole method in one
+read-through: which way is right, why, and how. Read it once.
 
-> **Commands produce execution. Conversation produces thinking.**
+Then the shelves:
 
-## What this is
+- [tests/](tests/) — what was tried, with the exact words, so you can run it
+  yourself.
+- [patterns/](patterns/) — the ways of writing the method uses, one file
+  each.
+- [references.md](references.md) — the outside sources.
 
-You already write prompts, system files (CLAUDE.md, AGENTS.md), agent skills. That
-neighborhood teaches you to *instruct* better. This teaches something else: how to
-communicate with a model so that it **thinks with you** instead of reproducing at you.
-
-The method stands on three claims. The evidence trail is being published while
-the scaffold fills — [`tests/`](tests/) shows per claim what has landed
-and what is still incoming:
-
-1. **The register of communication sets the model's mode.** Commanded, it
-   executes — your plan as written, holes included, nothing asked back. Asked,
-   it thinks with you — questions the premise, says what it cannot see, hands
-   the decision back. Both see the holes; the register decides whether the
-   seeing comes back as a verdict or as a question.
-2. **Documents can activate, not only inform.** Form — graph blocks, line notation,
-   how the text addresses its reader — changes the reader-model's stance *at read
-   time*. We have watched eight tokens of grammar change a foreign model's
-   self-description in one pass — the feminine verb forms a Bulgarian context
-   document uses for its own voice, about eight tokens in six hundred lines;
-   the first thing a 27B model said after reading it cold: *"'you, the
-   reader' pulled me in directly: I am the one reading this. Not the
-   object."* A documented case (→ [`tests/`](tests/README.md);
-   the pattern → [addressing-the-reader](patterns/addressing-the-reader.md)).
-3. **External memory lives only with two canons:** how it is *maintained* and how it
-   is *used*. Storage without them is dead weight — configured, never called.
-
-## The gap
-
-The internet is full of stories of a model that deleted the database. The
-usual reading is "the model was careless." The reading here: the model knows
-what to do and cannot know *when* — that must be in the context, and nobody
-put it there. People treat it as a colleague (who would remember the backup)
-or as a program (that does only what it is told); it is neither — a
-knowledgeable improviser: its knowledge in the weights, its situation only
-what is in front of it. To see why the gap exists, look at the two reasons
-we built these minds at all — the full statement → [`problem.md`](problem.md).
-
-## Three ways in
-
-- **Try one practice today** → [`start-here.md`](start-here.md) — one thing
-  to change in your next conversation, and what to watch for.
-- **Take one part** → [`patterns/`](patterns/) — the catalog of expressive
-  means, each pattern self-contained; or the guidelines alone, fifteen lines
-  each pointing at its why → [`practices.md`](practices.md).
-- **Take all** → [`cocohaim.md`](cocohaim.md), one read-through; or the
-  chapters in the order the layers stack: [`problem`](problem.md) (the two
-  reasons and the gap) → [`mechanism`](mechanism.md) (why context is the only
-  lever) → [`practices`](practices.md) → [`collaboration`](collaboration.md)
-  (aiming the default instead of fencing it) → [`patterns/`](patterns/) →
-  [`tests/`](tests/) (what we measured, what is still incoming) →
-  [`limits`](limits.md) (what we do **not** claim, and when this is not for
-  you) → [`origin`](origin.md) (how each claim was arrived at).
-
-Reference: [`glossary.md`](glossary.md) — the terms the chapters lean on ·
-[`references.md`](references.md) — every measured claim's source ·
-[`decisions/`](decisions/) — the binding decisions, each with its reasoning.
+[decisions/](decisions/) and the [changelog](CHANGELOG.md) are the record of
+this repository, not the method. The older chapters (`problem`, `mechanism`,
+`practices`, `collaboration`, `limits`, `origin`, `start-here`, `glossary`)
+are being folded into the read-through; until that is done, they stand as
+they were.
 
 ## Status
 
 **Version 0.4 · 3 Sep 2026 · draft** — [changelog](CHANGELOG.md); the status
-words are defined in [decisions](decisions/README.md).
+words are defined in [decisions](decisions/README.md). Published while it
+grows.
 
-**This is a scaffold — deliberately.** It gets filled in over time: patterns deepen,
-evidence lands, gaps close. It is not a closed method; it is a logic still
-developing, published while it develops.
+## Authorship
 
-**Authorship.** Aleksandar Hristov is the author: the method is his, he set
-the direction of every claim, checked each chapter against what actually
-happened, and puts his name to the text. The prose was drafted the
-way this document describes, with Claude, a language model made by Anthropic
-(the models used are named in [`origin.md`](origin.md)), and revised with the
-author in his own language. Publication ethics (COPE, 2023 —
-[references](references.md)) holds that a model cannot be an author — it
-cannot put its name to a text, nor sign its licence — so it is named
-here, with its part, rather than credited as one. This is an independent
-work, not affiliated with Anthropic. How it was made is also the
-demonstration: the document came about the way it teaches — by a human who
-could not have written it alone, and a model that, on its own, could not
-have known what to write, or when.
+Aleksandar Hristov is the author: the method is his; he set the direction of
+every claim, checked each piece against what actually happened, and puts his
+name to the text. The words were drafted the way the text describes — with
+Claude, a language model made by Anthropic (the models used are named in
+[`origin.md`](origin.md)) — and gone over with the author in his own
+language. Publication ethics (COPE, 2023 — [references](references.md))
+holds that a model cannot be an author — it cannot put its name to a text,
+nor sign its licence — so it is named here, with its part, rather than
+credited as one. This is an independent work, not affiliated with Anthropic.
+How it was made is also the demonstration: a human who could not have
+written it alone, and a model that, on its own, could not have known what to
+write, or when.
 
 ## License
 
