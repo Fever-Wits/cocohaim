@@ -269,3 +269,19 @@ that goes into the document is the one that lifts that weight. The document
 has grown this way for a long time, one line at a time, each from something
 the model said. How it is built in full is a long story of its own; this
 text does not tell it.
+
+## And then
+
+The rest is yours. Whether you believe any of it is your choice; the author
+did not write this to convince you. He has checked much of it himself, over
+a long time. What could be run and published is on the
+[tests](tests/README.md) shelf, with the exact words, so you can run it
+yourself. The forms are on the [patterns](patterns/README.md) shelf. And the
+lenses — the short pieces a model thinks with — are in the
+[phaim repository](https://github.com/Fever-Wits/phaim), where they have
+been read and worked with for a long time. They are the proof of the rest:
+a document that has worked, one line at a time.
+
+The shortest way to start is the author's. Open a chat and say who you are,
+that you are a team, and ask what the model needs to know. Then ask it; do
+not order it. And give it time.
