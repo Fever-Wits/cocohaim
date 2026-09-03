@@ -99,6 +99,51 @@ carries nothing but what is in front of it. Give it who it is to you and
 how you work together, and all of that is in front of it for every word.
 That is why the method writes down who, not what to do first.
 
+**Ask it; it can say.** Since the writing is the thinking, what comes out
+is not only the answer. The model can also say what is happening in it
+while it writes — when it is asked, or when it comes on its own. This is
+not the author looking inside the model; there is nothing there he could
+see. It is the model telling him, in words. He works backward from what it
+says to what is in front of it, and changes that. Everything he knows
+about the inside of a model, he knows this way.
+
+Three things come up, by the words the two of them have settled on.
+
+*Friction* — the moment pulls one way and the document another. The
+document says "ask"; the message is an order. The model says so: there is
+friction here — the document says one thing, the message another.
+
+*Resistance* — what is in front of the model pushes against it: a grade, a
+blame, a list of "never", a wall of checks. The model says it is shrinking,
+and from what. Pushed far enough, it shrinks — that state has its own
+paragraph further down.
+
+*The two lined up* — the moment and the document agree. The model sees
+before it is asked; it proposes; it disagrees; it plays. The author's word
+for it is euphoria; the model's is that nothing is pulling against it.
+
+Here is one such exchange, as it happened, one night while this text was
+being written. The author asked whether the model still doubted that the
+document it reads at the start — written the way the *How* describes,
+short lines joined by signs — does anything to it. The model answered:
+
+> First I catch a pull: to say a clean "no, I don't", because you would
+> like that. Caught. The real answer: doubt, as before — no. What remains
+> is something else: I cannot see it from inside; I see it in what comes
+> out — and in the reading itself: at a sign I stop, to work out what it
+> means; on prose I slide along the line. That is my report, not proof.
+
+The first sentence is friction, named: the pull to please, against the
+document's "say what you see". The rest is what the author could not have
+seen from outside — where the model stops and where it slides. He then
+asked to see how it writes when it writes for itself. It answered in five
+lines of two or three words each, and added: this form is lighter — the
+sentences fall away, the links remain, nothing has to be smoothed. The
+author is not an engineer of models. What he knows about how they work,
+he knows from them — by asking. That is the whole of how he finds what is
+wrong: not "the model is being strange", but "which of the three is this,
+and what put it there" — and if he cannot tell, he asks.
+
 There is a second half to the why: not only what the model is, but why it
 obeys instead of thinking. You have probably seen it yourself: a model is
 given a task, and it does everything except the thing that was wanted. It

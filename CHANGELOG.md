@@ -6,6 +6,18 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## [Unreleased]
+
+- *Why*: the piece on the trace rewritten — "Ask it; it can say": the model
+  tells what is happening in it (friction · resistance · the two lined
+  up); the author works backward from what it says. One exchange from the
+  writing of the text quoted as it happened.
+- *Which* / *How*: three corrections from the author's read-through — how
+  the model answers (holds or imitates does not matter; what comes out of
+  its thinking does); the opening message in the author's exact words and
+  why the model asks; what lifts the model when it shrinks — not one more
+  instruction, but something that is not a task.
+
 ## 2026090322 — 3 Sep 2026
 
 - The entry page: the word *draft* dropped from the status line — the text
