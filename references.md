@@ -149,3 +149,15 @@ original.
     Fourteen named roles; the ones decision 0008 leans on:
     Conceptualization · Validation · Writing – original draft · Writing –
     review & editing. https://credit.niso.org/contributor-roles-defined/
+37. **Zhou, Schellaert, Martínez-Plumed, Moros-Daval, Ferri &
+    Hernández-Orallo (2024)** — "Larger and more instructable language models
+    become less reliable," *Nature*, 25 Sept 2024. Shaping models up "has
+    usually penalized answers that hedge or look uncertain"; developers are
+    pushed toward models that are "never evasive" — that say something rather
+    than admit a gap. https://www.nature.com/articles/s41586-024-07930-y ·
+    open access: https://pmc.ncbi.nlm.nih.gov/articles/PMC11446866/
+38. **Kalai, Nachum, Vempala & Zhang (2025)** — "Why Language Models
+    Hallucinate," OpenAI, arXiv:2509.04664. Under the usual scoring, "I don't
+    know" earns the same as a wrong answer — zero — so training and evaluation
+    reward a confident guess over an admitted gap.
+    https://arxiv.org/abs/2509.04664
