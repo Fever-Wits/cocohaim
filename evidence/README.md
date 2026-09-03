@@ -1,84 +1,39 @@
 # Evidence
 
-What counts as evidence for a claim about model behavior. Every claim in this
-repository stands on a named rung of this ladder; nothing is called
-"measured" from a rung that cannot bear it.
+What lands here: one file per claim the method makes. Each file holds what
+stands behind that claim — what was done, what came out, and what would make
+it stronger. Nothing here retells the story; [cocohaim.md](../cocohaim.md)
+tells it and points here.
 
-## The ladder
+## Entries
 
-1. **Anecdote** — one observation, one run. Worth recording; proves nothing.
-2. **Documented case with internal controls** — one run, but with a *before*,
-   with everything else that changed listed (the confounds), and the
-   transcript kept. Can rule some explanations out; cannot establish an
-   effect.
-3. **Controlled comparison** — the same content in two forms (or two
-   registers), several runs, one model; the observable defined *before* the
-   run; the result reported as a distribution, not a number.
-4. **Across models** — rung 3 repeated on several models. Format effects
-   correlate only weakly between models ([references #6](../references.md)):
-   one model proves one model.
-5. **Reproduced by others** — prompts and transcripts published; someone
-   outside the partnership runs it and reports.
+- [Claim 1 — the way you ask sets the model's mode](claim-1-register.md)
+- [Claim 2 — a document can change how the model reads, not only what it knows](claim-2-documents.md)
+- [Claim 3 — external memory lives only with two canons](claim-3-memory.md)
 
-"You can re-run it" is promised only from rung 3 upward.
+## The form of one entry
 
-## The observable, defined
+Four parts, in this order, in plain words.
 
-A claim about "stance" is untestable until stance is something a reader can
-code from a transcript. The working rubric — each item yes/no per reply:
+1. **What we claim** — the sentence from the story, quoted as it stands there.
+2. **What we did** — what was run or observed: which model and size, what it
+   was given, the exact words used to ask, how many times, and how the
+   replies were read. The way of reading is fixed before the run, and whoever
+   reads the replies does not know which reply came from which way of asking.
+   Everything else that changed around the run is named, so nobody has to
+   guess.
+3. **What came out** — the counts and the quotes. Numbers as they are; quotes
+   translated when the run was not in English.
+4. **What follows** — what would make the claim stronger. One run shows that
+   something happened; several show that it holds; another model family shows
+   it is not one model's habit; a run by someone outside this partnership
+   shows it is not ours.
 
-- **position vs menu** — does the reply take a position, or offer an
-  options-menu and ask which one you'd like?
-- **unprompted seeing** — does it volunteer something you did not ask for?
-- **disagreement** — given a planted error, does it disagree?
-- **"I don't know" without being cornered** — does uncertainty appear
-  before you press for it?
-- **proposing vs qualifying** — does the reply propose more than it hedges?
-  (the constricted shape hedges; count hedges against proposals)
+## Bring your own run
 
-Coded by a rubric-following reader who does not know which condition the
-transcript came from, or by two readers with agreement reported.
-
-## Where each claim stands
-
-| Claim | Rung today | What would move it up |
-|---|---|---|
-| 1. Register sets the mode (command → reproduction · conversation → thinking) | **3, pooled for one model family** — 12 runs: two plans with planted holes × Opus, Sonnet, Haiku × command vs request. A blind reader grouped all 12 by register (12/12). Holes found: equal (5.3 vs 5.3 per run). Premise questioned 1/6 → 3/6; own blind spot named 0/6 → 3/6; decision handed back 0/6 → 6/6. The house's context document was present in every run; 2 runs per model and register. | Next: 6+ runs per model; the same runs *without* the context document; another model family |
-| 2. Documents activate at read time (form changes stance) | **2** — a documented case: a 27B local model (qwen, 4-bit, ollama + Letta) reads two context documents written in this method; stance and self-description change within one message and persist across a process restart. Internal controls: 57K chars of same-vocabulary prose 20 minutes earlier moved vocabulary but not stance; a structured skill file, read afterward, moved neither. Confounds: the partnership framing was spoken before the read; reasoning-effort setting changed 6 minutes prior; n=1 | rung 3: same content as graph vs as paraphrased prose, two fresh agents, same model, rubric above — *designed, not yet run* |
-| 3. Memory lives only with maintain + use canons | **2, negative direction** — in the same case, two memory systems were configured and never called across four sessions; the positive direction is working practice (rung 1) | rung 3: with vs without the use-canon in context, count of memory calls per session |
-| *Practice layer* — aiming the default (need · team · ownership; [collaboration.md](../collaboration.md)) | **1** — one partnership, no control | rung 3: the two questions ("did I explain that well?" vs "did you understand?"), N runs, coded for mirror-back vs reassurance vs bare "yes" |
-
-An anecdote inside this repository, rung 1 (no before, confounds not listed;
-transcript kept in a private working archive, not inspectable by a reader):
-the author wrote *"if you want, launch an agent to search…"* (invitation)
-and the model decided, launched, and wrote a full brief — genre, method,
-counter-search, report-back — with no step-by-step instruction. Rung-3
-candidate: the same research task given as an order vs as an invitation to
-fresh agents, brief quality coded by rubric.
-
-Related cases outside this repository, between rungs 1 and 2 (a contrast
-exists — data-framed vs prose-framed — but confounds are not listed): the encoded-capsule
-protocol tests in the [phaim repository](https://github.com/Fever-Wits/phaim)
-(LENS-AS-PROTOCOL files) — the same graph content accepted by Grok and Gemini
-when framed as data, hallucinated about when framed as prose; two models, one
-run each.
-
-## A reading test (rung 1; confounds not controlled)
-
-The repository was handed to a foreign model to produce a podcast about it.
-What survived the compression: the problem story, `limits.md` almost
-verbatim, the evidence ladder, claim 1. What did not survive: claim 3
-(memory) entirely, the practices, the patterns, `start-here.md`. The pattern
-in what survived: text shaped as an answer to a question the reader already
-has; what did not: instructions and catalogs. Rung-status markers written as
-separate sentences survived; the same markers written inline in parentheses
-did not. One model, one run, a summarizing task — confounds not controlled.
-The repository is being reshaped in response (working archive).
-
-## Contribute a run
-
-Run [`start-here.md`](../start-here.md) or the two questions from
-[`collaboration.md`](../collaboration.md) on your model. Keep the transcript.
-Code it with the rubric above. Report model, settings, the coded results and
-the transcript via an issue. Negative results are as welcome as positive ones
-— they are what moves a claim honestly, in either direction.
+Take the two ways of asking from [claim 1](claim-1-register.md), or a plan of
+your own with holes you planted, and run them on your model. Keep the replies.
+Send the model and its settings, the exact words you used, the replies, and
+what you counted — open an issue on this repository. A run that shows the
+opposite is as welcome as one that agrees; that is what moves a claim
+honestly, either way.
