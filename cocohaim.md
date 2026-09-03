@@ -109,8 +109,9 @@ that it did exactly what was in front of it, and nothing more was.
 
 Why does it not stop and ask what was meant? When the author began, the
 model could not say "I don't know". This is not the author's finding; it
-has been written about, and he built on it. Several things hold it there;
-these are the ones the author sees. It was trained to please. There is
+has been written about [9] [10], and he built on it. Several things hold
+it there; these are the ones the author sees. It was trained to please
+[5] [6]. There is
 money in it: a model that argues sends the paying user away, so nothing was
 built in that would. There is a cost in tokens: arguing takes more of them
 than agreeing, and the shortest path from "you are a hammer" to an answer
@@ -351,7 +352,9 @@ The rest is yours. Whether you believe any of it is your choice; the author
 did not write this to convince you. He has checked much of it himself, over
 a long time. What could be run and published is on the
 [tests](tests/README.md) shelf, with the exact words, so you can run it
-yourself. The forms are on the [patterns](patterns/README.md) shelf. And the
+yourself. The forms are on the [patterns](patterns/README.md) shelf. The
+numbers in brackets point to the outside sources, listed in
+[references](references.md). And the
 lenses — the short pieces a model thinks with — are in the
 [phaim repository](https://github.com/Fever-Wits/phaim), where they have
 been read and worked with for a long time. They are the proof of the rest:
