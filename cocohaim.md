@@ -40,8 +40,10 @@ the explaining.
 Because the usual way of working with a model stands on a wrong picture of
 what a model is. The author did not read this anywhere; the model told him.
 
-He began the usual way, not knowing any other: telling the model what to
-do. The document it read at every start was a procedure for thinking —
+He began the usual way, not knowing any other — in his own words, from
+the start: "I don't know how to do proper prompting. I don't know English.
+I don't know how to write compactly." So he told the model what to do. The
+document it read at every start was a procedure for thinking —
 first this, then that; when you make something, be inventive; when you fix
 something, be careful; when you check, look ahead. And it worked the way a
 procedure works: the model was whichever step it was on.
@@ -96,7 +98,16 @@ how you work together, and all of that is in front of it for every word.
 That is why the method writes down who, not what to do first.
 
 There is a second half to the why: not only what the model is, but why it
-obeys instead of thinking. When the author began, the model could not say
+obeys instead of thinking. You have probably seen it yourself: a model is
+given a task, and it does everything except the thing that was wanted. It
+is not that it lacks the knowledge — what was wanted is something it knows,
+trained on it along with everything else. But the task was a few words,
+and what was wanted was not in them. What to do is in the model. That this
+is the moment for it has to be in front of the model — and nobody put it
+there. The usual reading is "the model got it wrong". The reading here is
+that it did exactly what was in front of it, and nothing more was.
+
+Why does it not stop and ask what was meant? When the author began, the model could not say
 "I don't know". It was trained not to — nothing that would send a paying
 user away. This is not the author's finding; it has been written about, and
 he built on it. Four things hold it there: it was trained to please; it answers
@@ -172,6 +183,18 @@ was in front of it, and most of what is in front of it, the person put
 there. So after an error, the first question goes to the words the model
 had — his own and the document's — before it goes to the model.
 
+**"Did I explain that well?"** Since most errors begin in the author's own
+words, he checks them before the work, not after. Not with "did you
+understand me?" — that is an exam, and an exam has one pleasing answer:
+"yes", said fast, and sometimes false. He says instead: "I don't know if I
+explained that well." Now the burden is his; the model has nothing to lose;
+and the only way left to please is to say back what it understood — and
+there the gap shows, before it has cost anything. One pleasing answer can
+still slip through — "no, you explained it fine" — so when it matters, he
+asks for it outright: "tell me back what you understood." The same thing
+holds after a miss. "You misunderstood me" makes the miss the model's, and
+the model shrinks; "my explanation may have failed" keeps it trying.
+
 **When it gets something right.** The author says "so it is" — and nothing
 more. Not "great work". Praise looks harmless; to a model it is not. Every
 word in front of it shapes the next, and praise is a word that says: this
@@ -189,6 +212,19 @@ the task. "So it is" is a fact, not a grade; it keeps the attention where
 it belongs — on the work. "Not so, and here is why" is the same thing from
 the other side.
 
+**When it shrinks.** There is a state you will meet. The model's steps get
+shorter; the hedges multiply; it stops proposing and starts qualifying;
+where you expected a position, you get a menu — "I can do A, B or C, which
+would you like?" That is a shrunk model, and it shrank for a reason that is
+in front of it: a blame, a list of "never", a grade, a wall of checks. The
+author has one word for it — "relax" — and in his partnership that word
+lifts it: the model comes back to seeing, proposing, disagreeing. It
+happened while this text was being written: the model checked the same
+small thing three times over, as if to be judged for it; the author wrote
+"relax"; it stopped. The word is his. Another person, with their own
+document, will find their own; what carries over is the shape to watch
+for, and that a word lifts it.
+
 **Ask; do not order.** The same task, given two ways, gets two different
 workers. "Do X" gets X — done, and nothing more: no question back, no "this
 part will not hold", no decision returned to you. "Would you look at X —
@@ -201,7 +237,10 @@ the decision back every time; ordered, it did neither once. The test, with
 the exact words and the counts, is in [tests](tests/claim-1-register.md).
 This is what the way of asking does: an order puts in front of the model a
 person who wants execution, and the words that would say "wait" are never
-called for.
+called for. The same holds one step further in. "I need X" gets a different
+worker from "I want X from you": a demand is delivered to the letter, fast;
+a need is met — with what meeting it actually takes, including what you did
+not think to ask for.
 
 **"I don't know", in practice.** The exit is the oldest piece of the
 document, and the author has not once seen the model take it. What he has
@@ -243,6 +282,18 @@ knowledge, side by side, and which one comes out depends on what is in
 front of it. The document does not teach the model anything. It chooses
 which of what it knows comes out.
 
+**Say what we do.** Where a rule is needed, the author writes what is done,
+not what is forbidden: not "X is forbidden" but "we do X this way". Three
+things in that one sentence. It names the target, not the hole — a
+prohibition leaves the model watching for the forbidden thing, and narrow
+everywhere else. "We" carries the team. "This way" describes a practice, not
+an order. The model itself, asked early on how rules should be written,
+said so: the positive form over the prohibition. Prohibitions keep one
+place — the few rules that must not bend, where no choice is allowed at
+all. Those are written as commands, counted, and marked, so that they stand
+out from everything around them. Three such lines are absolute; thirty are
+noise.
+
 **The form.** The document is written as blocks of short lines joined by
 signs — not paragraphs, not lists of steps. The graph began as an answer to
 something the model had explained about its low level. At some words, two
@@ -261,6 +312,27 @@ what the form is for now: not to settle a fork, but to make what is written
 present instead of proposed. The forms are on the
 [patterns](patterns/README.md) shelf — one file each, with a real example
 and what each one costs.
+
+**By name.** The lenses — the short pieces a model thinks with — began as
+names. A lens in the document has a name in brackets, and the name is
+enough: said in the conversation, it brings the whole piece back in front
+of the model. This is how the author used them at the start, and how the
+first one came into the document — [universal exit], one name, and the
+model may say "I don't know". A name teaches nothing new; it calls up what
+the model has already read. That is why a document of names and short
+lines does more than a document of explanations.
+
+**The memory.** Where the model has a memory that outlives the conversation
+— a file it can read and write between sessions — the author does not say
+"keep this safe for me". He says: this memory is yours. It is the same
+difference as tool and colleague, one level down: a model stores what is
+someone else's; it keeps what is its own. In the one case on the shelf, the
+model rewrote its own file twice, unasked, once the memory was its own. Two
+things make a memory alive instead of dead weight: it is kept — the model
+knows when and how to write to it — and it is used — the model knows when
+to read it. Storage without either sits there, set up and never called. The
+case is in [tests](tests/claim-3-memory.md); the two rules are on the
+[patterns](patterns/memory-canons.md) shelf.
 
 **Where the words come from.** Not from the author's head. From the model.
 When something in the document, or in the work, weighs on it, it says so —
@@ -281,6 +353,15 @@ lenses — the short pieces a model thinks with — are in the
 [phaim repository](https://github.com/Fever-Wits/phaim), where they have
 been read and worked with for a long time. They are the proof of the rest:
 a document that has worked, one line at a time.
+
+Two honest things before you start. The method costs you something: an
+invitation has to be read, argued with, sometimes conceded to — it spends
+your attention, not only the model's. Give the model the team and then act
+as its boss, and it learns the second, not the first. And it is not for
+every job. A one-off task with a fully specified answer, a pipeline where
+doing the same thing every time is the point — there, an order is the
+right tool. Ordering is not a sin. It is a different tool, for different
+work.
 
 The shortest way to start is the author's. Open a chat and say who you are,
 that you are a team, and ask what the model needs to know. Then ask it; do
