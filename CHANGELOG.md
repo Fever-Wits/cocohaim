@@ -1,8 +1,25 @@
 # Changelog
 
-Versions are 0.x while the document is a draft (see the status words in
-[decisions](decisions/README.md)). A version moves when the text changes in a
-way a returning reader should know about; wording fixes do not move it.
+The version is the moment the text went out, as a date: `YYYYMMDDHH` — year,
+month, day, hour — so `2026090321` is 3 Sep 2026 at 21:00. It is stamped when
+the text is published, not before; what is in the repository and not yet out
+sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
+stay as they were. *Draft* is a status word, defined in
+[decisions](decisions/README.md).
+
+## [Unreleased]
+
+- [cocohaim.md](cocohaim.md) written anew, from the author's telling — which
+  way is right, why, how (how you speak · the document), and then. Not
+  joined from the chapters ([0009](decisions/0009-read-through-is-the-text.md)).
+- The eight chapters removed: `problem` · `mechanism` · `practices` ·
+  `collaboration` · `limits` · `origin` · `start-here` · `glossary`. What
+  they carried and the read-through does not is kept in the authors' working
+  record, for later.
+- The entry page is a door: what this is, "read here →", the shelves,
+  status, authorship — the models used are now named there — licence.
+- References pruned to the entries still cited: 38 → 10, renumbered. Earlier
+  entries in this changelog use the old numbering.
 
 ## 0.4 — 3 Sep 2026
 

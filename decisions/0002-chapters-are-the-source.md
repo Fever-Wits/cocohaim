@@ -1,7 +1,8 @@
 # 0002 — The chapters are the source of truth until the rewrite
 
-**Status:** accepted (28 Aug 2026) — expected to be superseded when the
-rewrite in [0006](0006-experience-report-leads.md) lands.
+**Status:** superseded (3 Sep 2026) by
+[0009](0009-read-through-is-the-text.md) — the rewrite landed; the chapters
+are gone.
 
 **Context:** a reader without the authors' context called the document "too
 atomic": nine files, every click an interruption. A mechanical join of the

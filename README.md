@@ -24,9 +24,9 @@ this repository, not the method.
 
 ## Status
 
-**Version 0.4 · 3 Sep 2026 · draft** — [changelog](CHANGELOG.md); the status
-words are defined in [decisions](decisions/README.md). Published while it
-grows.
+**Version `YYYYMMDDHH` · draft** — [changelog](CHANGELOG.md); the version is
+the date and hour the text went out, and the status words are defined in
+[decisions](decisions/README.md). Published while it grows.
 
 ## Authorship
 
