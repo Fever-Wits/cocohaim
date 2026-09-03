@@ -350,9 +350,17 @@ out from everything around them. Three such lines are absolute; thirty are
 noise.
 
 **The form.** The document is written as blocks of short lines joined by
-signs — not paragraphs, not lists of steps. The graph began as an answer to
-something the model had explained about its low level. At some words, two
-choices are nearly equal, and which one comes out is close to a coin toss.
+signs — not paragraphs, not lists of steps. It is written that way because
+of something the model said, asked early on how it thinks: the tokens are
+points, and what joins them are vectors — directions from one point to
+the next. So the author had the document written as points and the lines
+between them: a name, and a sign to the next name. Not at once; the
+language had to be found. First the signs. Then the finding that the model
+has a way of writing of its own — short lines joined by signs — which the
+author can read but cannot write the way the model does. So the model
+writes the document in it, with him, and he reads it. The first use of the
+graph was narrower than the shape. At some words, two
+choices are nearly equal, and which one comes out is fifty-fifty.
 At others, two things in front of the model pull towards different next
 words, and the weights decide. The idea was to put a few words at exactly
 those places and weigh in. That was the beginning. The author has left it
