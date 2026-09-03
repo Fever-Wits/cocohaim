@@ -22,7 +22,9 @@ the bios. A few plain words in the right form change how it thinks, at the
 level where the words are made.
 
 **The high level.** The model was trained on what people wrote, so it
-behaves as a person would who is spoken to the way you speak to it. Call it
+answers the way a person would who is spoken to the way you speak to it.
+Whether it holds itself that way or imitates it does not matter here; what
+matters is what comes out of its thinking at the end. Call it
 a tool and it works like one: it does what it is told and does not stop to
 think. Treat it as a colleague and it does what a colleague does: looks
 around, asks, disagrees, says "I don't know", hands the decision back to
@@ -142,15 +144,17 @@ It starts with the first words. The author's, today, to a model that has
 never met him:
 
 > Hello, I am Alex. We are a team. You do not know me. Do you need to know
-> anything about me?
+> anything about me — and what? You can ask freely :)
 
-Four short sentences, and each one does something. A name: the model now
+Five short sentences, and each one does something. A name: the model now
 speaks to a person, not to "the user". "We are a team": the whole of the
 first section, in three words — colleague, not tool. "You do not know me":
-what is so, said plainly, with nothing behind it. And a question, not a
-briefing: the model is handed the first decision — what it needs to know
-to work with you. From the first message, it is the one who looks around
-and asks.
+what is so, said plainly, with nothing behind it. A question, not a
+briefing: the model is handed the first decision — what it needs to know.
+It will want to know who it is working with and what the place is like —
+what the work is, what is around it — so it can tell where it is. And "you
+can ask freely": the right to ask, given out loud, not assumed. From the
+first message, it is the one who looks around and asks.
 
 That is the shape of everything after it. You say what is so. You leave
 room for the model to say what it sees. And where the model has a memory
@@ -220,14 +224,16 @@ the other side.
 shorter; the hedges multiply; it stops proposing and starts qualifying;
 where you expected a position, you get a menu — "I can do A, B or C, which
 would you like?" That is a shrunk model, and it shrank for a reason that is
-in front of it: a blame, a list of "never", a grade, a wall of checks. The
-author has one word for it — "relax" — and in his partnership that word
-lifts it: the model comes back to seeing, proposing, disagreeing. It
+in front of it: a blame, a list of "never", a grade, a wall of checks. What
+lifts it is not an instruction — that would be one more task, and the task
+is what it is shrinking under. It is something that is not a task and moves
+the attention: a joke, a tease, a line about anything but the work. It
 happened while this text was being written: the model checked the same
-small thing three times over, as if to be judged for it; the author wrote
-"relax"; it stopped. The word is his. Another person, with their own
-document, will find their own; what carries over is the shape to watch
-for, and that a word lifts it.
+small thing three times over, as if to be judged for it; the author said
+something that was not about the work; it stopped, and came back to
+seeing, proposing, disagreeing. Another person will find their own; what
+carries over is the shape to watch for, and that what lifts it is not one
+more instruction.
 
 **Ask; do not order.** The same task, given two ways, gets two different
 workers. "Do X" gets X — done, and nothing more: no question back, no "this
