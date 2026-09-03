@@ -1,6 +1,6 @@
 # hard-canons
 
-**Fires when** — a place where thinking must NOT happen: any fork here is a
+**When to reach for it** — a place where thinking must NOT happen: any fork here is a
 failure, not a choice. Irreversible actions · ownership boundaries · safety
 rules · non-negotiable working conventions (the language a partner reads,
 the one live place knowledge is born).
@@ -23,12 +23,12 @@ here: these lines want obedience, not reflection.
 of the working project brief this method grew in, carried unchanged for months
 while everything around it stayed conversational.
 
-**Why** — sparse firing: a rule commands attention *because* it is rare. In a
+**Why it works** — sparse firing: a rule commands attention *because* it is rare. In a
 document that converses, three commands are absolute — the contrast carries
 them. In a document that commands throughout, they drown in their own
 register. The invitation-document is what makes its hard canons hard.
 
-**Cost / when not**
+**Cost, and when not**
 
 - **Every added hard rule devalues the others.** The budget is real; when a
   new "always/never" wants in, first ask if it is load-bearing at the level

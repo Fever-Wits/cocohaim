@@ -1,6 +1,6 @@
 # legend
 
-**Fires when** — the moment a document family adopts glyph edges; at latest,
+**When to reach for it** — the moment a document family adopts glyph edges; at latest,
 before the family's *second* document. Line notation presumes a trained
 reader — the legend is what trains them.
 
@@ -35,12 +35,12 @@ usage, that line proved literal: two of its glyphs never fire in the defining
 document itself and wake up only in a sibling file that carries no legend at
 all. The first document teaches; the family inherits.
 
-**Why** — measured on working documents: a bare glyph is read as an "operation
+**Why it works** — measured on working documents: a bare glyph is read as an "operation
 marker" — decoration — while the same glyph after one line of definition is
 read as its meaning. Definition is cheap and pays everywhere the family
 reaches; without it, every graph and every row degrades to typography.
 
-**Cost / when not**
+**Cost, and when not**
 
 - **A legend is a contract: one dialect per family.** The same glyph carrying
   different meanings in sibling documents is a measured failure mode — before

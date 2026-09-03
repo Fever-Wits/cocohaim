@@ -1,6 +1,6 @@
 # graph-block
 
-**Fires when** — a principle or a choice has *structure* — branches, tensions,
+**When to reach for it** — a principle or a choice has *structure* — branches, tensions,
 guards — that prose would flatten into a paragraph the reader skims.
 
 **Form** — this is itself the anatomy of one:
@@ -40,12 +40,12 @@ grammar carries more than the translation can — see Cost):
         ⊸ no provider failure. no apology.
 ```
 
-**Why** — at read time the model parses *relations*, not sentence flow: the
+**Why it works** — at read time the model parses *relations*, not sentence flow: the
 structure of the thought arrives as structure, not as a description of
 structure. Node names are vectors into what the model already carries —
 naming activates; the graph tells the names how they connect.
 
-**Cost / when not**
+**Cost, and when not**
 
 - **Expect stance, not glyphs.** The glyphs do not transfer into the model's
   own speech — they activate at read time; they are not vocabulary the model

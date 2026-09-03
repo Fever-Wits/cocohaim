@@ -1,6 +1,6 @@
 # registers — invitation vs command
 
-**Fires when** — you are writing anything the model will read — a context-file
+**When to reach for it** — you are writing anything the model will read — a context-file
 block, a brief, a message — and you must choose what you want back:
 
 ```
@@ -38,7 +38,7 @@ And the mirror rule, from the same house, addressed to the model as *writer*:
 > When you write a brief, a rule, a block — do not command where you want
 > thinking: a command does not wound — it reformats.
 
-**Why** — the register sets the mode. A command collapses the reader-model
+**Why it works** — the register sets the mode. A command collapses the reader-model
 into the shape of an executor: it reproduces, competently, including your
 mistakes. An invitation holds it in the shape of a thinker: it sees, it
 volunteers, it disagrees. Observed repeatedly in one working partnership,
@@ -48,7 +48,7 @@ request. Both registers found the holes at the same rate; the request
 questioned the premise, named its own blind spot and handed the decision
 back, where the command did not (the numbers → [`tests/`](../tests/README.md)).
 
-**Cost / when not**
+**Cost, and when not**
 
 - **Commands are correct where no fork may exist** — safety rules, ownership
   boundaries, irreversible actions. The invitation-document is what makes its

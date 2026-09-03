@@ -1,6 +1,6 @@
 # memory-canons — maintain · use
 
-**Fires when** — you give a model external memory (files, a database, a memory
+**When to reach for it** — you give a model external memory (files, a database, a memory
 tool, RAG) and nothing changes: the store fills, or does not, and the model's
 behavior stays the same.
 
@@ -36,13 +36,13 @@ the next session reads → it activates* — and after reading that loop, the
 same model rewrote its own persistent memory twice without being asked
 (its own persona file; verified in its version history).
 
-**Why** — memory vendors ship stores; behavior lives in canons. Without the
+**Why it works** — memory vendors ship stores; behavior lives in canons. Without the
 maintain-canon the store rots (duplicates, contradictions, stale records —
 and trust in it dies first). Without the use-canon the store is a monument:
 configured, never consulted. The canons are documents the model reads — so
 they are written in the activating forms of this method, not as policy prose.
 
-**Cost / when not**
+**Cost, and when not**
 
 - The canons live in always-loaded space → they compete with everything else
   there (→ always-loaded-diet). Keep the canon short; keep the mechanics in

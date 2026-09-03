@@ -1,6 +1,6 @@
 # always-loaded-diet
 
-**Fires when** — the context file grows. Concretely: every time a line is about
+**When to reach for it** — the context file grows. Concretely: every time a line is about
 to enter it "just in case".
 
 **Form** — four rules, each with teeth:
@@ -29,13 +29,13 @@ And from the working base this method grew in: an always-loaded core of ~600
 lines has carried months of daily work — density by *form* (graphs, rows,
 legend), not by volume.
 
-**Why** — attention is a budget: every always-loaded token competes with every
+**Why it works** — attention is a budget: every always-loaded token competes with every
 other for the model's recall at the moment it matters. The whole expressive
 layer of this method — graph blocks, line notation, the legend — exists to
 spend fewer tokens per unit of activation. The diet is not an accessory to
 the language; it is the pressure that shaped it.
 
-**Cost / when not**
+**Cost, and when not**
 
 - The diet is not minimalism for its own sake — a load-bearing line stays even
   if it is long; the removal test protects it.

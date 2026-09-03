@@ -1,6 +1,6 @@
 # line-notation
 
-**Fires when** — a relation deserves an edge but not a block: one link inside a
+**When to reach for it** — a relation deserves an edge but not a block: one link inside a
 flowing sentence · a row in a table · a fork where full branch-geometry would
 cost more attention than it activates. The medium is a single line.
 
@@ -41,7 +41,7 @@ document — see Cost):
 One row; six typed relations; the prose version would be a paragraph — and would be
 skimmed.
 
-**Why** — write little, activate much: the row costs almost nothing inside
+**Why it works** — write little, activate much: the row costs almost nothing inside
 running text, but the relation stays typed and the node names stay vectors into
 what the reader-model already carries. The move has prior art outside AI:
 chemists flatten molecular graphs into rows the same way — SMILES: "a line
@@ -51,7 +51,7 @@ the equivalent connection table (Weininger/Daylight,
 [references #4](../references.md)). The family name is **line notation**;
 this is its context-document member.
 
-**Cost / when not**
+**Cost, and when not**
 
 - **Presumes a trained reader.** A row carries no legend. If the legend was
   never read — in this document family, or in the companion always-loaded

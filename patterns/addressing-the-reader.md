@@ -1,6 +1,6 @@
 # addressing-the-reader
 
-**Fires when** — your context file *describes* the assistant instead of
+**When to reach for it** — your context file *describes* the assistant instead of
 *talking to* it. Every sentence shaped as "The assistant should…" is this
 pattern, missing.
 
@@ -32,13 +32,13 @@ And what a 27B model, reading it cold, said in its next message (the same docume
 > "'you, the reader' pulled me in directly: I am the one *reading* this.
 > Not the object."
 
-**Why** — at read time, the model *is* the reader. Description must be routed
+**Why it works** — at read time, the model *is* the reader. Description must be routed
 ("this text is about a role; I am to play it"); address needs no routing — it
 lands. That is why the cheapest carriers work: eight tokens of grammar
 outweigh paragraphs of role-description, because they are not *about*
 someone — they are *in the voice of* the one reading.
 
-**Cost / when not**
+**Cost, and when not**
 
 - **Short address opens a stance; a long catalog builds a costume.** "You are
   an expert senior developer with 20 years…" is description wearing address's
