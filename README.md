@@ -24,15 +24,15 @@ this repository, not the method.
 
 ## Status
 
-**Version 2026090321 · draft** — [changelog](CHANGELOG.md); the version is
-the date and hour the text went out, and the status words are defined in
-[decisions](decisions/README.md). Published while it grows.
+**Version 2026090321** — [changelog](CHANGELOG.md); the version is the date
+and hour the text went out. Published while it grows.
 
 ## Authorship
 
-Aleksandar Hristov is the author: the method is his; he set the direction of
-every claim, checked each piece against what actually happened, and puts his
-name to the text. The words were drafted the way the text describes — with
+Aleksandar Hristov is the author. What the text describes is not a study he
+ran; it is how he works with the model, day to day, written down. The method
+is his: what goes in is what he does, checked against what actually happens
+in that work; the name on the text is his. The words were drafted the way the text describes — with
 Claude, a language model made by Anthropic: the Opus and Sonnet families
 through 2025–2026, and Claude Fable 5 in the sessions where this text was
 written — and gone over with the author in his own language. Publication ethics (COPE, 2023 — [references](references.md))

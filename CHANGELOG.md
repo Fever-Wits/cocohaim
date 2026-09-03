@@ -4,8 +4,14 @@ The version is the moment the text went out, as a date: `YYYYMMDDHH` — year,
 month, day, hour — so `2026090321` is 3 Sep 2026 at 21:00. It is stamped when
 the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
-stay as they were. *Draft* is a status word, defined in
-[decisions](decisions/README.md).
+stay as they were.
+
+## [Unreleased]
+
+- The entry page: the word *draft* dropped from the status line — the text
+  is a way of working, written down while it grows, not a draft of one; the
+  authorship note now says so: not a study the author ran, but how he works
+  with the model, day to day.
 
 ## 2026090321 — 3 Sep 2026
 

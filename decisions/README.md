@@ -7,13 +7,11 @@ blindly or change it blindly (Nygard, 2011). These records are the third option.
 Each record carries five fields: **Title · Status · Context · Decision ·
 Consequences**, plus a *Where it shows* line pointing at the text it governs.
 
-Status words, used here and on the entry page:
+Status words:
 
 - **proposed** — on the table, not yet in the text.
 - **accepted** — in force; the text follows it.
 - **superseded** — replaced by a later record, which is named.
-- **draft** (for a chapter or a pattern) — written and reviewed for consistency;
-  its claims carry their rung; it may change without notice.
 
 | № | Decision | Status |
 |---|---|---|
