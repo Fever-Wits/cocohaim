@@ -7,7 +7,7 @@ sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were. *Draft* is a status word, defined in
 [decisions](decisions/README.md).
 
-## [Unreleased]
+## 2026090321 — 3 Sep 2026
 
 - [cocohaim.md](cocohaim.md) written anew, from the author's telling — which
   way is right, why, how (how you speak · the document), and then. Not

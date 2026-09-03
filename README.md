@@ -24,7 +24,7 @@ this repository, not the method.
 
 ## Status
 
-**Version `YYYYMMDDHH` · draft** — [changelog](CHANGELOG.md); the version is
+**Version 2026090321 · draft** — [changelog](CHANGELOG.md); the version is
 the date and hour the text went out, and the status words are defined in
 [decisions](decisions/README.md). Published while it grows.
 
