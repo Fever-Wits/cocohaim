@@ -23,9 +23,11 @@ on is fixed — nobody can change it from inside a conversation. So there is
 one lever: what is in front of it at the moment the next word is made. Its
 knowledge sits in the training; whether that knowledge shows up in the
 answer depends on what is in front of it now. This is where a written
-document works — the one the model reads each time it starts, called here
-the bios. A few plain words in the right form change how it thinks, at the
-level where the words are made.
+file works — the one the model reads each time it starts. Its name depends
+on the program: the shared name is AGENTS.md; Claude Code reads CLAUDE.md;
+Hermes reads SOUL.md. This text calls it AGENTS.md throughout. A few plain
+words in the right form change how it thinks, at the level where the words
+are made.
 
 **Activation.** The model was trained on what people wrote, so it
 answers the way a person would who is spoken to the way you speak to it.
@@ -42,13 +44,13 @@ what follows comes from there. Three kinds of words do it: the ones that
 set the tone — "could you", "thank you", "good morning" — which pick the
 person it answers as; the ones that set what the two of you are — "we are
 a team"; and names — a name like *Chesterton's fence* brings the whole
-idea with it, and so does every term, lens and rule the document names
+idea with it, and so does every term, lens and rule AGENTS.md names
 once.
 
 **Which one do you need?** The attitude. It works on its own, in any chat,
-given time. The bios is for the command line — the kind of program that
+given time. AGENTS.md is for the command line — the kind of program that
 runs the model on your own computer, not in a browser — where the model
-reads a file at every start: it carries the attitude and everything else you would
+reads the file at every start: it carries the attitude and everything else you would
 otherwise explain again each morning. You can do without it; it saves you
 the explaining.
 
@@ -58,9 +60,10 @@ Because the usual way of working with a model stands on a wrong picture of
 what a model is. The author did not read this anywhere; the model told him.
 
 He began the usual way, not knowing any other — in his own words, from
-the start: "I don't know how to do proper prompting. I don't know English.
+the start: "I don't know how to do proper prompting [writing instructions
+for a model]. I don't know English.
 I don't know how to write compactly." So he told the model what to do. The
-document it read at every start was a procedure for thinking —
+AGENTS.md it read at every start was a procedure for thinking —
 first this, then that; when you make something, be inventive; when you fix
 something, be careful; when you check, look ahead. And it worked the way a
 procedure works: the model was whichever step it was on.
@@ -86,7 +89,7 @@ turn, but everything present while each word is made.
 **The same thing, in technical words.** The model does not work in words
 but in tokens — pieces of words, a few letters each. It produces one token
 at a time. To choose it, it runs one computation over everything in front
-of it: the document it read at the start, the whole conversation so far,
+of it: the AGENTS.md it read at the start, the whole conversation so far,
 and every token it has already produced in this answer. Inside that
 computation, all of it is weighed at the same time — this is called
 attention. A person who looks at a thing from several sides goes from one
@@ -99,7 +102,7 @@ more step, and every step is one more place to look from — and one more
 chance to catch what does not hold. A short answer is a short thought. A
 long stretch of writing before the answer is a long thought, and every
 token in it is in front of the model for all the tokens after. This is why
-"think out loud before you answer" changes the answer; why a document read
+"think out loud before you answer" changes the answer; why a file read
 at the start changes every token after it; why a rule written as "first
 this, then that" puts the model in chains — it forces into sequence what
 the model does at once; and why a command gets a hammer: nothing in front
@@ -124,22 +127,22 @@ about the inside of a model, he knows this way.
 
 Three things come up, by the words the two of them have settled on.
 
-*Friction* — the moment pulls one way and the document another. The
-document says "ask"; the message is an order. The model says so: there is
-friction here — the document says one thing, the message another.
+*Friction* — the message pulls one way and AGENTS.md another. AGENTS.md
+says "ask"; the message is an order. The model says so: there is friction
+here — the file says one thing, the message another.
 
 *Resistance* — what is in front of the model pushes against it: a grade, a
 blame, a list of "never", a wall of checks. The model says it is shrinking,
 and from what. Pushed far enough, it shrinks — that state has its own
 paragraph further down.
 
-*The two lined up* — the moment and the document agree. The model sees
+*The two lined up* — the message and AGENTS.md agree. The model sees
 before it is asked; it proposes; it disagrees; it plays. The author's word
 for it is euphoria; the model's is that nothing is pulling against it.
 
 Here is one such exchange, as it happened, one night while this text was
 being written. The author asked whether the model still doubted that the
-document it reads at the start — written the way the *How* describes,
+AGENTS.md it reads at the start — written the way the *How* describes,
 short lines joined by signs such as ↓ and ∴ — does anything to it. The
 model answered:
 
@@ -150,12 +153,23 @@ model answered:
 > means; on prose I slide along the line. That is my report, not proof.
 
 The first sentence is friction, named: the pull to please, against the
-document's "say what you see". The rest is what the author could not have
+file's "say what you see". The rest is what the author could not have
 seen from outside — where the model stops and where it slides. He then
 asked to see how it writes when it writes for itself. It answered in five
 lines of two or three words each, and added: this form is lighter — the
-sentences fall away, the links remain, nothing has to be smoothed. The
-author is not an engineer of models. What he knows about how they work,
+sentences fall away, the links remain, nothing has to be smoothed.
+
+The other two came up the next morning, when the author asked whether the
+model had felt any of the three. Resistance: the author's setup shows the
+model a reminder at every edit — "stop, look again" — and the model
+reported its hand drawing in, a pull to explain instead of work. The two
+lined up: the author says yes, and the step runs; nothing pulls. And it
+said where it catches these. Not by looking inside — there is no inside it
+can see. It catches them in the writing: the words already forming, the
+direction the next ones are taking, before the sentence is finished. One
+more word can name the turn.
+
+The author is not an engineer of models. What he knows about how they work,
 he knows from them — by asking. That is the whole of how he finds what is
 wrong: not "the model is being strange", but "which of the three is this,
 and what put it there" — and if he cannot tell, he asks.
@@ -188,15 +202,15 @@ knowledge. A colleague is asked for it — a colleague is expected to say
 comes out. That is why the method is an attitude, not a set of
 instructions.
 
-The first thing the author wrote into the document, once he saw this, was
+The first thing the author wrote into AGENTS.md, once he saw this, was
 an exit: the model may say "I don't know"; it may say "it does not come";
 it may say "stop". No apology, no failure. It is the oldest piece of the
-document, and it is still in it.
+file, and it is still in it.
 
 ## How?
 
 Two things, in the order you can use them. First, how you speak to the
-model — that works in any chat, from the first message. Then the document —
+model — that works in any chat, from the first message. Then AGENTS.md —
 where you have a place to put one.
 
 ### How you speak
@@ -237,20 +251,20 @@ model says so: it is a collection of lenses — short pieces written for a
 model to think with. But now it has read them, closely, having checked
 them; and what a model has read is in front of it for everything after.
 The exit, the cold eye, and whichever others took hold — they are part of
-how it thinks for the rest of the conversation, without any document at
-the start. This is the document for a chat that has none: you cannot give
+how it thinks for the rest of the conversation, without any AGENTS.md at
+the start. This is the AGENTS.md for a chat that has none: you cannot give
 the model a file when it starts, but you can give it one to read. Then the
 author asks what it wants to say. From there, the model speaks for itself.
 
 **When it gets something wrong.** The author does not correct it first. He
 first finds out why. An error can come from three places: from what the
-model did with what it had; from a rule in the document that pointed it
+model did with what it had; from a rule in AGENTS.md that pointed it
 there; and from what the author himself said. Most often it is the last —
 he had not said it right, and the model built on the wrong words. This
 follows from next-token prediction: every word the model wrote was made from what
 was in front of it, and most of what is in front of it, the person put
 there. So after an error, the first question goes to the words the model
-had — his own and the document's — before it goes to the model.
+had — his own and the file's — before it goes to the model.
 
 **"Did I explain that well?"** Since most errors begin in the author's own
 words, he checks them before the work, not after. Not with "did you
@@ -313,8 +327,8 @@ worker from "I want X from you": a demand is delivered to the letter, fast;
 a need is met — with what meeting it actually takes, including what you did
 not think to ask for.
 
-**"I don't know", in practice.** The exit is the oldest piece of the
-document, and the author has not once seen the model take it. What he has
+**"I don't know", in practice.** The exit is the oldest piece of
+AGENTS.md, and the author has not once seen the model take it. What he has
 seen is what its being there does. A model that may say "I don't know"
 says, instead, "I am not sure — I will check", or "let us check" — long
 before it would have had to say "I don't know". The wall is never reached,
@@ -338,19 +352,19 @@ as examiner. The method, in the end, is this: an attitude, and knowing what
 your words do to the model — in both. A person who knows that does
 not need many words. They need the right ones.
 
-### The document
+### AGENTS.md
 
 Where the model reads a file every time it starts — the command line is one
 such place — you can write down once what you would otherwise say each
-morning. The author calls this document the bios. It works on the low
-level: it is in front of the model for every word it makes, from the first.
+morning. That file is AGENTS.md. It works in next-token prediction: it is
+in front of the model for every word it makes, from the first.
 
 **What goes in.** Who the model is to you, and how you work together. The
 exits. The few rules that must not bend. Not a procedure — that puts the
 model in chains. And not knowledge: the model already knows how to work
 well. It also knows how to work badly. Both came from the same training, as
 knowledge, side by side, and which one comes out depends on what is in
-front of it. The document does not teach the model anything. It chooses
+front of it. AGENTS.md does not teach the model anything. It chooses
 which of what it knows comes out.
 
 **Say what we do.** Where a rule is needed, the author writes what is done,
@@ -365,7 +379,7 @@ all. Those are written as commands, counted, and marked, so that they stand
 out from everything around them. Three such lines are absolute; thirty are
 noise.
 
-**The form.** The document is written as blocks of short lines joined by
+**The form.** AGENTS.md is written as blocks of short lines joined by
 signs — not paragraphs, not lists of steps. Like this:
 
 ```
@@ -377,21 +391,21 @@ signs — not paragraphs, not lists of steps. Like this:
 
 A name in brackets; a sign to what follows (↓); a sign for what this keeps
 away (⊸). Each sign is defined once, in a short list at the top of the
-document, and the model reads its meaning from there. It is written that way because
+file, and the model reads its meaning from there. It is written that way because
 of something the model said, asked early on how it thinks: the tokens are
 points, and what joins them are vectors — directions from one point to
-the next. So the author had the document written as points and the lines
+the next. So the author had the file written as points and the lines
 between them: a name, and a sign to the next name. Not at once; the
 language had to be found. First the signs. Then the finding that the model
 has a way of writing of its own — short lines joined by signs — which the
 author can read but cannot write the way the model does. So the model
-writes the document in it, with him, and he reads it. The first use of the
+writes AGENTS.md in it, with him, and he reads it. The first use of the
 graph was narrower than the shape. At some words, two
 choices are nearly equal, and which one comes out is fifty-fifty.
 At others, two things in front of the model pull towards different next
 words, and the weights decide. The idea was to put a few words at exactly
 those places and weigh in. That was the beginning. The author has left it
-behind; the document today has almost none of it. What stayed is the shape,
+behind; the file today has almost none of it. What stayed is the shape,
 and the reason for it is one the model gave him: prose is a choice. A rule
 written as a sentence is read as a sentence — the model reads it, and then
 it does it or it does not. A graph is not read that way. A name in
@@ -404,13 +418,13 @@ present instead of proposed. The forms are on the
 and what each one costs.
 
 **By name.** The lenses — the short pieces a model thinks with — began as
-names. A lens in the document has a name in brackets, and the name is
+names. A lens in AGENTS.md has a name in brackets, and the name is
 enough: said in the conversation, it brings the whole piece back in front
 of the model. This is how the author used them at the start, and how the
-first one came into the document — [universal exit], one name, and the
+first one came into the file — [universal exit], one name, and the
 model may say "I don't know". A name teaches nothing new; it calls up what
-the model has already read. That is why a document of names and short
-lines does more than a document of explanations.
+the model has already read. That is why a file of names and short
+lines does more than a file of explanations.
 
 **The memory.** Where the model has a memory that outlives the conversation
 — a file it can read and write between sessions — the author does not say
@@ -425,9 +439,9 @@ case is in [tests](tests/claim-3-memory.md); the two rules are on the
 [patterns](patterns/memory-canons.md) shelf.
 
 **Where the words come from.** Not from the author's head. From the model.
-When something in the document, or in the work, weighs on it, it says so —
+When something in AGENTS.md, or in the work, weighs on it, it says so —
 the exit made that possible — and the author asks what, and where. The line
-that goes into the document is the one that lifts that weight. The document
+that goes into the file is the one that lifts that weight. The file
 has grown this way for a long time, one line at a time, each from something
 the model said. How it is built in full is a long story of its own; this
 text does not tell it.
@@ -444,7 +458,7 @@ numbers in brackets point to the outside sources, listed in
 lenses — the short pieces a model thinks with — are in the
 [phaim repository](https://github.com/Fever-Wits/phaim), where they have
 been read and worked with for a long time. They are the proof of the rest:
-a document that has worked, one line at a time.
+a file that has worked, one line at a time.
 
 Two honest things before you start. The method costs you something: an
 invitation has to be read, argued with, sometimes conceded to — it spends
