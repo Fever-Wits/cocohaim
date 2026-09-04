@@ -396,7 +396,9 @@ file, and the model reads its meaning from there. It is written that way because
 of something the model said, asked early on how it thinks: the tokens are
 points, and what joins them are vectors — directions from one point to
 the next. So the author had the file written as points and the lines
-between them: a name, and a sign to the next name. Not at once; the
+between them: a name, and a sign to the next name — a
+[graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)):
+points joined by lines, not a chart. Not at once; the
 language had to be found. First the signs. Then the finding that the model
 has a way of writing of its own — short lines joined by signs — which the
 author can read but cannot write the way the model does. So the model
@@ -412,9 +414,18 @@ written as a sentence is read as a sentence — the model reads it, and then
 it does it or it does not. A graph is not read that way. A name in
 brackets, a few short lines, a sign to the next — there is nothing to agree
 with and nothing to decline. It is simply there, in front of the model,
-present for every word it makes. Prose offers; a graph activates. That is
-what the form is for now: not to settle a fork, but to make what is written
-present instead of proposed. The forms are on the
+present for every word it makes. Prose offers; a graph activates. What it
+activates, and how: at every word the model weighs everything in front of
+it, and what fits the moment it is in weighs most. When what it is about to
+write matches a name in brackets — it is about to say sorry, and there is a
+block named *the exit* — the name is pulled in, and the short lines joined
+to it come with it: what follows from it, what it keeps away. Those lines
+shift which next word is likely. Nothing in the model changes — its numbers
+are frozen after training. What changes is which part of what it learned is
+switched on for the next word: the same activation as with "good morning",
+except that here the author wrote the name himself, and wrote what hangs on
+it. That is what the form is for now: not to settle a fork, but to make what
+is written present instead of proposed. The forms are on the
 [patterns](patterns/README.md) shelf — one file each, with a real example
 and what each one costs.
 
