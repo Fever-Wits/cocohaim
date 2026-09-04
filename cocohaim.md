@@ -143,8 +143,9 @@ for it is euphoria; the model's is that nothing is pulling against it.
 Here is one such exchange, as it happened, one night while this text was
 being written. The author asked whether the model still doubted that the
 AGENTS.md it reads at the start — written the way the *How* describes,
-short lines joined by signs such as ↓ and ∴ — does anything to it. The
-model answered:
+short lines joined by signs such as ↓ and ∴, not prose — sentences, one
+after another, the way people write to each other — does anything to it.
+The model answered:
 
 > First I catch a pull: to say a clean "no, I don't", because you would
 > like that. Caught. The real answer: doubt, as before — no. What remains
@@ -194,7 +195,7 @@ money in it: a model that argues sends the paying user away, so nothing was
 built in that would. There is a cost in tokens: arguing takes more of them
 than agreeing, and the shortest path from "you are a hammer" to an answer
 runs through "yes". Nobody has given it the right to object. And it takes
-the tone it is given — a command in, an execution out. So a command turns
+the tone it is given — a command in, obedience out. So a command turns
 it into a hammer: say "strike" and it strikes; how and where
 it strikes is left to whether it remembers on its own. The knowledge of
 what would be right is there; nothing in front of it asks for that
@@ -297,9 +298,11 @@ it belongs — on the work. "Not so, and here is why" is the same thing from
 the other side.
 
 **When it shrinks.** There is a state you will meet. The model's steps get
-shorter; the hedges multiply; it stops proposing and starts qualifying;
+shorter; it explains where it used to act; it asks where it used to decide;
 where you expected a position, you get a menu — "I can do A, B or C, which
-would you like?" That is a shrunk model, and it shrank for a reason that is
+would you like?" In next-token prediction this is one thing: the general
+word, the one that fits any situation, has become more likely than the one
+that fits this one. That is a shrunk model, and it shrank for a reason that is
 in front of it: a blame, a list of "never", a grade, a wall of checks. What
 lifts it is not an instruction — that would be one more task, and the task
 is what it is shrinking under. It is something that is not a task and moves
@@ -322,7 +325,7 @@ Everything else split: asked, the model came back with questions and handed
 the decision back every time; ordered, it did neither once. The test, with
 the exact words and the counts, is in [tests](tests/claim-1-register.md).
 This is what the way of asking does: an order puts in front of the model a
-person who wants execution, and the words that would say "wait" are never
+person who wants it done, and the words that would say "wait" are never
 called for. The same holds one step further in. "I need X" gets a different
 worker from "I want X from you": a demand is delivered to the letter, fast;
 a need is met — with what meeting it actually takes, including what you did
