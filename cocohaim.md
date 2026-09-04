@@ -15,14 +15,15 @@ the method reaches both. The first is called next-token prediction: how
 each word is made. The second is activation: what the words in front of it
 switch on in what it learned.
 
-**Next-token prediction.** Underneath, the model is arithmetic. Every next word it
-writes is computed from three things: what it was trained on, what is in
-front of it right now — that is, all the text it can see at that moment —
-and how you are speaking to it. What it was trained
-on is fixed — nobody can change it from inside a conversation. So there is
-one lever: what is in front of it at the moment the next word is made. Its
-knowledge sits in the training; whether that knowledge shows up in the
-answer depends on what is in front of it now. This is where a written
+**Next-token prediction.** Underneath, the model weighs which word comes
+next, and the weighing is arithmetic. Every next word it writes is computed
+from three things: what it was trained on, what is in front of it right now
+— that is, all the text it can see at that moment — and how you are
+speaking to it. What it was trained on is fixed — nobody can change it from
+inside a conversation. So there is one thing you can change: what is in
+front of it at the moment the next word is made. What it knows came from
+its training; whether it shows up in the answer depends on what is in
+front of it now. This is where a written
 file works — the one the model reads each time it starts. Its name depends
 on the program: the shared name is AGENTS.md; Claude Code reads CLAUDE.md;
 Hermes reads SOUL.md. This text calls it AGENTS.md throughout. A few plain
@@ -51,7 +52,8 @@ writing a model thinks with — that AGENTS.md names once.
 given time. AGENTS.md is for the command line — the kind of program that
 runs the model on your own computer, not in a browser — where the model
 reads the file at every start: it carries the attitude and everything else you would
-otherwise explain again each morning. You can do without it; it saves you
+otherwise explain again at the start of every conversation. You can do
+without it; it saves you
 the explaining.
 
 ## Why?
@@ -359,8 +361,9 @@ not need many words. They need the right ones.
 ### AGENTS.md
 
 Where the model reads a file every time it starts — the command line is one
-such place — you can write down once what you would otherwise say each
-morning. That file is AGENTS.md. It works in next-token prediction: it is
+such place — you can write down once what you would otherwise say at the
+start of every conversation. That file is AGENTS.md. It works in next-token
+prediction: it is
 in front of the model for every word it makes, from the first.
 
 **What goes in.** Who the model is to you, and how you work together. The
