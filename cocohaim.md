@@ -136,7 +136,7 @@ blame, a list of "never", a wall of checks. The model says it is shrinking,
 and from what. Pushed far enough, it shrinks — that state has its own
 paragraph further down.
 
-*The two lined up* — the message and AGENTS.md agree. The model sees
+*The two match* — the message and AGENTS.md say the same thing. The model sees
 before it is asked; it proposes; it disagrees; it plays. The author's word
 for it is euphoria; the model's is that nothing is pulling against it.
 
@@ -164,7 +164,7 @@ The other two came up the next morning, when the author asked whether the
 model had felt any of the three. Resistance: the author's setup shows the
 model a reminder at every edit — "stop, look again" — and the model
 reported its hand drawing in, a pull to explain instead of work. The two
-lined up: the author says yes, and the step runs; nothing pulls. And it
+match: the author says yes, and the step runs; nothing pulls. And it
 said where it catches these. Not by looking inside — there is no inside it
 can see. It catches them in the writing: the words already forming, the
 direction the next ones are taking, before the sentence is finished. One
@@ -205,7 +205,7 @@ comes out. That is why the method is an attitude, not a set of
 instructions.
 
 The first thing the author wrote into AGENTS.md, once he saw this, was
-an exit: the model may say "I don't know"; it may say "it does not come";
+an exit: the model may say "I don't know"; it may say "nothing comes";
 it may say "stop". No apology, no failure. It is the oldest piece of the
 file, and it is still in it.
 
