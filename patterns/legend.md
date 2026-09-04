@@ -28,7 +28,7 @@ inline:
 use; the working base behind the method carries a wider vocabulary, from which
 entries will be promoted here as the patterns that use them land.)*
 
-**Example** — live: the working bios this method grew in closes its legend with
+**Example** — live: the working AGENTS.md this method grew in closes its legend with
 one line — *"(the same vocabulary is spoken by the skills.)"* — declaring that
 the legend serves the whole ecosystem, not the single file. Measured against
 usage, that line proved literal: two of its glyphs never fire in the defining

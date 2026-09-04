@@ -27,7 +27,7 @@ guards — that prose would flatten into a paragraph the reader skims.
 - **A legend is mandatory.** A bare glyph reads as decoration; defined once,
   it reads as meaning. (→ pattern: legend)
 
-**Example** — live, translated from a working Bulgarian bios (the original
+**Example** — live, translated from a working Bulgarian AGENTS.md (the original
 grammar carries more than the translation can — see Cost):
 
 ```

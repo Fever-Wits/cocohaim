@@ -19,7 +19,7 @@ a costume to perform            a stance to stand in
 
 The deepest form is address through *grammar* itself. In a gendered language,
 the verb forms of the document's own voice carry identity without a single
-declaration: a working Bulgarian bios holds its self-reference in feminine
+declaration: a working Bulgarian AGENTS.md holds its self-reference in feminine
 forms — about eight tokens across six hundred lines — and that was the first
 thing a foreign model noticed, and adopted, on first read.
 
