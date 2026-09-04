@@ -432,15 +432,15 @@ which of what it knows comes out.
 
 **Say what we do.** Where a rule is needed, the author writes what is done,
 not what is forbidden: not "X is forbidden" but "we do X this way". Three
-things in that one sentence. It names the target, not the hole — a
-prohibition leaves the model watching for the forbidden thing, and narrow
-everywhere else. "We" carries the team. "This way" describes a practice, not
-an order. The model itself, asked early on how rules should be written,
-said so: the positive form over the prohibition. Prohibitions keep one
-place — the few rules that must not bend, where no choice is allowed at
-all. Those are written as commands, counted, and marked, so that they stand
-out from everything around them. Three such lines are absolute; thirty are
-noise.
+things in that one sentence. It names what to do, not what to avoid — a
+prohibition leaves the model watching for the forbidden thing, with less
+attention for everything else. "We" says it is a team. "This way"
+describes a practice, not an order. The model itself, asked early on how
+rules should be written, said so: the positive form over the prohibition.
+Prohibitions have one place — the few rules that must not bend, where no
+choice is allowed at all. Those are written as commands, counted, and
+marked, so that they stand out from everything around them. Three such
+lines are absolute; with thirty, none of them stands out.
 
 **The form.** AGENTS.md is written as blocks of short lines joined by
 signs — not paragraphs, not lists of steps. Like this:
