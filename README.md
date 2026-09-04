@@ -3,7 +3,7 @@
 **CO**gnitive **CO**llaboration **H**uman–**AI** **M**ethod.
 
 A way of working with a language model so that it thinks with you, instead
-of only doing what it is told. It stands on two things: how you speak to the
+of only doing what it is told. It has two parts: how you speak to the
 model — as a colleague, not as a tool — and what you write down once for it
 to read every time it starts. The author arrived at it by asking the model
 how it actually thinks, and building on what it said.
@@ -25,7 +25,7 @@ this repository, not the method.
 ## Status
 
 **Version 2026090322** — [changelog](CHANGELOG.md); the version is the date
-and hour the text went out. Published while it grows.
+and hour the text was published. Published while it grows.
 
 ## Authorship
 
@@ -46,8 +46,8 @@ write, or when.
 ## License
 
 © 2026 Aleksandar Hristov · [CC BY-SA 4.0](LICENSE) — share and adapt freely,
-with attribution; anything made from it keeps the same license. The method stays open,
-including what you grow on it.
+with attribution; anything made from it keeps the same license. The method
+stays open, including anything you build on it.
 
 Attribute as: *cocohaim* (Aleksandar Hristov,
 [github.com/Fever-Wits/cocohaim](https://github.com/Fever-Wits/cocohaim)).
