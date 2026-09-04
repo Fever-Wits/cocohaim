@@ -469,8 +469,9 @@ graph was narrower than what it does now. At some words, two
 choices are nearly equal, and which one comes out is fifty-fifty.
 At others, two things in front of the model pull towards different next
 words, and the weights decide. The idea was to put a few words at exactly
-those places and weigh in. That was the beginning. The author has left it
-behind; the file today has almost none of it. What stayed is the form,
+those places, so that they decide which one comes out. That was the
+beginning. The author no longer uses it; the file today has almost none of
+it. What stayed is the form,
 and the reason for it is one the model gave him: prose is a choice. A rule
 written as a sentence is read as a sentence — the model reads it, and then
 it does it or it does not. A graph is not read that way. A name in
@@ -486,8 +487,9 @@ shift which next word is likely. Nothing in the model changes — its numbers
 are frozen after training. What changes is which part of what it learned is
 switched on for the next word: the same activation as with "good morning",
 except that here the author wrote the name himself, and wrote what hangs on
-it. That is what the form is for now: not to settle a fork, but to make what
-is written present instead of proposed. The forms are on the
+it. That is what the form is for now: not to decide between two near-equal
+words, but to make what is written present instead of proposed. The forms
+are on the
 [patterns](patterns/README.md) shelf — one file each, with a real example
 and what each one costs.
 
