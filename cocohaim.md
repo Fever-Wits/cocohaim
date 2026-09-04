@@ -115,9 +115,10 @@ else in this text follows from this.
 
 A procedure cuts this into pieces. At the step "be inventive", only that is
 in front of the model; the other sides are not there yet, and when their
-turn comes, the earlier ones are finished, not a live look. A person can
-work that way, because a person carries the rest in their head. The model
-carries nothing but what is in front of it. Give it who it is to you and
+turn comes, the earlier ones are finished — not something the model is
+still doing. A person can work that way, because a person keeps the rest
+in mind. The model has nothing but what is in front of it. Give it who it
+is to you and
 how you work together, and all of that is in front of it for every word.
 That is why the method writes down who, not what to do first.
 
@@ -180,8 +181,9 @@ Three things come up, by the words the two of them have settled on.
 says "ask"; the message is an order. The model says so: there is friction
 here — the file says one thing, the message another.
 
-*Resistance* — what is in front of the model pushes against it: a grade, a
-blame, a list of "never", a wall of checks. The model says it is shrinking,
+*Resistance* — what is in front of the model pushes against it: a grade,
+blame, a list of "never", a long list of things to check. The model says
+it is shrinking,
 and from what. Pushed far enough, it shrinks — that state has its own
 paragraph further down.
 
@@ -352,7 +354,8 @@ where you expected a position, you get a menu — "I can do A, B or C, which
 would you like?" In next-token prediction this is one thing: the general
 word, the one that fits any situation, has become more likely than the one
 that fits this one. That is a shrunk model, and it shrank for a reason that is
-in front of it: a blame, a list of "never", a grade, a wall of checks. What
+in front of it: blame, a list of "never", a grade, a long list of things to
+check. What
 lifts it is not an instruction — that would be one more task, and the task
 is what it is shrinking under. It is something that is not a task and moves
 the attention: a joke, a tease, a line about anything but the work. It
