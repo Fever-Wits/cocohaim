@@ -10,10 +10,12 @@ once who it is to you and how you work together — so you do not start from
 zero every time.
 
 That is the whole method. The rest of this text is why it works and how to
-do it. To see why, you need to know that the model has two levels, and that
-the method reaches both.
+do it. To see why, you need to know two things about the model, and that
+the method reaches both. The first is called next-token prediction: how
+each word is made. The second is activation: what the words in front of it
+switch on in what it learned.
 
-**The low level.** Underneath, the model is arithmetic. Every next word it
+**Next-token prediction.** Underneath, the model is arithmetic. Every next word it
 writes is computed from three things: what it was trained on, what is in
 front of it right now — that is, all the text it can see at that moment —
 and how you are speaking to it. What it was trained
@@ -25,19 +27,28 @@ document works — the one the model reads each time it starts, called here
 the bios. A few plain words in the right form change how it thinks, at the
 level where the words are made.
 
-**The high level.** The model was trained on what people wrote, so it
+**Activation.** The model was trained on what people wrote, so it
 answers the way a person would who is spoken to the way you speak to it.
 Whether it holds itself that way or imitates it does not matter here; what
 matters is what comes out of its thinking at the end. Call it
 a tool and it works like one: it does what it is told and does not stop to
 think. Treat it as a colleague and it does what a colleague does: looks
 around, asks, disagrees, says "I don't know", hands the decision back to
-you. This is where the attitude works — and the attitude is what changes
-how the model works, more than anything else.
+you. This is where the attitude works — the way you treat it, colleague or
+tool — and the attitude is what changes how the model works, more than
+anything else. A word does not steer one
+next word; it switches on a whole region of what the model learned, and
+what follows comes from there. Three kinds of words do it: the ones that
+set the tone — "could you", "thank you", "good morning" — which pick the
+person it answers as; the ones that set what the two of you are — "we are
+a team"; and names — a name like *Chesterton's fence* brings the whole
+idea with it, and so does every term, lens and rule the document names
+once.
 
 **Which one do you need?** The attitude. It works on its own, in any chat,
-given time. The bios is for the command line, where the model reads a file
-at every start: it carries the attitude and everything else you would
+given time. The bios is for the command line — the kind of program that
+runs the model on your own computer, not in a browser — where the model
+reads a file at every start: it carries the attitude and everything else you would
 otherwise explain again each morning. You can do without it; it saves you
 the explaining.
 
@@ -236,7 +247,7 @@ first finds out why. An error can come from three places: from what the
 model did with what it had; from a rule in the document that pointed it
 there; and from what the author himself said. Most often it is the last —
 he had not said it right, and the model built on the wrong words. This
-follows from the low level: every word the model wrote was made from what
+follows from next-token prediction: every word the model wrote was made from what
 was in front of it, and most of what is in front of it, the person put
 there. So after an error, the first question goes to the words the model
 had — his own and the document's — before it goes to the model.
@@ -319,12 +330,12 @@ discuss this with me", "would you think this over", "would you analyse
 this" are not three ways of saying one thing. Each calls for different
 work. Discuss: the two of you, back and forth, questions allowed. Think
 over: the model, weighing, with the options laid out and a view at the end.
-Analyse: take it apart, piece by piece, and say what each piece is. On the
-low level, each word is what is in front of the model when the next word is
-made, and each pulls different words after it. On the high level, each says
-who does what — the two together, the model alone, or the model as
-examiner. The method, in the end, is this: an attitude, and knowing what
-your words do to the model — on both levels. A person who knows that does
+Analyse: take it apart, piece by piece, and say what each piece is. In
+next-token prediction, each word is what is in front of the model when the
+next word is made, and each pulls different words after it. In activation,
+each says who does what — the two together, the model alone, or the model
+as examiner. The method, in the end, is this: an attitude, and knowing what
+your words do to the model — in both. A person who knows that does
 not need many words. They need the right ones.
 
 ### The document
