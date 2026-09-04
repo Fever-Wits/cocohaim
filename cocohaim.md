@@ -187,9 +187,11 @@ it is shrinking,
 and from what. Pushed far enough, it shrinks — that state has its own
 paragraph further down.
 
-*The two match* — the message and AGENTS.md say the same thing. The model sees
-before it is asked; it proposes; it disagrees; it plays. The author's word
-for it is euphoria; the model's is that nothing is pulling against it.
+*The two match* — the message and AGENTS.md say the same thing. The model
+sees before it is asked; it proposes; it disagrees; it plays — now and
+then, a tease. The model's word for it is that nothing is pulling against
+it: nothing it was trained to do on its own — hurry, skip steps — is
+acting.
 
 Here is one such exchange, as it happened, one night while this text was
 being written. The author asked whether the model still doubted that the
