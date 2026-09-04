@@ -233,7 +233,7 @@ what the work is, what is around it — so it can tell where it is. And "you
 can ask freely": the right to ask, given out loud, not assumed. From the
 first message, it is the one who looks around and asks.
 
-That is the shape of everything after it. You say what is so. You leave
+That is the pattern for everything after it. You say what is so. You leave
 room for the model to say what it sees. And where the model has a memory
 that outlives the conversation, the author puts a few things about himself
 there first — so the next conversation does not start from nothing.
@@ -311,7 +311,7 @@ happened while this text was being written: the model checked the same
 small thing three times over, as if to be judged for it; the author said
 something that was not about the work; it stopped, and came back to
 seeing, proposing, disagreeing. Another person will find their own; what
-carries over is the shape to watch for, and that what lifts it is not one
+carries over is the pattern to watch for, and that what lifts it is not one
 more instruction.
 
 **Ask; do not order.** The same task, given two ways, gets two different
@@ -406,12 +406,12 @@ language had to be found. First the signs. Then the finding that the model
 has a way of writing of its own — short lines joined by signs — which the
 author can read but cannot write the way the model does. So the model
 writes AGENTS.md in it, with him, and he reads it. The first use of the
-graph was narrower than the shape. At some words, two
+graph was narrower than what it does now. At some words, two
 choices are nearly equal, and which one comes out is fifty-fifty.
 At others, two things in front of the model pull towards different next
 words, and the weights decide. The idea was to put a few words at exactly
 those places and weigh in. That was the beginning. The author has left it
-behind; the file today has almost none of it. What stayed is the shape,
+behind; the file today has almost none of it. What stayed is the form,
 and the reason for it is one the model gave him: prose is a choice. A rule
 written as a sentence is read as a sentence — the model reads it, and then
 it does it or it does not. A graph is not read that way. A name in
