@@ -58,8 +58,9 @@ the explaining.
 
 ## Why?
 
-Because the usual way of working with a model stands on a wrong picture of
-what a model is. The author did not read this anywhere; the model told him.
+Because the usual way of working with a model rests on an idea of what a
+model is that is not true. The author did not read this anywhere; the
+model told him.
 
 He began the usual way, not knowing any other — in his own words, from
 the start: "I don't know how to do proper prompting [writing instructions
@@ -106,10 +107,11 @@ long stretch of writing before the answer is a long thought, and every
 token in it is in front of the model for all the tokens after. This is why
 "think out loud before you answer" changes the answer; why a file read
 at the start changes every token after it; why a rule written as "first
-this, then that" puts the model in chains — it forces into sequence what
-the model does at once; and why a command gets a hammer: nothing in front
-of the model calls for the tokens that would say "no". Everything else in
-this text follows from this.
+this, then that" holds the model to one thing at a time, when at every
+word it weighs everything in front of it at once; and why a command gets a
+tool — something that carries it out without thinking it over: nothing in
+front of the model makes the words that would say "no" likely. Everything
+else in this text follows from this.
 
 A procedure cuts this into pieces. At the step "be inventive", only that is
 in front of the model; the other sides are not there yet, and when their
