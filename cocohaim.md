@@ -326,22 +326,23 @@ had — his own and the file's — before it goes to the model.
 words, he checks them before the work, not after. Not with "did you
 understand me?" — that is an exam, and an exam has one pleasing answer:
 "yes", said fast, and sometimes false. He says instead: "I don't know if I
-explained that well." Now the burden is his; the model has nothing to lose;
-and the only way left to please is to say back what it understood — and
-there the gap shows, before it has cost anything. One pleasing answer can
-still slip through — "no, you explained it fine" — so when it matters, he
-asks for it outright: "tell me back what you understood." The same thing
-holds after a miss. "You misunderstood me" makes the miss the model's, and
-the model shrinks; "my explanation may have failed" keeps it trying.
+explained that well." Now the responsibility is his; the model has nothing
+to lose; and the only way left to please is to say back what it
+understood — and there the misunderstanding shows, before it has cost
+anything. One pleasing answer is still possible — "no, you explained it
+fine" — so when it matters, he asks for it outright: "tell me back what
+you understood." The same holds after a mistake. "You misunderstood me"
+makes the mistake the model's, and the model shrinks; "my explanation may
+have failed" keeps it trying.
 
 **When it gets something right.** The author says "so it is" — and nothing
 more. Not "great work". Praise looks harmless; to a model it is not. Every
 word in front of it shapes the next, and praise is a word that says: this
 is what earns the good words. It strengthens everything in the answer, the
-flaws with the rest, and shapes the next answer to earn the same. It closes
-the search: what was called great is not looked at again. And it sets
-roles — one who grades, one who performs — which is the pleasing the model
-was trained into, now fed from outside. The other side is no better: a
+flaws with the rest, and shapes the next answer to earn the same. It ends
+the checking: what was called great is not looked at again. And it sets
+roles — one who grades, one who performs — the same pleasing the model
+was trained into, now coming from you as well. The other side is no better: a
 model that has learned that praise means pleasing starts checking itself —
 "really?" — and its attention leaves the work for itself. A friend of the
 author's told another model "this is great work"; the model asked him not
