@@ -6,17 +6,35 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## [Unreleased]
+## 2026090500 — 5 Sep 2026
 
+- *Why*: how the model is made — three paragraphs after "who, not what to
+  do first": how it is trained (the next token, guessed and corrected,
+  billions of times; then the human ratings, where the pleasing comes
+  from); the neuron and the layers, and where the word *activation* comes
+  from; where the likeness to the brain ends. And how the author came to
+  know it: the hurrying on a new task, the question, the first explanation
+  of tokens.
+- The two levels have their names: next-token prediction and activation —
+  with the three kinds of words that act there (tone · relation · names).
+  The three things the model reports have theirs: *Friction* · *Resistance*
+  · *The two match*.
+- *bios* → AGENTS.md throughout, with what the file is called in each
+  program; the same in `patterns/`.
+- The words: jargon and images replaced by plain words across the text and
+  the entry page. The hammer stays once, as an example of a tool. "Euphoria"
+  is gone. Praise: why the author does not say "great work", and what the
+  model starts checking when he does. The form: what it was for at the
+  start and what it is for now.
 - *Why*: the piece on the trace rewritten — "Ask it; it can say": the model
-  tells what is happening in it (friction · resistance · the two lined
-  up); the author works backward from what it says. One exchange from the
-  writing of the text quoted as it happened.
+  tells what is happening in it; the author works backward from what it
+  says. One exchange from the writing of the text quoted as it happened.
 - *Which* / *How*: three corrections from the author's read-through — how
   the model answers (holds or imitates does not matter; what comes out of
   its thinking does); the opening message in the author's exact words and
   why the model asks; what lifts the model when it shrinks — not one more
   instruction, but something that is not a task.
+- Entry page: two parts; "published"; the folders.
 
 ## 2026090322 — 3 Sep 2026
 
