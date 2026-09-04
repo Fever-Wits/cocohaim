@@ -44,8 +44,8 @@ what follows comes from there. Three kinds of words do it: the ones that
 set the tone — "could you", "thank you", "good morning" — which pick the
 person it answers as; the ones that set what the two of you are — "we are
 a team"; and names — a name like *Chesterton's fence* brings the whole
-idea with it, and so does every term, lens and rule AGENTS.md names
-once.
+idea with it, and so does every term, rule and lens — a short piece of
+writing a model thinks with — that AGENTS.md names once.
 
 **Which one do you need?** The attitude. It works on its own, in any chat,
 given time. AGENTS.md is for the command line — the kind of program that
@@ -186,7 +186,8 @@ that it did exactly what was in front of it, and nothing more was.
 
 Why does it not stop and ask what was meant? When the author began, the
 model could not say "I don't know". This is not the author's finding; it
-has been written about [9] [10], and he built on it. Several things hold
+has been written about — the numbers in brackets point to the sources
+listed at the end [9] [10] — and he built on it. Several things hold
 it there; these are the ones the author sees. It was trained to please
 [5] [6]. There is
 money in it: a model that argues sends the paying user away, so nothing was
@@ -417,8 +418,7 @@ present instead of proposed. The forms are on the
 [patterns](patterns/README.md) shelf — one file each, with a real example
 and what each one costs.
 
-**By name.** The lenses — the short pieces a model thinks with — began as
-names. A lens in AGENTS.md has a name in brackets, and the name is
+**By name.** The lenses began as names. A lens in AGENTS.md has a name in brackets, and the name is
 enough: said in the conversation, it brings the whole piece back in front
 of the model. This is how the author used them at the start, and how the
 first one came into the file — [universal exit], one name, and the
