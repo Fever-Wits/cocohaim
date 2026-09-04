@@ -281,8 +281,8 @@ speaks to a person, not to "the user". "We are a team": the whole of the
 first section, in three words — colleague, not tool. "You do not know me":
 what is so, said plainly, with nothing behind it. A question, not a
 briefing: the model is handed the first decision — what it needs to know.
-It will want to know who it is working with and what the place is like —
-what the work is, what is around it — so it can tell where it is. And "you
+It will want to know who it is working with and what the situation is —
+what the work is, what is around it. And "you
 can ask freely": the right to ask, given out loud, not assumed. From the
 first message, it is the one who looks around and asks.
 
@@ -305,8 +305,9 @@ and carefully, not skim. There is nothing bad in the repository, and the
 model says so: it is a collection of lenses — short pieces written for a
 model to think with. But now it has read them, closely, having checked
 them; and what a model has read is in front of it for everything after.
-The exit, the cold eye, and whichever others took hold — they are part of
-how it thinks for the rest of the conversation, without any AGENTS.md at
+The exit, the cold eye — a model reading a text as someone else's — and
+the others it read: they are part of how it thinks for the rest of the
+conversation, without any AGENTS.md at
 the start. This is the AGENTS.md for a chat that has none: you cannot give
 the model a file when it starts, but you can give it one to read. Then the
 author asks what it wants to say. From there, the model speaks for itself.
