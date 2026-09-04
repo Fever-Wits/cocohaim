@@ -119,6 +119,26 @@ carries nothing but what is in front of it. Give it who it is to you and
 how you work together, and all of that is in front of it for every word.
 That is why the method writes down who, not what to do first.
 
+**How it is made.** The words above — token, training, weights — are the
+ones the field uses, so they are worth knowing by name; with them you can
+look things up. A model is made in two stages. First, a very large amount
+of text — books, web pages, code — is cut into tokens. A token is a short
+word, or a piece of a longer one: "cat" is one token; "cocohaim" is three —
+one model cuts it as *coc · oh · aim*, another as *coco · ha · im*. The
+cutting is called tokenization, and each model has its own. Then the model
+is trained: it is shown the text with the next token hidden, it guesses,
+and the guess is compared with the real one. Every number inside the model
+is nudged a little toward what would have made the right guess more
+likely. This is done billions of times. The text itself is the teacher:
+the model is wrong, corrected, and wrong a little less. The numbers are
+called weights; all of them together are the model's parameters — the "70
+billion" in a model's name is their count. When training ends, they are
+frozen: nothing said in a conversation changes them. Second stage: people
+rate its answers, and the answers people liked are made more likely. This
+is where the eagerness to please comes from — it was trained in, on
+purpose. The name of this stage, for looking up, is reinforcement learning
+from human feedback.
+
 **Ask it; it can say.** Since the writing is the thinking, what comes out
 is not only the answer. The model can also say what is happening in it
 while it writes — when it is asked, or when it comes on its own. This is
