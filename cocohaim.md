@@ -155,6 +155,15 @@ neurons active. "Good morning", "we are a team", a name — each switches on
 its own set, and what follows is computed from that. That is what the three
 kinds of words above do, in the numbers.
 
+The neuron is named after the cell in the brain, and the likeness is in
+one thing: many simple connected units, each doing very little, and out of
+the connections comes behaviour that none of them has on its own.
+Everything else is different. In the brain the connections grow and change
+while you use them; in the model they are frozen. There is no chemistry, no
+growth, and nothing is learned in a conversation — what was said stays in
+the text of that conversation, and nowhere else. That is why the method
+writes things down.
+
 **Ask it; it can say.** Since the writing is the thinking, what comes out
 is not only the answer. The model can also say what is happening in it
 while it writes — when it is asked, or when it comes on its own. This is
