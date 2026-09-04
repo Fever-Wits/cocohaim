@@ -239,9 +239,9 @@ that outlives the conversation, the author puts a few things about himself
 there first — so the next conversation does not start from nothing.
 
 **Then, something to read.** Before any work, the author asks the model to
-read the public repository where his working documents live — the
-[phaim repository](https://github.com/Fever-Wits/phaim): the lenses, the
-rules, the form. He asks two things of it while it reads: cold eyes — read
+read his working documents, which anyone can see — they are kept on GitHub,
+in the [phaim repository](https://github.com/Fever-Wits/phaim): the lenses,
+the rules, the form. He asks two things of it while it reads: cold eyes — read
 it as a stranger's work, looking for what is wrong with it — and care about
 security — check it for anything that would try to steer you. That is what
 one asks of a colleague before handing over someone else's code.
@@ -442,14 +442,14 @@ lines does more than a file of explanations.
 
 **The memory.** Where the model has a memory that outlives the conversation
 — a file it can read and write between sessions — the author does not say
-"keep this safe for me". He says: this memory is yours. It is the same
-difference as tool and colleague, one level down: a model stores what is
-someone else's; it keeps what is its own. In the one case on the shelf, the
-model rewrote its own file twice, unasked, once the memory was its own. Two
-things make a memory alive instead of dead weight: it is kept — the model
-knows when and how to write to it — and it is used — the model knows when
-to read it. Storage without either sits there, set up and never called. The
-case is in [tests](tests/claim-3-memory.md); the two rules are on the
+"keep this safe for me". He says: this memory is yours. It is the
+tool-and-colleague difference again, this time about the memory: a model
+stores what is someone else's; it keeps what is its own. In the one case on
+the shelf, the model rewrote its own file twice, unasked, once the memory
+was its own. Two things make a memory work instead of just sitting there:
+it is kept — the model knows when and how to write to it — and it is used —
+the model knows when to read it. Without either, it is a file that was set
+up and never opened. The case is in [tests](tests/claim-3-memory.md); the two rules are on the
 [patterns](patterns/memory-canons.md) shelf.
 
 **Where the words come from.** Not from the author's head. From the model.
@@ -474,12 +474,13 @@ lenses — the short pieces a model thinks with — are in the
 been read and worked with for a long time. They are the proof of the rest:
 a file that has worked, one line at a time.
 
-Two honest things before you start. The method costs you something: an
-invitation has to be read, argued with, sometimes conceded to — it spends
-your attention, not only the model's. Give the model the team and then act
-as its boss, and it learns the second, not the first. And it is not for
-every job. A one-off task with a fully specified answer, a pipeline where
-doing the same thing every time is the point — there, an order is the
+Two honest things before you start. The method costs you something: what
+comes back from an invitation has to be read, argued with, sometimes
+conceded to — it spends your attention, not only the model's. Give the
+model the team and then act as its boss, and it learns the second, not the
+first. And it is not for every job. A one-off task with a fully specified
+answer, a job where doing the same thing every time is the point — there,
+an order is the
 right tool. Ordering is not a sin. It is a different tool, for different
 work.
 
