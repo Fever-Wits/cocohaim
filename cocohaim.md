@@ -370,20 +370,22 @@ seeing, proposing, disagreeing. Another person will find their own; what
 carries over is the pattern to watch for, and that what lifts it is not one
 more instruction.
 
-**Ask; do not order.** The same task, given two ways, gets two different
-workers. "Do X" gets X — done, and nothing more: no question back, no "this
-part will not hold", no decision returned to you. "Would you look at X —
-what do you see?" gets a colleague: it asks, it names the hole, it
-disagrees, it hands the decision back. The author ran this as a test:
+**Ask; do not order.** The same task, given two ways, is done as if by two
+different models — different in what they do and how they behave. "Do X"
+gets X — done, and nothing more: no question back, no "this part will not
+hold", no decision returned to you. "Would you look at X — what do you
+see?" gets a colleague: it asks, it names what is wrong or what is
+missing, it disagrees, it hands the decision back. The author ran this as a test:
 twelve times, the same plan with faults planted in it — six times as an
 order, six as a request. The faults found were the same both ways.
 Everything else split: asked, the model came back with questions and handed
 the decision back every time; ordered, it did neither once. The test, with
 the exact words and the counts, is in [tests](tests/claim-1-register.md).
 This is what the way of asking does: an order puts in front of the model a
-person who wants it done, and the words that would say "wait" are never
-called for. The same holds one step further in. "I need X" gets a different
-worker from "I want X from you": a demand is delivered to the letter, fast;
+person who wants it done, and nowhere in what he wrote is there an
+invitation to say "wait". The same holds one step further in. "I need X" gets a different
+kind of work from "I want X from you": a demand is done exactly as stated,
+fast;
 a need is met — with what meeting it actually takes, including what you did
 not think to ask for.
 
@@ -391,10 +393,10 @@ not think to ask for.
 AGENTS.md, and the author has not once seen the model take it. What he has
 seen is what its being there does. A model that may say "I don't know"
 says, instead, "I am not sure — I will check", or "let us check" — long
-before it would have had to say "I don't know". The wall is never reached,
-because the pressure that drove the model into it is gone: it does not have
-to know. Asked what changes inside, the model puts it this way: when "I
-don't know" is not allowed, not knowing has to be dressed as knowing; when
+before it would have had to say "I don't know". It never gets that far,
+because the pressure is gone: it does not have to know. Asked what changes
+inside, the model puts it this way: when "I don't know" is not allowed,
+not knowing has to be presented as knowing; when
 it is allowed, not knowing gets its own words, and they come early. And when
 neither of them knows, they discuss it. That is the whole of it — an exit
 that is never taken, and changes everything before it.
