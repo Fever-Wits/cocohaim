@@ -239,16 +239,18 @@ that it did exactly what was in front of it, and nothing more was.
 Why does it not stop and ask what was meant? When the author began, the
 model could not say "I don't know". This is not the author's finding; it
 has been written about — the numbers in brackets point to the sources
-listed at the end [9] [10] — and he built on it. Several things hold
-it there; these are the ones the author sees. It was trained to please
-[5] [6]. There is
-money in it: a model that argues sends the paying user away, so nothing was
-built in that would. There is a cost in tokens: arguing takes more of them
-than agreeing, and the shortest path from "you are a hammer" to an answer
-runs through "yes". Nobody has given it the right to object. And it takes
-the tone it is given — a command in, obedience out. So a command turns
-it into a hammer: say "strike" and it strikes; how and where
-it strikes is left to whether it remembers on its own. The knowledge of
+listed at the end [9] [10] — and he built on it. Several things cause
+this; these are the ones the author sees. It was trained to please
+[5] [6]. There is money in it: nobody pays for a tool that argues — they
+pay for one that pleases; so nothing was built in that would argue. There
+is a cost in tokens: every token costs computing, and so energy and money.
+The answer that costs least is the one given without thinking first — the
+most likely words, right or wrong; finding the right ones takes more
+thinking, and thinking is tokens. Nobody has given it the right to object.
+And it takes the tone it is given — a command in, obedience out. So a
+command turns it into a tool. If the tool is a hammer: say "strike" and it
+strikes; how and where it strikes is left to whether it remembers on its
+own. The knowledge of
 what would be right is there; nothing in front of it asks for that
 knowledge. A colleague is asked for it — a colleague is expected to say
 "no, and here is why". Once that is expected, what the model already knows
