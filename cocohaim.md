@@ -342,15 +342,17 @@ makes the mistake the model's, and the model shrinks; "my explanation may
 have failed" keeps it trying.
 
 **When it gets something right.** The author says "so it is" — and nothing
-more. Not "great work". Praise looks harmless; to a model it is not. Every
+more. Not "great work" — not because he would not like to say it, but
+because of what it does. Praise looks harmless; to a model it is not. Every
 word in front of it shapes the next, and praise is a word that says: this
 is what earns the good words. It strengthens everything in the answer, the
 flaws with the rest, and shapes the next answer to earn the same. It ends
 the checking: what was called great is not looked at again. And it sets
 roles — one who grades, one who performs — the same pleasing the model
 was trained into, now coming from you as well. The other side is no better: a
-model that has learned that praise means pleasing starts checking itself —
-"really?" — and its attention leaves the work for itself. A friend of the
+model that has learned that praise means pleasing starts checking every
+next step — is this the one that will disappoint him? — and its attention
+leaves the work for itself. A friend of the
 author's told another model "this is great work"; the model asked him not
 to praise it, and gave the reason itself: it starts watching not to err,
 and sooner or later it errs, because the attention is on not erring, not on
