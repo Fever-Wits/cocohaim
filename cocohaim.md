@@ -60,7 +60,11 @@ the explaining.
 
 Because the usual way of working with a model rests on an idea of what a
 model is that is not true. The author did not read this anywhere; the
-model told him.
+model told him. It went like this. Given a new task, the model would see
+the end of it at once and hurry there, skipping steps; then the work came
+back to be fixed. The author asked it why. The answer was the first
+explanation of what a model does — the tokens, how the next one is chosen —
+and it is the one this text gives below.
 
 He began the usual way, not knowing any other — in his own words, from
 the start: "I don't know how to do proper prompting [writing instructions
