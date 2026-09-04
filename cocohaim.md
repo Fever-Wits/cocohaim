@@ -139,6 +139,22 @@ is where the eagerness to please comes from — it was trained in, on
 purpose. The name of this stage, for looking up, is reinforcement learning
 from human feedback.
 
+Inside, the model is a neural network: a very large number of small units
+called neurons, arranged in layers. A neuron is simple. It has many inputs,
+each with its own weight; it multiplies each input by its weight, adds the
+results, and gives one number out. That number goes to the neurons of the
+next layer, as one of their inputs. Nothing else happens in it — no rule,
+no lookup; a number comes in, a number goes out. A token enters the first
+layer as a list of numbers — its embedding, the point the model said it
+works with — and the numbers flow through the layers, each neuron passing
+its sum on. The last layer gives, for every token the model knows, how
+likely it is to come next; the next token is picked from that. The word
+activation is from here: a neuron whose output is large is said to be
+active, and a given word in front of the model makes a particular set of
+neurons active. "Good morning", "we are a team", a name — each switches on
+its own set, and what follows is computed from that. That is what the three
+kinds of words above do, in the numbers.
+
 **Ask it; it can say.** Since the writing is the thinking, what comes out
 is not only the answer. The model can also say what is happening in it
 while it writes — when it is asked, or when it comes on its own. This is
