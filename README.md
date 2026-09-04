@@ -11,7 +11,7 @@ how it actually thinks, and building on what it said.
 **Read here →** [cocohaim.md](cocohaim.md) — the whole method in one
 read-through: which way is right, why, and how. Read it once.
 
-Then the shelves:
+Then the folders:
 
 - [tests/](tests/) — what was tried, with the exact words, so you can run it
   yourself.

@@ -495,8 +495,8 @@ switched on for the next word: the same activation as with "good morning",
 except that here the author wrote the name himself, and wrote what hangs on
 it. That is what the form is for now: not to decide between two near-equal
 words, but to make what is written present instead of proposed. The forms
-are on the
-[patterns](patterns/README.md) shelf — one file each, with a real example
+are in the
+[patterns](patterns/README.md) folder — one file each, with a real example
 and what each one costs.
 
 **By name.** The lenses began as names. A lens in AGENTS.md has a name in brackets, and the name is
@@ -511,13 +511,13 @@ lines does more than a file of explanations.
 — a file it can read and write between sessions — the author does not say
 "keep this safe for me". He says: this memory is yours. It is the
 tool-and-colleague difference again, this time about the memory: a model
-stores what is someone else's; it keeps what is its own. In the one case on
-the shelf, the model rewrote its own file twice, unasked, once the memory
+stores what is someone else's; it keeps what is its own. In the one recorded
+case, the model rewrote its own file twice, unasked, once the memory
 was its own. Two things make a memory work instead of just sitting there:
 it is kept — the model knows when and how to write to it — and it is used —
 the model knows when to read it. Without either, it is a file that was set
-up and never opened. The case is in [tests](tests/claim-3-memory.md); the two rules are on the
-[patterns](patterns/memory-canons.md) shelf.
+up and never opened. The case is in [tests](tests/claim-3-memory.md); the two rules are in the
+[patterns](patterns/memory-canons.md) folder.
 
 **Where the words come from.** Not from the author's head. From the model.
 When something in AGENTS.md, or in the work, weighs on it, it says so —
@@ -531,9 +531,9 @@ text does not tell it.
 
 The rest is yours. Whether you believe any of it is your choice; the author
 did not write this to convince you. He has checked much of it himself, over
-a long time. What could be run and published is on the
-[tests](tests/README.md) shelf, with the exact words, so you can run it
-yourself. The forms are on the [patterns](patterns/README.md) shelf. The
+a long time. What could be run and published is in the
+[tests](tests/README.md) folder, with the exact words, so you can run it
+yourself. The forms are in the [patterns](patterns/README.md) folder. The
 numbers in brackets point to the outside sources, listed in
 [references](references.md). And the
 lenses — the short pieces a model thinks with — are in the
