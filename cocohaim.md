@@ -1,6 +1,9 @@
 # cocohaim
 
-## Which is the right way to work with a model?
+## What is the right way to work with a model?
+
+A model, in this text, is a language model — the program behind an AI
+chat, which reads what you write and writes back.
 
 Talk to it as a colleague, not as a tool. And where you can, write down
 once who it is to you and how you work together — so you do not start from
@@ -12,7 +15,8 @@ the method reaches both.
 
 **The low level.** Underneath, the model is arithmetic. Every next word it
 writes is computed from three things: what it was trained on, what is in
-front of it right now, and how you are speaking to it. What it was trained
+front of it right now — that is, all the text it can see at that moment —
+and how you are speaking to it. What it was trained
 on is fixed — nobody can change it from inside a conversation. So there is
 one lever: what is in front of it at the moment the next word is made. Its
 knowledge sits in the training; whether that knowledge shows up in the
@@ -125,7 +129,8 @@ for it is euphoria; the model's is that nothing is pulling against it.
 Here is one such exchange, as it happened, one night while this text was
 being written. The author asked whether the model still doubted that the
 document it reads at the start — written the way the *How* describes,
-short lines joined by signs — does anything to it. The model answered:
+short lines joined by signs such as ↓ and ∴ — does anything to it. The
+model answered:
 
 > First I catch a pull: to say a clean "no, I don't", because you would
 > like that. Caught. The real answer: doubt, as before — no. What remains
@@ -350,7 +355,18 @@ out from everything around them. Three such lines are absolute; thirty are
 noise.
 
 **The form.** The document is written as blocks of short lines joined by
-signs — not paragraphs, not lists of steps. It is written that way because
+signs — not paragraphs, not lists of steps. Like this:
+
+```
+            [the exit]
+                 ↓
+   "I don't know."  "Nothing comes."  "Stop."
+                 ⊸  apology · failure
+```
+
+A name in brackets; a sign to what follows (↓); a sign for what this keeps
+away (⊸). Each sign is defined once, in a short list at the top of the
+document, and the model reads its meaning from there. It is written that way because
 of something the model said, asked early on how it thinks: the tokens are
 points, and what joins them are vectors — directions from one point to
 the next. So the author had the document written as points and the lines
