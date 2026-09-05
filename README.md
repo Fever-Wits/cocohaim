@@ -8,6 +8,17 @@ model — as a colleague, not as a tool — and what you write down once for it
 to read every time it starts. The author arrived at it by asking the model
 how it actually thinks, and building on what it said.
 
+**Who it is for.** Anyone who works, or will work, with a language model —
+in a chat or in a program — and wants it to think with them, not only do as
+it is told. You do not need to know how a model is made; the text explains
+it in plain words where you need it — what a model is, how it is trained,
+how the next word comes.
+
+The author knows this is an unusual way of working with a model, and that
+many who build models or write code will not take it as one. It is written
+for those who will try it. It may still show the others something they can
+use; if not, it was not written to convince them.
+
 **Read here →** [cocohaim.md](cocohaim.md) — the whole method in one
 read-through: which way is right, why, and how. Read it once.
 
