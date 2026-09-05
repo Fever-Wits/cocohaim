@@ -6,6 +6,16 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## [Unreleased]
+
+- Entry page: *Who it is for* — anyone who works, or will work, with a
+  model; nothing needs to be known in advance. And a word to those who build
+  models or write code and will not take this as a way of working: it was
+  not written to convince them.
+- *Why* / *How it is made*: how the model came about — decades of small
+  models; the transformer (2017, [11]) and size; ChatGPT (2022).
+  References: 11 added.
+
 ## 2026090514 — 5 Sep 2026
 
 - *Why*: the author's first AGENTS.md — "first do X, then do Y"; the model
