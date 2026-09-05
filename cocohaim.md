@@ -180,7 +180,11 @@ see. It is the model telling him, in words. He works backward from what it
 says to what is in front of it, and changes that. Everything he knows
 about the inside of a model, he knows this way.
 
-Three things come up, by the words the two of them have settled on.
+At every word there is one question: is there something in front of the
+model that says a different word. The answer differs with what is in front
+of it. Asked, the model describes the answer; the three below are the ones
+that came up most often, in the words of the model that gave them — one
+version of Claude. Another model will say them differently.
 
 *Friction* — the message pulls one way and AGENTS.md another. AGENTS.md
 says "ask"; the message is an order. The model says so: there is friction
