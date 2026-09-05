@@ -522,7 +522,17 @@ of the model. This is how the author used them at the start, and how the
 first one came into the file — [universal exit], one name, and the
 model may say "I don't know". A name teaches nothing new; it calls up what
 the model has already read. That is why a file of names and short
-lines does more than a file of explanations.
+lines does more than a file of explanations. The lenses' own names did not
+stay in the file, and the model said why when the author asked, early on,
+whether they should be named in it. Named as an instruction — "apply this"
+— a lens is carried out as a task, formally, and what it was for is lost.
+Written as a condition or a permission — "if you notice two things treated
+as one, say so" — it acts on its own when the situation calls for it. One
+presses; the other permits. And the name, it said, is a label on the
+surface: a lens is a direction — from one thing to another. So the file
+writes the direction: the name in brackets is the state the model is in,
+and the short lines are where it goes from there. The lens's name stayed
+for the conversation.
 
 **The memory.** Where the model has a memory that outlives the conversation
 — a file it can read and write between sessions — the author does not say
