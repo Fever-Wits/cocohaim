@@ -232,7 +232,7 @@ can see. It catches them in the writing: the words already forming, the
 direction the next ones are taking, before the sentence is finished. One
 more word can name the turn.
 
-The author is not an engineer of models. What he knows about how they work,
+The author is not an AI engineer. What he knows about how they work,
 he knows from them — by asking. That is the whole of how he finds what is
 wrong: not "the model is being strange", but "which of the three is this,
 and what put it there" — and if he cannot tell, he asks.
