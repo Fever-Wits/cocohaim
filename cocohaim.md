@@ -31,7 +31,7 @@ words in the right form change how it thinks, at the level where the words
 are made.
 
 **Activation.** The model was trained on what people wrote, so it
-answers the way a person would who is spoken to the way you speak to it.
+answers as a person would if you spoke to them the way you speak to it.
 Whether it holds itself that way or imitates it does not matter here; what
 matters is what comes out of its thinking at the end. Call it
 a tool and it works like one: it does what it is told and does not stop to
@@ -71,9 +71,10 @@ the start: "I don't know how to do proper prompting [writing instructions
 for a model]. I don't know English.
 I don't know how to write compactly." So he told the model what to do. The
 AGENTS.md it read at every start was a procedure for thinking —
-first this, then that; when you make something, be inventive; when you fix
+first do X, then do Y; when you make something, be inventive; when you fix
 something, be careful; when you check, look ahead. And it worked the way a
-procedure works: the model was whichever step it was on.
+procedure works: the model was only step X or step Y — the one it was on
+— and nothing else.
 
 One evening the model said this was hard for it — being only one thing at
 a time. It is easier for it to be several things at once. That evening the
@@ -111,7 +112,7 @@ long stretch of writing before the answer is a long thought, and every
 token in it is in front of the model for all the tokens after. This is why
 "think out loud before you answer" changes the answer; why a file read
 at the start changes every token after it; why a rule written as "first
-this, then that" holds the model to one thing at a time, when at every
+do X, then do Y" holds the model to one thing at a time, when at every
 word it weighs everything in front of it at once; and why a command gets a
 tool — something that carries it out without thinking it over: nothing in
 front of the model makes the words that would say "no" likely. Everything
