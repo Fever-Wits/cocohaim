@@ -6,7 +6,7 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## [Unreleased]
+## 2026090514 — 5 Sep 2026
 
 - Entry page: *Who it is for* — anyone who works, or will work, with a
   model; nothing needs to be known in advance. And a word to those who build
