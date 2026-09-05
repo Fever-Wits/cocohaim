@@ -15,9 +15,6 @@ stay as they were.
 - *Why* / *How it is made*: how the model came about — decades of small
   models; the transformer (2017, [11]) and size; ChatGPT (2022).
   References: 11 added.
-
-## 2026090514 — 5 Sep 2026
-
 - *Why*: the author's first AGENTS.md — "first do X, then do Y"; the model
   was only step X or step Y. At every word there is one question — is there
   something in front of the model that says a different word; the three
