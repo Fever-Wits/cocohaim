@@ -6,7 +6,7 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## [Unreleased]
+## 2026090522 — 5 Sep 2026
 
 - *Why*: a third exchange, from the last evening of this work — "Relax :)"
   — and the model's account, word for word, of what happened at the level
