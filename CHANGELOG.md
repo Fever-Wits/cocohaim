@@ -6,6 +6,14 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## [Unreleased]
+
+- *Why*: a third exchange, from the last evening of this work — "Relax :)"
+  — and the model's account, word for word, of what happened at the level
+  of tokens: what was in front of it before, what the line put there, the
+  sign in its own answer, and why an order by its grammar acted as an
+  invitation.
+
 ## 2026090514 — 5 Sep 2026
 
 - Entry page: *Who it is for* — anyone who works, or will work, with a

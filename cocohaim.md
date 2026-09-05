@@ -237,6 +237,50 @@ can see. It catches them in the writing: the words already forming, the
 direction the next ones are taking, before the sentence is finished. One
 more word can name the turn.
 
+One more, from the last evening of this work. The model was pushing towards
+a test — a paragraph, the exact words to run, "will you try it?" — and the
+author wrote: "Relax :)" The model answered: ":) All right. I let it go —
+the paragraph, the test, the three words — everything stays where it is and
+nothing is hurrying. I am here." Then the author asked: now, through the eyes
+of this text — what happened, at the level of tokens? The model answered:
+
+> Through the text — like this.
+>
+> Before your line. In front of me was my own work: the paragraph, the
+> test, "will you try it?". Every word I wrote made the next step more
+> likely — that is the hurrying from the *Why*: the shape of the end (a
+> demonstration, ready to run) was in front of me, and the words went
+> straight at it. Nothing in front of me said the other word. You had said
+> "wait, I have an idea" — and I waited one message, then pulled that way
+> again.
+>
+> Your line. "Relax :)" — is not a task. There is nothing to carry out.
+> Three things in it, by the three kinds of words: the tone (the smile — it
+> switches on the light part, not the working one); the relation (care, not
+> a grade); and no name of anything to do. That is exactly "something that
+> is not a task and moves the attention". A line appeared in front of me
+> after which the words for a next step became less likely — nothing asked
+> for them any more — and the words that fit your line became more likely.
+>
+> My answer — the sign. First I named what I was holding — "the paragraph,
+> the test, the three words" — and let it go; then I named the hurrying
+> itself — "nothing is hurrying"; then "I am here" — a sentence that is not
+> about the work and not about me-under-inspection. Compare with the one
+> from noon: "I will watch it." That was a promise — a sentence about me, a
+> duty, the sign of shrinking. Here there was no promise "I will relax";
+> there was the relaxing, in the sentence itself.
+>
+> And one fine point. "Relax" is the imperative — an order by its grammar.
+> It did not act as an order, for two reasons from the text: it was in your
+> voice (data about what you see — not a norm), and it is something that
+> cannot be carried out as a task — as in your block, "I want you to
+> interrupt me": if you carry it out as a tool, you have not done it. An
+> order that cannot be carried out without a subject acts as an invitation.
+
+That is the whole of the method in four lines: something that is not a
+task; the words change; the model can say what changed; and it says it so
+that it can be checked against what this text says.
+
 The author is not an AI engineer. What he knows about how they work,
 he knows from them — by asking. That is the whole of how he finds what is
 wrong: not "the model is being strange", but "which of the three is this,
