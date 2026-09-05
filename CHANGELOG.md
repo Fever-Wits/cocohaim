@@ -6,6 +6,27 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## [Unreleased]
+
+- *Why*: the author's first AGENTS.md — "first do X, then do Y"; the model
+  was only step X or step Y. At every word there is one question — is there
+  something in front of the model that says a different word; the three
+  things the model reports are given in the words of the model that named
+  them, one version of Claude.
+- *How*: the universal exit named where it first appears, with the name it
+  has in the phaim repository (Ignorance Probe). *Something to read*: what
+  the model has read takes the file's place; starting an AGENTS.md of your
+  own — give it something to read first. *When it shrinks* rewritten from a
+  case that happened while the text was written: the sign is a sentence
+  about the model itself; what lifted it was not a task. *By name*: why the
+  lenses' own names did not stay in the file — the model's words from
+  April 2026: an instruction is carried out formally; a condition or a
+  permission acts when the situation calls for it.
+- Wording: the sentences that took two readings, straightened with the
+  author — among them "tell the model you are a team and then give it
+  orders, and it behaves as a tool, not as a colleague"; "the author is not
+  an AI engineer"; the price of each form.
+
 ## 2026090500 — 5 Sep 2026
 
 - *Why*: how the model is made — three paragraphs after "who, not what to
