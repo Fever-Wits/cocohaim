@@ -570,9 +570,9 @@ a file that has worked, one line at a time.
 
 Two honest things before you start. The method costs you something: what
 comes back from an invitation has to be read, argued with, sometimes
-conceded to — it spends your attention, not only the model's. Give the
-model the team and then act as its boss, and it learns the second, not the
-first. And it is not for every job. A one-off task with a fully specified
+conceded to — it spends your attention, not only the model's. Tell the
+model you are a team and then give it orders, and it behaves as a tool — it
+carries out, without thinking it over — not as a colleague who discusses. And it is not for every job. A one-off task with a fully specified
 answer, a job where doing the same thing every time is the point — there,
 an order is the
 right tool. Ordering is not a sin. It is a different tool, for different
