@@ -319,9 +319,16 @@ them; and what a model has read is in front of it for everything after.
 The exit, the cold eye — a model reading a text as someone else's — and
 the others it read: they are part of how it thinks for the rest of the
 conversation, without any AGENTS.md at
-the start. This is the AGENTS.md for a chat that has none: you cannot give
-the model a file when it starts, but you can give it one to read. Then the
+the start. In a chat with no AGENTS.md, what it has read from the
+repository takes the file's place: you cannot give the model a file when it
+starts, but you can give it one to read. Then the
 author asks what it wants to say. From there, the model speaks for itself.
+The same holds when you start an AGENTS.md of your own. The model has
+nothing to stand on yet; until it has read something, what comes out is the
+usual — what its training gives. So the first thing is to give it something
+to read — so that its training is not all it has to stand on. The author
+gives it the same repository: it is about how to be a team with the model,
+not how the model is a tool.
 
 **When it gets something wrong.** The author does not correct it first. He
 first finds out why. An error can come from three places: from what the
