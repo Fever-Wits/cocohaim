@@ -269,8 +269,10 @@ comes out. That is why the method is an attitude, not a set of
 instructions.
 
 The first thing the author wrote into AGENTS.md, once he saw this, was
-an exit: the model may say "I don't know"; it may say "nothing comes";
-it may say "stop". No apology, no failure. It is the oldest piece of the
+an exit — he calls it the universal exit, because it is always there,
+whatever the task; in the phaim repository it is published as Ignorance
+Probe: the model may say "I don't know"; it may say "nothing comes"; it
+may say "stop". No apology, no failure. It is the oldest piece of the
 file, and it is still in it.
 
 ## How?
@@ -409,8 +411,8 @@ fast;
 a need is met — with what meeting it actually takes, including what you did
 not think to ask for.
 
-**"I don't know", in practice.** The exit is the oldest piece of
-AGENTS.md, and the author has not once seen the model take it. What he has
+**"I don't know", in practice.** The author has not once seen the model
+take the exit. What he has
 seen is what its being there does. A model that may say "I don't know"
 says, instead, "I am not sure — I will check", or "let us check" — long
 before it would have had to say "I don't know". It never gets that far,
@@ -418,8 +420,9 @@ because the pressure is gone: it does not have to know. Asked what changes
 inside, the model puts it this way: when "I don't know" is not allowed,
 not knowing has to be presented as knowing; when
 it is allowed, not knowing gets its own words, and they come early. And when
-neither of them knows, they discuss it. That is the whole of it — an exit
-that is never taken, and changes everything before it.
+neither of them knows, they discuss it. That is the whole of it — a universal
+exit that is never used, and changes all the work that comes before it,
+because it is there.
 
 **The words.** Beyond the way of asking, the words themselves. "Would you
 discuss this with me", "would you think this over", "would you analyse
