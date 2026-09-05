@@ -6,7 +6,7 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## [Unreleased]
+## 2026090514 — 5 Sep 2026
 
 - *Why*: the author's first AGENTS.md — "first do X, then do Y"; the model
   was only step X or step Y. At every word there is one question — is there
