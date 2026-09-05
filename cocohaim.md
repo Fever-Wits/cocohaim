@@ -461,7 +461,7 @@ attention for everything else. "We" says it is a team. "This way"
 describes a practice, not an order. The model itself, asked early on how
 rules should be written, said so: the positive form over the prohibition.
 Prohibitions have one place — the few rules that must not bend, where no
-choice is allowed at all. Those are written as commands, counted, and
+choice is allowed at all. Those are written as commands, few in number, and
 marked, so that they stand out from everything around them. Three such
 lines are absolute; with thirty, none of them stands out.
 
@@ -514,7 +514,7 @@ it. That is what the form is for now: not to decide between two near-equal
 words, but to make what is written present instead of proposed. The forms
 are in the
 [patterns](patterns/README.md) folder — one file each, with a real example
-and what each one costs.
+and the price of each — what you give up by using it.
 
 **By name.** The lenses began as names. A lens in AGENTS.md has a name in brackets, and the name is
 enough: said in the conversation, it brings the whole piece back in front
