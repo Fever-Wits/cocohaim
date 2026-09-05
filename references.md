@@ -51,3 +51,7 @@ original.
     know" earns the same as a wrong answer — zero — so training and evaluation
     reward a confident guess over an admitted gap.
     https://arxiv.org/abs/2509.04664
+11. **Vaswani et al. (2017)** — "Attention Is All You Need," arXiv:1706.03762
+    (June 2017). The paper that introduced the transformer — the way of
+    building a model that every large language model since is built on.
+    https://arxiv.org/abs/1706.03762

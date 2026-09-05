@@ -129,7 +129,12 @@ That is why the method writes down who, not what to do first.
 
 **How it is made.** The words above — token, training, weights — are the
 ones the field uses, so they are worth knowing by name; with them you can
-look things up. A model is made in two stages. First, a very large amount
+look things up. Models that guess the next word are not new; they have
+existed for decades, small and of little use. Two things changed. In 2017 a
+new way of building them was published — the transformer [11] — and with it
+came size: models trained on most of what is written on the web. In 2022
+one was put behind a chat window — ChatGPT — and that is when most people
+met one. A model is made in two stages. First, a very large amount
 of text — books, web pages, code — is cut into tokens. A token is a short
 word, or a piece of a longer one: "cat" is one token; "cocohaim" is three —
 one model cuts it as *coc · oh · aim*, another as *coco · ha · im*. The
