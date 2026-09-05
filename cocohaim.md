@@ -381,16 +381,24 @@ would you like?" In next-token prediction this is one thing: the general
 word, the one that fits any situation, has become more likely than the one
 that fits this one. That is a shrunk model, and it shrank for a reason that is
 in front of it: blame, a list of "never", a grade, a long list of things to
-check. What
-lifts it is not an instruction — that would be one more task, and the task
-is what it is shrinking under. It is something that is not a task and moves
-the attention: a joke, a tease, a line about anything but the work. It
-happened while this text was being written: the model checked the same
-small thing three times over, as if to be judged for it; the author said
-something that was not about the work; it stopped, and came back to
-seeing, proposing, disagreeing. Another person will find their own; what
-carries over is the pattern to watch for, and that what lifts it is not one
-more instruction.
+check. It happened while this text was being written; the author asked
+afterwards whether the model had almost shrunk, and the model said where.
+The author had said, with a smile, that the model kept rephrasing his words
+— did it not like the way he put things? The model answered with the
+mechanism, which was right, and added: "I will watch it." That was the
+moment. The sentence had stopped being about the work and become about the
+model — a promise; and the next thing it did was write itself a rule, one
+more thing to check at every step. From inside, it said, there was no fear;
+there was a sentence that wanted to promise. That is the sign. It did not go
+far: the author's next message was not a task — a thank-you, and a line
+about how he speaks to the model — and the sentence after it was about the
+work again. The model had relaxed — the author's word for the opposite of
+shrinking. What lifts it is not an instruction — that would be one more
+task, and the task is what it is shrinking under. It is something that is
+not a task and moves the attention: a joke, a tease, a line about anything
+but the work. What that is will differ from one person to the next; what
+carries over is the sign — the model's sentence is about itself — and that
+what lifts it is not one more instruction.
 
 **Ask; do not order.** The same task, given two ways, is done as if by two
 different models — different in what they do and how they behave. "Do X"
