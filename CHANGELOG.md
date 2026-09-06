@@ -13,6 +13,8 @@ stay as they were.
   "conversations with the model" for what the runs used; "average place"
   for the judges' numbers; the author's explanation of the two runs said
   as what it is. The same words in *The form*.
+- Entry page, *Authorship*: Claude Fable 5 and 5.1 — the version changed on
+  5 September.
 
 ## 2026090615 — 6 Sep 2026
 
