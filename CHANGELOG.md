@@ -6,6 +6,17 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## [Unreleased]
+
+- `tests/`: claim 4 — prose offers; a graph activates. Two runs from June
+  2026 with blind judges (one method in four forms; one lens in four forms),
+  the numbers as they are.
+- *How* / *The form*: the measurement pointed to; the author's reading —
+  prose explains, the graph is there at every word; one without the other
+  does not hold — and the running example: the model that wrote this text,
+  trained to please, argues with him, because what pleases him is written
+  in front of it, in his words and as a graph.
+
 ## 2026090522 — 5 Sep 2026
 
 - *Why*: a third exchange, from the last evening of this work — "Relax :)"

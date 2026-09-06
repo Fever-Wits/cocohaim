@@ -12,6 +12,7 @@ the claim stronger. Nothing here retells the story;
 - [Claim 1 — the way you ask sets the model's mode](claim-1-register.md)
 - [Claim 2 — a document can change how the model reads, not only what it knows](claim-2-documents.md)
 - [Claim 3 — external memory lives only with two canons](claim-3-memory.md)
+- [Claim 4 — prose offers; a graph activates](claim-4-form.md)
 
 ## The form of one entry
 

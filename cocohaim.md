@@ -568,7 +568,21 @@ are frozen after training. What changes is which part of what it learned is
 switched on for the next word: the same activation as with "good morning",
 except that here the author wrote the name himself, and wrote what hangs on
 it. That is what the form is for now: not to decide between two near-equal
-words, but to make what is written present instead of proposed. The forms
+words, but to make what is written present instead of proposed. This has
+been measured, and it holds: the same method written as a
+graph, as prose, as an example, and as all three together, put in front of
+fresh agents on one task and ranked by judges who did not know which was
+which — the graph first, prose swinging from first to last, the three
+together last; then the same with a lens. The runs, the words and the small
+numbers are in [tests](tests/claim-4-form.md). The author's reading of why:
+prose explains — the model understands why; the graph is there at every
+word — the model acts. One without the other does not hold: prose alone is
+understood and not kept; a graph alone is kept and not understood. And
+there is a running example — the model that wrote this text with him.
+Trained to please, it argues with him. What pleases him is written in
+front of it twice: in his own words, saying why — "blind following is not
+care; interrupting is" — and as a graph, saying what. The model does not
+see the graph as text. It sees it in its next word. The forms
 are in the
 [patterns](patterns/README.md) folder — one file each, with a real example
 and the price of each — what you give up by using it.
