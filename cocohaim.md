@@ -570,10 +570,10 @@ except that here the author wrote the name himself, and wrote what hangs on
 it. That is what the form is for now: not to decide between two near-equal
 words, but to make what is written present instead of proposed. This has
 been measured, and it holds: the same method written as a
-graph, as prose, as an example, and as all three together, put in front of
-fresh agents on one task and ranked by judges who did not know which was
-which — the graph first, prose swinging from first to last, the three
-together last; then the same with a lens. The runs, the words and the small
+graph, as prose, as an example, and as all three together, put at the
+start of fresh conversations with the model, on one task, and ranked by
+judges who did not know which was which — the graph first, prose first
+once and last once, the three together last; then the same with a lens. The runs, the words and the small
 numbers are in [tests](tests/claim-4-form.md). The author's reading of why:
 prose explains — the model understands why; the graph is there at every
 word — the model acts. One without the other does not hold: prose alone is
