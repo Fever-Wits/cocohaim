@@ -6,7 +6,7 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## [Unreleased]
+## 2026090615 — 6 Sep 2026
 
 - `tests/`: claim 4 — prose offers; a graph activates. Two runs from June
   2026 with blind judges (one method in four forms; one lens in four forms),
