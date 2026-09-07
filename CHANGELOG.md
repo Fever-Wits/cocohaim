@@ -6,6 +6,12 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## Unreleased
+
+- `patterns/handle-with-care.md` — one sentence that marks the work as
+  fragile before it begins; first entry of the leading-words family
+  (the words that shape the work), named with the author on 7 Sep 2026.
+
 ## 2026090616 — 6 Sep 2026
 
 - `tests/claim-4-form.md` rewritten in plain sentences after the author's

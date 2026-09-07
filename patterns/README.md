@@ -23,6 +23,8 @@ give it a memory it will use. Nothing here retells the story;
   the model reads every time, and what should stay out
 - [hard-canons](hard-canons.md) — the few rules where no choice is allowed,
   and how to write them so they hold
+- [handle-with-care](handle-with-care.md) — one sentence that marks the work
+  as fragile before it begins
 
 ## The form of one entry
 
