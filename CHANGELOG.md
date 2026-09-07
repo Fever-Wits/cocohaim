@@ -6,6 +6,12 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
+## 2026090723 — 7 Sep 2026
+
+- `patterns/handle-with-care.md`: "The word: 'delicate' — why it works, and
+  what it does" — the word named and its mechanism stated in plain terms,
+  at the author's ask; the wording made technical after his read-through.
+
 ## 2026090722 — 7 Sep 2026
 
 - `patterns/handle-with-care.md` — one sentence that marks the work as

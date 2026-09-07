@@ -24,6 +24,18 @@ against the list, and against nothing else. One sentence naming the work as
 delicate puts care in front of it — and the care colors every step after,
 including the ones no list would have covered.
 
+**The word: "delicate" — why it works, and what it does.** In next-token
+prediction, a word raises the probability of the words that usually appear
+around it in the training data. "Delicate" appears mostly in texts about
+careful work — surgery, glass, precision instruments, negotiation — so with
+it in front of the model, words like *check*, *confirm*, *first*, *gently*
+become more likely in everything that follows. "Dangerous" appears among
+warnings and accidents — it raises alarm words and refusals. "Be careful!"
+is an instruction about the model's behaviour; "delicate" states a property
+of the work, and the model matches its output to that property. The effect
+holds for the whole task, because the word stays in front of the model at
+every next word.
+
 **Cost, and when not**
 
 - **It must be true.** Mark trivial work as delicate and the word wears out.
