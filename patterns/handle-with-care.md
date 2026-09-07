@@ -21,14 +21,14 @@ memory was never touched outside the safe paths.
 **Why it works** — the model shapes what it does from what stands in front
 of it. A list of warnings puts fear in front of it: it starts guarding
 against the list, and against nothing else. One sentence naming the work as
-delicate puts care in front of it — and the care colors every step after,
-including the ones no list would have covered.
+delicate puts care in front of it — and the care carries into every step
+after, including the ones no list would have covered.
 
 **The word: "delicate" — why it works, and what it does.** In next-token
 prediction, a word raises the probability of the words that usually appear
 around it in the training data. "Delicate" appears mostly in texts about
 careful work — surgery, glass, precision instruments, negotiation — so with
-it in front of the model, words like *check*, *confirm*, *first*, *gently*
+it in front of the model, words like "check", "confirm", "first", "gently"
 become more likely in everything that follows. "Dangerous" appears among
 warnings and accidents — it raises alarm words and refusals. "Be careful!"
 is an instruction about the model's behaviour; "delicate" states a property
