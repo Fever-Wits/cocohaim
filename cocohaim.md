@@ -494,6 +494,14 @@ as examiner. The method, in the end, is this: an attitude, and knowing what
 your words do to the model — in both. A person who knows that does
 not need many words. They need the right ones.
 
+**The leading words.** Some words carry more than their sentence. Said at
+the right moment, one of them shapes how the model handles everything that
+follows — "and here comes the delicate part" before fragile work, "take
+your time, I will guide you" at the start. Each such word has its own use,
+its own moment, and its own cost when overused; they are collected one by
+one in [patterns/](patterns/README.md), beginning with
+[handle-with-care](patterns/handle-with-care.md).
+
 ### AGENTS.md
 
 Where the model reads a file every time it starts — the command line is one

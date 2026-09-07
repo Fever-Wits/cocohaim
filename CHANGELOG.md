@@ -11,6 +11,8 @@ stay as they were.
 - `patterns/handle-with-care.md` — one sentence that marks the work as
   fragile before it begins; first entry of the leading-words family
   (the words that shape the work), named with the author on 7 Sep 2026.
+- *How* / *How you speak*: "The leading words" — some words carry more than
+  their sentence; the family named in the spine, pointing to `patterns/`.
 
 ## 2026090616 — 6 Sep 2026
 
