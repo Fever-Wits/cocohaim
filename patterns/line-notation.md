@@ -68,5 +68,5 @@ this is its context-document member.
   vocabulary must be versioned once, not re-invented per file.
 
 **Related** — [graph-block](graph-block.md) (the same graph, one dimension up) ·
-[legend](legend.md) (what trains the reader) · [always-loaded-diet](always-loaded-diet.md)
+[legend](legend.md) (what trains the reader) · [always-loaded](always-loaded.md)
 (compactness is the point of the row).

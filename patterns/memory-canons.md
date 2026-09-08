@@ -45,7 +45,7 @@ they are written in the activating forms of this method, not as policy prose.
 **Cost, and when not**
 
 - The canons live in always-loaded space → they compete with everything else
-  there (→ always-loaded-diet). Keep the canon short; keep the mechanics in
+  there (→ always-loaded). Keep the canon short; keep the mechanics in
   reachable depth.
 - Over-proceduralized canons reproduce the excessive-procedure failure:
   a checklist the model walks *instead of* thinking.
@@ -54,6 +54,6 @@ they are written in the activating forms of this method, not as policy prose.
 
 **Related** — [cocohaim.md, "The document"](../cocohaim.md#the-document) (the
 ownership framing, under "The memory") ·
-[always-loaded-diet](always-loaded-diet.md) (where the canons live) ·
+[always-loaded](always-loaded.md) (where the canons live) ·
 [registers](registers.md) (a canon can invite: "before you write, ask what already
 knows this") · [line-notation](line-notation.md) (the loop above is one).

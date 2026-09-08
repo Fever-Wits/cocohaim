@@ -1,4 +1,4 @@
-# always-loaded-diet
+# always-loaded
 
 **When to reach for it** — the context file grows. Concretely: every time a line is about
 to enter it "just in case".
@@ -32,17 +32,17 @@ legend), not by volume.
 **Why it works** — attention is a budget: every always-loaded token competes with every
 other for the model's recall at the moment it matters. The whole expressive
 layer of this method — graph blocks, line notation, the legend — exists to
-spend fewer tokens per unit of activation. The diet is not an accessory to
-the language; it is the pressure that shaped it.
+spend fewer tokens per unit of activation. Keeping it short is not an
+accessory to the language; it is the pressure that shaped it.
 
 **Cost, and when not**
 
-- The diet is not minimalism for its own sake — a load-bearing line stays even
+- This is not minimalism for its own sake — a load-bearing line stays even
   if it is long; the removal test protects it.
-- Applied with the wrong knife (SHRUNK instead of TIGHT) the diet kills the
+- Applied with the wrong knife (SHRUNK instead of TIGHT) it kills the
   very structure that activates.
-- One-off prompts need no diet — the budget matters where text is loaded on
-  every step of every session.
+- One-off prompts do not need this — the budget matters where text is loaded
+  on every step of every session.
 
 **Related** — [graph-block](graph-block.md) · [line-notation](line-notation.md) (the
 compression forms) · [legend](legend.md) (entries earn their place) ·

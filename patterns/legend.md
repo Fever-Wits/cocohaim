@@ -64,5 +64,5 @@ reaches; without it, every graph and every row degrades to typography.
 
 **Related** — [graph-block](graph-block.md) (where the edges live in 2D) ·
 [line-notation](line-notation.md) (the trained-reader form the legend enables) ·
-[always-loaded-diet](always-loaded-diet.md) (why entries must earn their place) ·
+[always-loaded](always-loaded.md) (why entries must earn their place) ·
 [hard-canons](hard-canons.md) (⚠ as the one glyph that marks a no-fork zone).

@@ -64,4 +64,4 @@ naming activates; the graph tells the names how they connect.
 
 **Related** — [line-notation](line-notation.md) (the same graph flattened into one row) ·
 [legend](legend.md) · [addressing-the-reader](addressing-the-reader.md) (what the nodes
-land on) · [always-loaded-diet](always-loaded-diet.md) (what keeps the block short).
+land on) · [always-loaded](always-loaded.md) (what keeps the block short).

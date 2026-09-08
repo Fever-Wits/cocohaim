@@ -46,5 +46,5 @@ register. The invitation-document is what makes its hard canons hard.
   it is a decision, and decisions live in the conversing register.
 
 **Related** — [registers](registers.md) (the contrast that powers this) ·
-[legend](legend.md) (⚠, scoped) · [always-loaded-diet](always-loaded-diet.md)
+[legend](legend.md) (⚠, scoped) · [always-loaded](always-loaded.md)
 (the budget that keeps the list short).

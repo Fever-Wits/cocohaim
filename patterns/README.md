@@ -19,7 +19,7 @@ give it a memory it will use. Nothing here retells the story;
   "you", not describing it as "the assistant"
 - [memory-canons](memory-canons.md) — the two rules that make an external
   memory alive: how it is kept, and when it is used
-- [always-loaded-diet](always-loaded-diet.md) — what belongs in the document
+- [always-loaded](always-loaded.md) — what belongs in the document
   the model reads every time, and what should stay out
 - [hard-canons](hard-canons.md) — the few rules where no choice is allowed,
   and how to write them so they hold
