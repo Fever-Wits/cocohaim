@@ -35,7 +35,7 @@ this repository, not the method.
 
 ## Status
 
-**Version 2026090723** — [changelog](CHANGELOG.md); the version is the date
+**Version 2026090812** — [changelog](CHANGELOG.md); the version is the date
 and hour the text was published. Published while it grows.
 
 ## Authorship

@@ -6,7 +6,7 @@ the text is published, not before; what is in the repository and not yet out
 sits under *Unreleased*. The first four versions were numbered 0.1–0.4 and
 stay as they were.
 
-## Unreleased
+## 2026090812 — 8 Sep 2026
 
 - `always-loaded-diet` renamed to `always-loaded` — an image replaced by the
   thing's name; the word is gone from the entry and from every link to it.
